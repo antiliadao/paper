@@ -18,7 +18,10 @@ import DefaultTheme from 'vitepress/theme'
 import CustomHome from './components/CustomHome.vue'
 
 const route = useRoute()
-const isHomePage = computed(() => route.path === '/')
+const isHomePage = computed(() => {
+  // 检查是否是首页，兼容 base 路径配置
+  return route.path === '/' || route.path === '/paper/' || route.path === '/paper'
+})
 </script>
 
 <style scoped>

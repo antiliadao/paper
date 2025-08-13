@@ -47,7 +47,7 @@
           </blockquote>
           
           <div class="hero-actions">
-            <a href="/preface" class="btn btn-primary">
+            <a href="/paper/preface" class="btn btn-primary">
               <span>进入白皮书</span>
             </a>
           </div>
