@@ -60,13 +60,6 @@ export default {
       copyright: 'Copyright © 2024 蚂蚁家园'
     },
     
-    lastUpdated: {
-      text: '最后更新',
-      formatOptions: {
-        dateStyle: 'medium',
-        timeStyle: 'short'
-      }
-    },
     
     // 搜索配置
     search: {
