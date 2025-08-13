@@ -8,6 +8,16 @@ export default {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#059669' }],
+    ['script', {}, `
+      // 设置默认暗色主题
+      (function() {
+        const stored = localStorage.getItem('vitepress-theme-appearance');
+        if (!stored) {
+          localStorage.setItem('vitepress-theme-appearance', 'dark');
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    `],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
     ['link', { 
