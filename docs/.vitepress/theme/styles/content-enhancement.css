@@ -1,0 +1,413 @@
+/**
+ * 内容页视觉增强
+ * 优化阅读体验和品牌识别度
+ */
+
+/* ============================================
+   1. 标题系统 - 层次分明的视觉体系
+   ============================================ */
+
+/* H1 - 页面主标题 */
+.vp-doc h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  background: linear-gradient(135deg, #059669, #10b981);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  position: relative;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+/* H1 下方装饰线 */
+.vp-doc h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, #059669, transparent);
+  border-radius: 2px;
+}
+
+/* H2 - 主要章节标题 */
+.vp-doc h2 {
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  position: relative;
+  padding-left: 16px;
+}
+
+/* H2 左侧装饰条 */
+.vp-doc h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 1.2em;
+  background: var(--vp-c-brand-1);
+  border-radius: 2px;
+}
+
+/* H3 - 子章节标题 */
+.vp-doc h3 {
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  border-bottom: 2px solid var(--vp-c-brand-soft);
+  padding-bottom: 0.2em;
+  display: inline-block;
+}
+
+/* ============================================
+   2. 表格美化 - 清晰的数据展示
+   ============================================ */
+
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  border: 1px solid var(--vp-c-border);
+}
+
+/* 表头 */
+.vp-doc thead tr {
+  background: linear-gradient(135deg, #059669, #10b981);
+}
+
+.vp-doc th {
+  color: white !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+  padding: 12px 16px;
+}
+
+/* 表格行悬浮效果 */
+.vp-doc tbody tr {
+  transition: background-color 0.2s ease;
+  border-bottom: 1px solid var(--vp-c-border);
+}
+
+.vp-doc tbody tr:hover {
+  background-color: var(--vp-c-brand-soft);
+}
+
+/* 斑马纹 */
+.vp-doc tbody tr:nth-child(even) {
+  background-color: rgba(5, 150, 105, 0.02);
+}
+
+/* 表格单元格 */
+.vp-doc td {
+  padding: 12px 16px;
+}
+
+/* ============================================
+   3. 强调文本 - 突出重点
+   ============================================ */
+
+/* 加粗文本 - 品牌色 */
+.vp-doc strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+/* 斜体 - 略微突出 */
+.vp-doc em {
+  color: var(--vp-c-brand-2);
+  font-style: italic;
+}
+
+/* 行内代码 */
+.vp-doc code {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 500;
+  border: 1px solid rgba(5, 150, 105, 0.2);
+}
+
+/* ============================================
+   4. 引用块 - 优雅的引用样式
+   ============================================ */
+
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: linear-gradient(90deg, var(--vp-c-brand-soft), transparent);
+  padding: 16px 20px;
+  margin: 24px 0;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+  font-style: italic;
+}
+
+/* 引用符号 */
+.vp-doc blockquote::before {
+  content: '"';
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  font-size: 48px;
+  color: var(--vp-c-brand-1);
+  opacity: 0.2;
+  font-family: serif;
+}
+
+/* ============================================
+   5. 列表美化 - 结构化信息
+   ============================================ */
+
+/* 无序列表 - 品牌色圆点 */
+.vp-doc ul li::marker {
+  color: var(--vp-c-brand-1);
+}
+
+/* 有序列表 - 品牌色数字 */
+.vp-doc ol li::marker {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+/* 列表项悬浮效果 */
+.vp-doc li {
+  transition: padding-left 0.2s ease;
+}
+
+.vp-doc li:hover {
+  padding-left: 4px;
+}
+
+/* ============================================
+   6. 自定义容器 - 信息分类展示
+   ============================================ */
+
+/* Tip容器 - 提示信息 */
+.custom-block.tip {
+  border-radius: 8px;
+  padding: 16px;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), transparent);
+  border: 1px solid var(--vp-c-brand-1);
+  border-left-width: 4px;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Info容器 - 一般信息 */
+.custom-block.info {
+  border-radius: 8px;
+  padding: 16px;
+  background: linear-gradient(135deg, rgba(5, 150, 105, 0.05), transparent);
+  border: 1px solid var(--vp-c-brand-2);
+  border-left-width: 4px;
+}
+
+/* Warning容器 - 警告信息 */
+.custom-block.warning {
+  border-radius: 8px;
+  padding: 16px;
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), transparent);
+  border: 1px solid #f59e0b;
+  border-left-width: 4px;
+}
+
+/* Danger容器 - 危险警告 */
+.custom-block.danger {
+  border-radius: 8px;
+  padding: 16px;
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), transparent);
+  border: 1px solid #ef4444;
+  border-left-width: 4px;
+}
+
+/* 容器标题 */
+.custom-block-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ============================================
+   7. 分割线 - 优雅的内容分隔
+   ============================================ */
+
+.vp-doc hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--vp-c-brand-1), transparent);
+  margin: 32px 0;
+  position: relative;
+}
+
+/* 分割线中心装饰 */
+.vp-doc hr::after {
+  content: '◆';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--vp-c-bg);
+  color: var(--vp-c-brand-1);
+  padding: 0 16px;
+  font-size: 12px;
+}
+
+/* ============================================
+   8. 图片优化 - 专业的展示效果
+   ============================================ */
+
+.vp-doc img {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: block;
+  margin: 24px auto;
+}
+
+.vp-doc img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+}
+
+/* ============================================
+   9. 链接优化 - 优雅的交互
+   ============================================ */
+
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+/* 链接下划线动画 */
+.vp-doc a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--vp-c-brand-1);
+  transition: width 0.3s ease;
+}
+
+.vp-doc a:hover::after {
+  width: 100%;
+}
+
+/* 外部链接图标 */
+.vp-doc a[target="_blank"]::after {
+  content: ' ↗';
+  font-size: 0.8em;
+  vertical-align: super;
+  opacity: 0.6;
+}
+
+/* ============================================
+   10. 深色模式优化
+   ============================================ */
+
+html.dark .vp-doc h1 {
+  background: linear-gradient(135deg, #10b981, #34d399);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+html.dark .vp-doc h2 {
+  color: var(--vp-c-brand-1);
+}
+
+html.dark .vp-doc strong {
+  color: var(--vp-c-brand-1);
+}
+
+html.dark .vp-doc code {
+  background: rgba(5, 150, 105, 0.15);
+  color: var(--vp-c-brand-1);
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+html.dark .vp-doc table {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+html.dark .vp-doc thead tr {
+  background: linear-gradient(135deg, #047857, #059669);
+}
+
+html.dark .vp-doc tbody tr:nth-child(even) {
+  background-color: rgba(5, 150, 105, 0.05);
+}
+
+html.dark .vp-doc img {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* ============================================
+   11. 特殊效果 - 增强品牌感
+   ============================================ */
+
+/* 首字母大写装饰 */
+.vp-doc > p:first-of-type::first-letter {
+  font-size: 3em;
+  font-weight: 700;
+  float: left;
+  line-height: 1;
+  margin-right: 8px;
+  color: var(--vp-c-brand-1);
+  background: linear-gradient(135deg, #059669, #10b981);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 段落首行缩进 */
+.vp-doc p {
+  text-indent: 2em;
+  line-height: 1.8;
+}
+
+/* 重要段落标记 */
+.vp-doc p:has(strong:first-child) {
+  padding-left: 20px;
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: linear-gradient(90deg, var(--vp-c-brand-soft), transparent);
+  padding: 12px 20px;
+  border-radius: 0 8px 8px 0;
+  text-indent: 0;
+}
+
+/* ============================================
+   12. 响应式优化
+   ============================================ */
+
+@media (max-width: 768px) {
+  .vp-doc h1 {
+    font-size: 1.8em;
+  }
+  
+  .vp-doc h2 {
+    font-size: 1.4em;
+  }
+  
+  .vp-doc table {
+    font-size: 0.9em;
+  }
+  
+  .vp-doc th,
+  .vp-doc td {
+    padding: 8px;
+  }
+}

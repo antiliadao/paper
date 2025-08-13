@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* 自定义导航栏标题样式 - 最小化影响 */
+.VPNavBarTitle .title {
+  font-family: 'K2D', sans-serif !important;
+  font-weight: 700;
+  font-size: 1.3rem;
+  letter-spacing: 0.1em;
+  background: linear-gradient(135deg, #059669, #10b981);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 移除全局重置，避免破坏VitePress原生组件 */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'K2D', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* 隐藏默认首页，因为使用了CustomHome组件 */
+.VPHome {
+  display: none;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(5, 150, 105, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(5, 150, 105, 0.8);
+  }
+}

@@ -1,0 +1,80 @@
+/**
+ * 最小化样式覆盖
+ * 仅修改颜色和视觉效果，不改变布局和功能
+ */
+
+/* 品牌色覆盖 */
+:root {
+  --vp-c-brand-1: #059669;
+  --vp-c-brand-2: #047857;
+  --vp-c-brand-3: #065f46;
+  --vp-c-brand-soft: rgba(5, 150, 105, 0.1);
+}
+
+/* 深色模式品牌色调整 */
+html.dark {
+  --vp-c-brand-1: #10b981;
+  --vp-c-brand-2: #059669;
+  --vp-c-brand-3: #047857;
+}
+
+/* 仅美化标题渐变 */
+.VPNavBarTitle .title {
+  background: linear-gradient(135deg, #059669, #10b981);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Logo阴影效果 */
+.nav-logo {
+  filter: drop-shadow(0 0 10px rgba(5, 150, 105, 0.3));
+  transition: filter 0.3s ease;
+}
+
+.nav-logo:hover {
+  filter: drop-shadow(0 0 20px rgba(5, 150, 105, 0.5));
+}
+
+/* 链接颜色 */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+}
+
+/* 代码块顶部装饰条 */
+div[class*='language-']::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(135deg, #059669, #10b981);
+  border-radius: 8px 8px 0 0;
+}
+
+/* 激活的侧边栏项 */
+.VPSidebarItem.is-active > .item > .link > .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+/* 按钮悬浮效果 */
+.VPButton {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.VPButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 滚动条美化 - 仅颜色 */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #059669, #10b981);
+}
+
+/* 选择文本 */
+::selection {
+  background: rgba(5, 150, 105, 0.2);
+}

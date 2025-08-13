@@ -1,0 +1,481 @@
+/**
+ * 内容页简约增强
+ * 克制、专业、易读
+ */
+
+/* ============================================
+   1. 标题 - 简洁清晰
+   ============================================ */
+
+/* H1 - 大标题带分割线 */
+.vp-doc h1 {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--vp-c-divider);
+  margin-bottom: 1em;
+}
+
+/* H2 - 次级标题无分割线 */
+.vp-doc h2 {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  /* 确保没有边框 */
+  border: none;
+  border-bottom: none;
+}
+
+/* H3 - 小标题 */
+.vp-doc h3 {
+  color: var(--vp-c-text-2);
+  font-weight: 500;
+}
+
+/* ============================================
+   2. 表格 - 默认简洁样式（修复自适应）
+   ============================================ */
+
+/* 表格直接处理，不需要额外容器 */
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 24px 0;
+  border: 1px solid var(--vp-c-brand-lighter, var(--vp-c-divider));
+  border-radius: 8px;
+  overflow: visible; /* 改为visible避免内容被裁剪 */
+  table-layout: fixed; /* 使用固定布局，让列宽更可控 */
+  display: table; /* 确保使用表格布局 */
+  box-shadow: 0 1px 3px rgba(5, 150, 105, 0.05);
+}
+
+/* 响应式处理 - 保留圆角 */
+@media (max-width: 768px) {
+  .vp-doc table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    border-radius: 8px; /* 确保移动端也有圆角 */
+  }
+  
+  /* 移动端表头圆角 */
+  .vp-doc th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  .vp-doc th:last-child {
+    border-top-right-radius: 8px;
+  }
+}
+
+/* 表头 - 绿色背景 */
+.vp-doc th {
+  padding: 12px 16px;
+  font-weight: 600;
+  text-align: left;
+  background: #059669 !important;
+  border-bottom: 2px solid #059669;
+  color: white !important;
+}
+
+/* 深色模式表头 - 强制绿色 */
+html.dark .vp-doc th {
+  background: #059669 !important;
+  color: white !important;
+}
+
+/* 确保表头绿色生效 */
+.vp-doc thead {
+  background: transparent;
+}
+
+.vp-doc thead tr {
+  background: transparent;
+}
+
+/* 表格单元格 */
+.vp-doc td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--vp-c-divider-light);
+  color: var(--vp-c-text-1); /* 改为主文字颜色，更深 */
+  white-space: nowrap; /* 防止文字换行导致列宽异常 */
+  overflow: hidden;
+  text-overflow: ellipsis; /* 超长文本显示省略号 */
+}
+
+/* 允许特定列换行 */
+.vp-doc td:last-child {
+  white-space: normal; /* 最后一列允许换行 */
+  min-width: 200px;
+}
+
+/* 第一列加粗 */
+.vp-doc td:first-child {
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+/* 最后一行无底边框 */
+.vp-doc tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* 行悬浮效果 - 品牌色高亮 */
+.vp-doc tbody tr {
+  transition: background-color 0.25s;
+}
+
+.vp-doc tbody tr:hover {
+  background-color: rgba(5, 150, 105, 0.05);
+}
+
+/* 斑马纹 - 极淡的品牌色 */
+.vp-doc tbody tr:nth-child(even) {
+  background-color: rgba(5, 150, 105, 0.02);
+}
+
+/* 深色模式优化 */
+html.dark .vp-doc tbody tr:nth-child(even) {
+  background-color: rgba(5, 150, 105, 0.03);
+}
+
+html.dark .vp-doc tbody tr:hover {
+  background-color: rgba(5, 150, 105, 0.08);
+}
+
+/* ============================================
+   3. 强调文本 - 适度突出
+   ============================================ */
+
+/* 加粗 - 仅加深颜色 */
+.vp-doc strong {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+/* 行内代码 - 精致设计 */
+.vp-doc :not(pre) > code {
+  background: linear-gradient(135deg, 
+    rgba(5, 150, 105, 0.1), 
+    rgba(5, 150, 105, 0.05));
+  color: var(--vp-c-brand-1);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.88em;
+  font-weight: 500;
+  border: 1px solid rgba(5, 150, 105, 0.2);
+  margin: 0 2px;
+  display: inline-block;
+  line-height: 1.4;
+  transition: all 0.2s;
+}
+
+.vp-doc :not(pre) > code:hover {
+  background: rgba(5, 150, 105, 0.15);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(5, 150, 105, 0.2);
+}
+
+/* ============================================
+   4. 链接 - 简单下划线
+   ============================================ */
+
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.25s;
+}
+
+.vp-doc a:hover {
+  text-decoration-color: var(--vp-c-brand-1);
+}
+
+/* ============================================
+   5. 引用块 - 优雅设计
+   ============================================ */
+
+.vp-doc blockquote {
+  position: relative;
+  padding: 20px 24px 20px 48px;
+  margin: 24px 0;
+  color: var(--vp-c-text-2);
+  font-style: italic;
+  background: linear-gradient(135deg,
+    rgba(5, 150, 105, 0.05),
+    transparent);
+  border-left: 4px solid var(--vp-c-brand-1);
+  border-radius: 8px;
+}
+
+/* 引用符号装饰 */
+.vp-doc blockquote::before {
+  content: '"';
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  font-size: 2em;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  opacity: 0.3;
+  font-family: Georgia, serif;
+}
+
+/* ============================================
+   6. 代码块 - 现代终端风格
+   ============================================ */
+
+/* 代码块容器 */
+div[class*='language-'] {
+  position: relative;
+  margin: 24px 0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: linear-gradient(145deg, 
+    var(--vp-code-block-bg),
+    rgba(0, 0, 0, 0.05));
+  box-shadow: 
+    0 10px 30px -10px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(5, 150, 105, 0.1);
+}
+
+/* 移除语言标签，避免遮挡内容 */
+div[class*='language-']::before {
+  display: none;
+}
+
+/* 顶部装饰条 - 确保不遮挡内容 */
+div[class*='language-'] {
+  padding-top: 3px; /* 为顶部装饰条预留空间 */
+}
+
+div[class*='language-']::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg,
+    var(--vp-c-brand-1),
+    var(--vp-c-brand-2, #10b981),
+    var(--vp-c-brand-1));
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; }
+}
+
+/* 代码块内容区域 - 确保内容不被遮挡 */
+div[class*='language-'] pre {
+  margin: 0;
+  padding: 20px 24px;
+  overflow-x: auto;
+  background: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+/* 代码行号样式 */
+div[class*='language-'].line-numbers-mode pre {
+  padding-left: 60px;
+}
+
+.line-numbers-wrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  padding: 20px 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.1);
+  border-right: 1px solid var(--vp-c-divider-light);
+  font-size: 0.85em;
+  color: var(--vp-c-text-3);
+}
+
+/* 代码高亮行 */
+div[class*='language-'] .highlighted {
+  background: linear-gradient(90deg,
+    rgba(5, 150, 105, 0.15),
+    rgba(5, 150, 105, 0.05));
+  display: block;
+  margin: 0 -24px;
+  padding: 0 24px;
+  border-left: 3px solid var(--vp-c-brand-1);
+}
+
+/* 复制按钮美化 - 确保不遮挡内容 */
+div[class*='language-'] button.copy {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(5, 150, 105, 0.1);
+  border: 1px solid var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 0.8em;
+  transition: all 0.3s;
+  z-index: 2;
+}
+
+div[class*='language-'] button.copy:hover {
+  background: var(--vp-c-brand-1);
+  color: white;
+  /* 移除放大效果 */
+  box-shadow: 0 2px 4px rgba(5, 150, 105, 0.3);
+}
+
+/* 深色模式优化 */
+html.dark div[class*='language-'] {
+  background: linear-gradient(145deg, 
+    var(--vp-code-block-bg),
+    rgba(255, 255, 255, 0.02));
+  border-color: rgba(5, 150, 105, 0.2);
+}
+
+html.dark .line-numbers-wrapper {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* ============================================
+   7. 自定义容器 - 优化版
+   ============================================ */
+
+.custom-block {
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 24px 0;
+  position: relative;
+}
+
+/* Tip容器 - 用于情感契约 */
+.custom-block.tip {
+  background: linear-gradient(to right, rgba(5, 150, 105, 0.05), transparent);
+  border: 1px solid rgba(5, 150, 105, 0.2);
+  border-left: 3px solid var(--vp-c-brand-1);
+}
+
+.custom-block.tip .custom-block-title {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-size: 0.95em;
+}
+
+/* Info容器 - 用于理性契约 */
+.custom-block.info {
+  background: linear-gradient(to right, rgba(100, 100, 100, 0.05), transparent);
+  border: 1px solid rgba(100, 100, 100, 0.2);
+  border-left: 3px solid var(--vp-c-text-2);
+}
+
+.custom-block.info .custom-block-title {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-size: 0.95em;
+}
+
+/* Warning容器 - 用于技术契约 */
+.custom-block.warning {
+  background: linear-gradient(to right, rgba(245, 158, 11, 0.05), transparent);
+  border: 1px solid rgba(245, 158, 11, 0.2);
+  border-left: 3px solid #f59e0b;
+}
+
+.custom-block.warning .custom-block-title {
+  color: #f59e0b;
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-size: 0.95em;
+}
+
+/* Danger容器 */
+.custom-block.danger {
+  background: linear-gradient(to right, rgba(239, 68, 68, 0.05), transparent);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-left: 3px solid #ef4444;
+}
+
+/* 移除默认的表情符号 */
+.custom-block .custom-block-title::before {
+  display: none;
+}
+
+/* ============================================
+   8. 列表 - 保持原生
+   ============================================ */
+
+/* 仅调整间距 */
+.vp-doc li {
+  margin: 4px 0;
+}
+
+/* ============================================
+   9. 深色模式微调
+   ============================================ */
+
+html.dark .vp-doc h1 {
+  color: var(--vp-c-brand-1);
+}
+
+html.dark .vp-doc strong {
+  color: var(--vp-c-text-1);
+}
+
+html.dark .vp-doc :not(pre) > code {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+html.dark .vp-doc th {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* ============================================
+   10. 移除过度装饰
+   ============================================ */
+
+/* 取消首字母大写 */
+.vp-doc > p:first-of-type::first-letter {
+  font-size: inherit;
+  font-weight: inherit;
+  float: none;
+  line-height: inherit;
+  margin-right: 0;
+  color: inherit;
+  background: none;
+  -webkit-background-clip: unset;
+  -webkit-text-fill-color: unset;
+}
+
+/* 取消段落缩进 */
+.vp-doc p {
+  text-indent: 0;
+  line-height: 1.7;
+}
+
+/* 分割线保持简单 */
+.vp-doc hr {
+  border: none;
+  border-top: 1px solid var(--vp-c-divider);
+  margin: 24px 0;
+}
+
+.vp-doc hr::after {
+  display: none;
+}
+
+/* 图片仅圆角 */
+.vp-doc img {
+  border-radius: 4px;
+  display: block;
+  margin: 16px auto;
+}

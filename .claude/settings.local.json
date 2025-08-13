@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(find:*)",
+      "Bash(tree:*)",
+      "Bash(mv:*)",
+      "Bash(npm run docs:dev:*)",
+      "Bash(touch:*)",
+      "Bash(cp:*)",
+      "Bash(curl:*)",
+      "Bash(rm:*)",
+      "Bash(node optimize-all-docs.js)",
+      "Bash(node:*)"
+    ],
+    "deny": []
+  }
+}

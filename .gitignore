@@ -1,0 +1,38 @@
+# 依赖
+node_modules/
+
+# 构建输出
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 不需要部署的文档和资源
+web-bundles/
+ANTILIA-设计系统实施指南.md
+antilia-doc-v4-restructured.md
+antilia-prd-v3.md
+antilia_whitepaper_outline.md
+optimized_napkin_prompts.md
+主题.png
+主题实施计划
+首页参考
+
+# 脚本文件（仅用于本地）
+fix-separators.js
+optimize-all-docs.js
+remove-icons.js
