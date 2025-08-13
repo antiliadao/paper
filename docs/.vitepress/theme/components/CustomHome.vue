@@ -50,6 +50,9 @@
             <a href="/paper/preface" class="btn btn-primary">
               <span>进入白皮书</span>
             </a>
+            <a href="/paper/economics" class="btn btn-secondary">
+              <span>经济模型</span>
+            </a>
           </div>
         </div>
       </section>
@@ -514,17 +517,104 @@ function initNumberCounters() {
   box-shadow: 0 6px 30px rgba(5, 150, 105, 0.5);
 }
 
+.btn-secondary {
+  background: transparent;
+  color: #10b981;
+  border: 2px solid #10b981;
+  margin-left: 1rem;
+  box-shadow: 0 4px 20px rgba(5, 150, 105, 0.2);
+}
+
+.btn-secondary:hover {
+  background: rgba(5, 150, 105, 0.1);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 30px rgba(5, 150, 105, 0.4);
+  border-color: #059669;
+}
+
+/* 平板和小屏幕适配 */
 @media (max-width: 768px) {
+  .core-message {
+    padding: 0 1rem;
+  }
+  
   .message-line {
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .highlight {
+    font-size: 1.2rem;
+    padding: 0.4rem 1rem;
+  }
+  
+  .separator {
+    width: 30px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #059669, transparent);
+  }
+  
+  .hero-actions {
     flex-direction: column;
     gap: 1rem;
+    width: 100%;
+    padding: 0 1rem;
+    max-width: 400px;
+    margin: 3rem auto 0;
+  }
+  
+  .btn {
+    width: 100%;
+    justify-content: center;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
+  
+  .btn-secondary {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
+/* 手机小屏幕特别优化 */
+@media (max-width: 480px) {
+  .message-line {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .highlight {
+    font-size: 1.1rem;
+    padding: 0.35rem 0.8rem;
+    width: auto;
+    min-width: 140px;
+    text-align: center;
   }
   
   .separator {
     width: 2px;
-    height: 30px;
+    height: 20px;
+    background: linear-gradient(180deg, transparent, #059669, transparent);
   }
   
+  .subtitle {
+    font-size: 0.9rem;
+    padding: 0 1rem;
+  }
+  
+  .hero-actions {
+    padding: 0 1.5rem;
+    gap: 0.75rem;
+  }
+  
+  .btn {
+    padding: 0.875rem 1.5rem;
+    font-size: 0.95rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
   .highlight {
     font-size: 1.8rem;
   }

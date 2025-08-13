@@ -30,7 +30,7 @@ export default {
     nav: [
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/preface' },
-      { text: '项目官网', link: 'https://antilia.xyz' }
+      { text: '经济模型', link: '/economics' }
     ],
     
     sidebar: [
