@@ -6,7 +6,7 @@
 
 ### 王国的真相
 
-![数字王国对比图](/images/preface/preface-kingdom-comparison.png)
+![数字王国对比图](docs/public/images/preface/preface-kingdom-comparison.png)
 
 随着时间的推移，阿明逐渐发现了这个王国的真相：
 
@@ -64,7 +64,7 @@
 
 ### 核心理念
 
-![蚂蚁家园愿景图](/images/preface/preface-antilia-vision.png)
+![蚂蚁家园愿景图](docs/public/images/preface/preface-antilia-vision.png)
 
 蚂蚁家园的建设者们提出了三个核心理念：
 
