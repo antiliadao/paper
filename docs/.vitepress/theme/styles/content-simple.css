@@ -37,46 +37,79 @@
    2. 表格 - 默认简洁样式（修复自适应）
    ============================================ */
 
-/* 表格直接处理，不需要额外容器 */
+/* 表格基础样式 */
 .vp-doc table {
-  border-collapse: collapse;
   width: 100%;
+  max-width: 100%; /* 确保不被限制 */
   margin: 24px 0;
-  border: 1px solid var(--vp-c-brand-lighter, var(--vp-c-divider));
+  border-collapse: collapse;
+  border: 1px solid var(--vp-c-brand-lighter);
   border-radius: 8px;
-  overflow: visible; /* 改为visible避免内容被裁剪 */
-  table-layout: fixed; /* 使用固定布局，让列宽更可控 */
-  display: table; /* 确保使用表格布局 */
-  box-shadow: 0 1px 3px rgba(5, 150, 105, 0.05);
+  overflow: hidden;
+  display: table; /* 强制表格显示 */
 }
 
-/* 响应式处理 - 保留圆角 */
-@media (max-width: 768px) {
+/* 确保表格容器不限制宽度 */
+.vp-doc > table,
+.vp-doc > div > table {
+  max-width: none;
+}
+
+/* 表格单元格居中对齐 */
+.vp-doc th,
+.vp-doc td {
+  text-align: center !important;
+  padding: 12px 16px;
+}
+
+/* 平板和移动端表格处理 - 采用utopia方案 */
+@media (max-width: 1024px) {
   .vp-doc table {
     display: block;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     white-space: nowrap;
-    border-radius: 8px; /* 确保移动端也有圆角 */
+    font-size: 14px;
+    width: 100%;
   }
   
-  /* 移动端表头圆角 */
-  .vp-doc th:first-child {
-    border-top-left-radius: 8px;
+  /* 绿色滚动条 */
+  .vp-doc table::-webkit-scrollbar {
+    height: 8px;
   }
   
-  .vp-doc th:last-child {
-    border-top-right-radius: 8px;
+  .vp-doc table::-webkit-scrollbar-track {
+    background: rgba(5, 150, 105, 0.1);
+  }
+  
+  .vp-doc table::-webkit-scrollbar-thumb {
+    background: var(--vp-c-brand-1);
+    border-radius: 4px;
   }
 }
 
-/* 表头 - 绿色背景 */
+/* 移动端特别优化 */
+@media (max-width: 768px) {
+  .vp-doc table {
+    font-size: 13px;
+    margin: 1rem 0;
+    width: 100%;
+  }
+  
+  .vp-doc th,
+  .vp-doc td {
+    padding: 8px 12px;
+    min-width: 80px;
+  }
+}
+
+/* 表头样式 */
 .vp-doc th {
-  padding: 12px 16px;
   font-weight: 600;
-  text-align: left;
-  background: #059669 !important;
-  border-bottom: 2px solid #059669;
-  color: white !important;
+  background: #059669;
+  color: white;
+  border: none;
+  white-space: nowrap; /* 表头不换行 */
 }
 
 /* 深色模式表头 - 强制绿色 */
@@ -98,27 +131,20 @@ html.dark .vp-doc th {
 .vp-doc td {
   padding: 12px 16px;
   border-bottom: 1px solid var(--vp-c-divider-light);
-  color: var(--vp-c-text-1); /* 改为主文字颜色，更深 */
-  white-space: nowrap; /* 防止文字换行导致列宽异常 */
-  overflow: hidden;
-  text-overflow: ellipsis; /* 超长文本显示省略号 */
+  color: var(--vp-c-text-1);
+  white-space: nowrap; /* 所有列都不换行 */
 }
 
-/* 允许特定列换行 */
-.vp-doc td:last-child {
-  white-space: normal; /* 最后一列允许换行 */
-  min-width: 200px;
+/* 移除最后一行的底边框，避免与表格外边框重复 */
+.vp-doc tbody tr:last-child td {
+  border-bottom: none;
 }
+
 
 /* 第一列加粗 */
 .vp-doc td:first-child {
   font-weight: 600;
   color: var(--vp-c-text-1);
-}
-
-/* 最后一行无底边框 */
-.vp-doc tbody tr:last-child td {
-  border-bottom: none;
 }
 
 /* 行悬浮效果 - 品牌色高亮 */
