@@ -42,7 +42,10 @@
   line-height: 1.4;
   transition: all 0.2s ease;
   position: relative;
-  white-space: nowrap;
+  word-break: break-word; /* 允许在单词内换行 */
+  white-space: normal; /* 允许换行 */
+  max-width: 100%; /* 限制最大宽度 */
+  overflow-wrap: break-word; /* 确保长单词换行 */
 }
 
 /* 悬浮时的动态效果 */

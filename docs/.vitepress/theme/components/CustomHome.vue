@@ -302,6 +302,9 @@ function initNumberCounters() {
   color: #ffffff;
   overflow-x: hidden;
   font-family: 'K2D', -apple-system, BlinkMacSystemFont, sans-serif !important;
+  position: relative;
+  width: 100%;
+  max-width: 100vw;
 }
 
 .custom-home * {
