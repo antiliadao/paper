@@ -47,6 +47,9 @@
   margin: 24px 0;
   border-collapse: collapse;
   width: 100%;
+  /* 尝试自定义滚动条颜色 - iOS 15+ */
+  scrollbar-color: #059669 rgba(5, 150, 105, 0.1);
+  scrollbar-width: thin;
 }
 
 /* 表格单元格样式 */
