@@ -1,0 +1,365 @@
+/**
+ * ============================================
+ * ANTILIA 关键词自动增强系统
+ * 基于CSS选择器的智能样式化
+ * 无需修改Markdown文件，自动应用样式
+ * ============================================
+ */
+
+/* ============================================
+   1. 强调文本（strong标签）自动品牌色
+   ============================================ */
+
+/* 所有加粗文本使用品牌色 - 简洁版 */
+.vp-doc strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  transition: color 0.2s ease;
+}
+
+/* 悬浮时颜色加深 */
+.vp-doc strong:hover {
+  color: var(--vp-c-brand-darker);
+}
+
+/* ============================================
+   2. 行内代码（数字、百分比、关键术语）
+   ============================================ */
+
+/* 所有行内代码的优雅高亮 */
+.vp-doc :not(pre) > code {
+  background: linear-gradient(135deg, 
+    rgba(5, 150, 105, 0.12), 
+    rgba(5, 150, 105, 0.06));
+  color: var(--vp-c-brand-darker);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95em;
+  border: 1px solid rgba(5, 150, 105, 0.25);
+  margin: 0 3px;
+  display: inline-block;
+  line-height: 1.4;
+  transition: all 0.2s ease;
+  position: relative;
+  white-space: nowrap;
+}
+
+/* 悬浮时的动态效果 */
+.vp-doc :not(pre) > code:hover {
+  background: linear-gradient(135deg,
+    rgba(5, 150, 105, 0.18),
+    rgba(5, 150, 105, 0.12));
+  transform: translateY(-2px);
+  box-shadow: 
+    0 4px 12px rgba(5, 150, 105, 0.2),
+    0 2px 4px rgba(5, 150, 105, 0.15);
+  color: var(--vp-c-brand-1);
+}
+
+/* 深色模式下的调整 */
+html.dark .vp-doc strong {
+  color: #10b981;
+}
+
+html.dark .vp-doc strong:hover {
+  color: #34d399;
+}
+
+html.dark .vp-doc :not(pre) > code {
+  background: linear-gradient(135deg,
+    rgba(16, 185, 129, 0.15),
+    rgba(16, 185, 129, 0.08));
+  border-color: rgba(16, 185, 129, 0.3);
+  color: #10b981;
+}
+
+html.dark .vp-doc :not(pre) > code:hover {
+  background: linear-gradient(135deg,
+    rgba(16, 185, 129, 0.25),
+    rgba(16, 185, 129, 0.15));
+  box-shadow: 
+    0 4px 12px rgba(16, 185, 129, 0.25),
+    0 2px 4px rgba(16, 185, 129, 0.2);
+}
+
+/* ============================================
+   3. 表格数据增强
+   ============================================ */
+
+/* 表格中的第一列（通常是标签）自动强调 */
+.vp-doc td:first-child {
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  white-space: nowrap;
+}
+
+/* 表格中包含数字的单元格 */
+.vp-doc td {
+  position: relative;
+}
+
+/* 表格中的code标签特别强调 */
+.vp-doc td code {
+  font-size: 0.95em;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  background: rgba(5, 150, 105, 0.08);
+  padding: 2px 6px;
+}
+
+/* ============================================
+   4. 列表项中的强调
+   ============================================ */
+
+/* 列表中的加粗文本 */
+.vp-doc li strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+/* 列表中的行内代码 */
+.vp-doc li code {
+  font-size: 0.92em;
+  margin: 0 2px;
+}
+
+/* 有序列表的数字强调 */
+.vp-doc ol li::marker {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+/* ============================================
+   5. 标题中的品牌词汇
+   ============================================ */
+
+/* H1和H2中的行内代码 */
+.vp-doc h1 code,
+.vp-doc h2 code {
+  color: var(--vp-c-brand-1);
+  background: transparent;
+  border: none;
+  font-size: 0.9em;
+  font-weight: 700;
+  padding: 0;
+}
+
+/* ============================================
+   6. 引用块中的强调
+   ============================================ */
+
+/* 引用块中的加粗文本 */
+.vp-doc blockquote strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  font-size: 1.05em;
+}
+
+/* 引用块中的行内代码 */
+.vp-doc blockquote code {
+  background: rgba(5, 150, 105, 0.15);
+  color: var(--vp-c-brand-darker);
+  font-weight: 600;
+}
+
+/* ============================================
+   7. 特殊容器中的增强
+   ============================================ */
+
+/* Tip容器中的强调 */
+.custom-block.tip strong {
+  color: var(--vp-c-brand-darker);
+  font-weight: 700;
+}
+
+.custom-block.tip code {
+  background: rgba(5, 150, 105, 0.2);
+  color: var(--vp-c-brand-darker);
+  border-color: var(--vp-c-brand-1);
+}
+
+/* Info容器中的强调 */
+.custom-block.info strong {
+  color: var(--vp-c-text-1);
+  font-weight: 700;
+}
+
+.custom-block.info code {
+  background: rgba(100, 100, 100, 0.1);
+  color: var(--vp-c-text-1);
+}
+
+/* Warning容器中的强调 */
+.custom-block.warning strong {
+  color: #f59e0b;
+  font-weight: 700;
+}
+
+.custom-block.warning code {
+  background: rgba(245, 158, 11, 0.15);
+  color: #d97706;
+  border-color: #f59e0b;
+}
+
+/* ============================================
+   8. 段落首字母（已禁用）
+   ============================================ */
+
+/* 首字母放大效果已移除 */
+
+/* ============================================
+   9. 链接中的代码
+   ============================================ */
+
+.vp-doc a code {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.vp-doc a:hover code {
+  background: rgba(5, 150, 105, 0.2);
+  text-decoration: underline;
+  text-decoration-color: var(--vp-c-brand-1);
+}
+
+/* ============================================
+   10. 数字和百分比的特别处理
+   ============================================ */
+
+/* 为了未来可能的JavaScript增强预留的类 */
+.number-value {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  font-size: 1.05em;
+}
+
+.percentage-value {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  font-size: 1.05em;
+  position: relative;
+}
+
+.usdt-value {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  font-size: 1.05em;
+  font-family: 'K2D', monospace;
+}
+
+/* ============================================
+   11. 关键身份标识样式
+   ============================================ */
+
+/* 预留给Ao, Am, AS等身份标识 */
+.identity-ao,
+.identity-am,
+.identity-as,
+.identity-ob {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 0.9em;
+  margin: 0 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.identity-ao {
+  background: linear-gradient(135deg, #86efac, #4ade80);
+  color: #14532d;
+}
+
+.identity-am {
+  background: linear-gradient(135deg, #34d399, #10b981);
+  color: #064e3b;
+}
+
+.identity-as {
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: white;
+}
+
+.identity-ob {
+  background: linear-gradient(135deg, #d1d5db, #9ca3af);
+  color: #374151;
+}
+
+/* ============================================
+   12. 动画和过渡效果
+   ============================================ */
+
+/* 品牌色呼吸灯效果（用于特别重要的元素） */
+@keyframes brand-pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+.brand-highlight {
+  animation: brand-pulse 2s ease-in-out infinite;
+}
+
+/* ============================================
+   13. 响应式调整
+   ============================================ */
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .vp-doc :not(pre) > code {
+    padding: 2px 6px;
+    font-size: 0.9em;
+  }
+  
+  .vp-doc strong {
+    font-size: 1em;
+  }
+}
+
+/* ============================================
+   14. 打印样式优化
+   ============================================ */
+
+@media print {
+  .vp-doc strong {
+    color: black;
+    font-weight: 700;
+    background: none;
+  }
+  
+  .vp-doc :not(pre) > code {
+    background: #f0f0f0;
+    color: black;
+    border: 1px solid #ccc;
+  }
+}
+
+/* ============================================
+   15. 无障碍访问优化
+   ============================================ */
+
+/* 高对比度模式 */
+@media (prefers-contrast: high) {
+  .vp-doc strong {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+  }
+  
+  .vp-doc :not(pre) > code {
+    border-width: 2px;
+    font-weight: 700;
+  }
+}
+
+/* 减少动画模式 */
+@media (prefers-reduced-motion: reduce) {
+  .vp-doc * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

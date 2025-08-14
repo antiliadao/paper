@@ -6,6 +6,7 @@ import Icon from './components/Icon.vue'
 import './style.css' // 原有样式
 import './styles/minimal-override.css' // 最小化覆盖
 import './styles/content-simple.css' // 内容页简约增强
+import './styles/content-keywords.css' // 关键词智能增强系统
 
 export default {
   extends: DefaultTheme,

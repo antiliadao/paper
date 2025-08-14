@@ -148,34 +148,8 @@ html.dark .vp-doc tbody tr:hover {
    3. 强调文本 - 适度突出
    ============================================ */
 
-/* 加粗 - 仅加深颜色 */
-.vp-doc strong {
-  color: var(--vp-c-text-1);
-  font-weight: 600;
-}
-
-/* 行内代码 - 精致设计 */
-.vp-doc :not(pre) > code {
-  background: linear-gradient(135deg, 
-    rgba(5, 150, 105, 0.1), 
-    rgba(5, 150, 105, 0.05));
-  color: var(--vp-c-brand-1);
-  padding: 3px 8px;
-  border-radius: 6px;
-  font-size: 0.88em;
-  font-weight: 500;
-  border: 1px solid rgba(5, 150, 105, 0.2);
-  margin: 0 2px;
-  display: inline-block;
-  line-height: 1.4;
-  transition: all 0.2s;
-}
-
-.vp-doc :not(pre) > code:hover {
-  background: rgba(5, 150, 105, 0.15);
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(5, 150, 105, 0.2);
-}
+/* 加粗和行内代码样式已移至 content-keywords.css */
+/* 保留此处注释以避免样式冲突 */
 
 /* ============================================
    4. 链接 - 简单下划线
