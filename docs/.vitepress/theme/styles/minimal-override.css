@@ -3,6 +3,14 @@
  * 仅修改颜色和视觉效果，不改变布局和功能
  */
 
+/* 导入K2D字体 */
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* 应用K2D字体 */
+body {
+  font-family: 'K2D', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
 /* 品牌色覆盖 */
 :root {
   --vp-c-brand-1: #059669;
@@ -18,8 +26,10 @@ html.dark {
   --vp-c-brand-3: #047857;
 }
 
-/* 仅美化标题渐变 */
+/* 仅美化标题渐变 - 添加K2D字体 */
 .VPNavBarTitle .title {
+  font-family: 'K2D', sans-serif !important;
+  font-weight: 700;
   background: linear-gradient(135deg, #059669, #10b981);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

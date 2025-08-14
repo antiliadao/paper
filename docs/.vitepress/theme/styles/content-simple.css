@@ -34,61 +34,43 @@
 }
 
 /* ============================================
-   2. 表格 - 默认简洁样式（修复自适应）
+   2. 表格 - 优雅简洁风格（无边框）
    ============================================ */
 
-/* 表格基础样式 */
+/* 表格基础样式 - 使用utopia的布局方案 */
 .vp-doc table {
-  width: 100%;
-  max-width: 100%; /* 确保不被限制 */
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+  font-size: 14px;
   margin: 24px 0;
   border-collapse: collapse;
-  border: 1px solid var(--vp-c-brand-lighter);
-  border-radius: 8px;
-  overflow: hidden;
-  display: table; /* 强制表格显示 */
+  width: 100%;
 }
 
-/* 确保表格容器不限制宽度 */
-.vp-doc > table,
-.vp-doc > div > table {
-  max-width: none;
-}
-
-/* 表格单元格居中对齐 */
+/* 表格单元格样式 */
 .vp-doc th,
 .vp-doc td {
   text-align: center !important;
   padding: 12px 16px;
 }
 
-/* 平板和移动端表格处理 - 采用utopia方案 */
-@media (max-width: 1024px) {
-  .vp-doc table {
-    display: block;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    white-space: nowrap;
-    font-size: 14px;
-    width: 100%;
-  }
-  
-  /* 绿色滚动条 */
-  .vp-doc table::-webkit-scrollbar {
-    height: 8px;
-  }
-  
-  .vp-doc table::-webkit-scrollbar-track {
-    background: rgba(5, 150, 105, 0.1);
-  }
-  
-  .vp-doc table::-webkit-scrollbar-thumb {
-    background: var(--vp-c-brand-1);
-    border-radius: 4px;
-  }
+/* 绿色滚动条 */
+.vp-doc table::-webkit-scrollbar {
+  height: 8px;
 }
 
-/* 移动端特别优化 */
+.vp-doc table::-webkit-scrollbar-track {
+  background: rgba(5, 150, 105, 0.1);
+}
+
+.vp-doc table::-webkit-scrollbar-thumb {
+  background: var(--vp-c-brand-1);
+  border-radius: 4px;
+}
+
+/* 移动端优化 */
 @media (max-width: 768px) {
   .vp-doc table {
     font-size: 13px;
@@ -103,28 +85,28 @@
   }
 }
 
-/* 表头样式 */
+/* 表头样式 - 绿色主题 */
 .vp-doc th {
-  font-weight: 600;
   background: #059669;
   color: white;
-  border: none;
-  white-space: nowrap; /* 表头不换行 */
+  font-weight: 600;
+  padding: 12px 16px;
+  white-space: nowrap;
 }
 
-/* 深色模式表头 - 强制绿色 */
+/* 圆角处理 - 确保表头左上和右上有圆角 */
+.vp-doc thead tr:first-child th:first-child {
+  border-top-left-radius: 8px;
+}
+
+.vp-doc thead tr:first-child th:last-child {
+  border-top-right-radius: 8px;
+}
+
+/* 深色模式表头 */
 html.dark .vp-doc th {
   background: #059669 !important;
   color: white !important;
-}
-
-/* 确保表头绿色生效 */
-.vp-doc thead {
-  background: transparent;
-}
-
-.vp-doc thead tr {
-  background: transparent;
 }
 
 /* 表格单元格 */
@@ -132,14 +114,12 @@ html.dark .vp-doc th {
   padding: 12px 16px;
   border-bottom: 1px solid var(--vp-c-divider-light);
   color: var(--vp-c-text-1);
-  white-space: nowrap; /* 所有列都不换行 */
 }
 
-/* 移除最后一行的底边框，避免与表格外边框重复 */
+/* 最后一行加粗底边框 */
 .vp-doc tbody tr:last-child td {
-  border-bottom: none;
+  border-bottom: 2px solid var(--vp-c-brand-1);
 }
-
 
 /* 第一列加粗 */
 .vp-doc td:first-child {
@@ -147,7 +127,7 @@ html.dark .vp-doc th {
   color: var(--vp-c-text-1);
 }
 
-/* 行悬浮效果 - 品牌色高亮 */
+/* 行悬浮效果 */
 .vp-doc tbody tr {
   transition: background-color 0.25s;
 }
@@ -156,7 +136,7 @@ html.dark .vp-doc th {
   background-color: rgba(5, 150, 105, 0.05);
 }
 
-/* 斑马纹 - 极淡的品牌色 */
+/* 斑马纹 */
 .vp-doc tbody tr:nth-child(even) {
   background-color: rgba(5, 150, 105, 0.02);
 }
