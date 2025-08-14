@@ -6,7 +6,12 @@ export default {
   base: '/paper/',
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    // 网站图标配置
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/paper/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/paper/logo.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/paper/logo.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/paper/logo.png' }],
+    ['link', { rel: 'shortcut icon', href: '/paper/logo.png' }],
     ['meta', { name: 'theme-color', content: '#059669' }],
     ['script', {}, `
       // 设置默认暗色主题
