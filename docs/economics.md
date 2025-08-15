@@ -172,6 +172,8 @@ function calculateTribeBonus(address user) public view returns (uint256) {
 
 ### 部落等级体系
 
+![部落网络](/images/economics/network.png)
+
 蚂蚁家园建立了基于贡献的动态等级制度，激励参与者持续建设生态：
 
 | 等级 | 称号 | 晋升条件 | 大部落权益 | 小部落权益 |
@@ -185,6 +187,8 @@ function calculateTribeBonus(address user) public view returns (uint256) {
 | **AS6** | 部落元帅 | 自身AS1 + 直推中5个达到AS1 | 30% | 20% |
 
 ### 部落划分规则
+
+![部落划分](/images/economics/tribe.png)
 
 系统自动将参与者的推荐网络划分为两类部落：
 
