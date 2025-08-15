@@ -172,7 +172,9 @@ function calculateTribeBonus(address user) public view returns (uint256) {
 
 ### 部落等级体系
 
-![部落网络](/images/economics/network.png)
+![部落网络AS6](/images/economics/as6.png)
+
+![部落网络AS1](/images/economics/as1.png)
 
 蚂蚁家园建立了基于贡献的动态等级制度，激励参与者持续建设生态：
 
