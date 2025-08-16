@@ -190,7 +190,7 @@ function calculateTribeBonus(address user) public view returns (uint256) {
 
 ### 部落划分规则
 
-![部落划分](/images/economics/tribe.png)
+![部落划分](/images/economics/tride.png)
 
 系统自动将参与者的推荐网络划分为两类部落：
 
