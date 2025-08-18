@@ -1,6 +1,20 @@
 /* 导入K2D字体 */
 @import url('https://fonts.googleapis.com/css2?family=K2D:wght@100;200;300;400;500;600;700;800&display=swap');
 
+/* 首页完全隐藏底部栏 */
+.VPHome .VPFooter,
+.VPHome footer,
+.VPHome .footer,
+body:has(.custom-home) .VPFooter,
+body:has(.custom-home) footer {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
 /* 蚂蚁家园品牌色系 - 基于绿色系配色 */
 
 :root {

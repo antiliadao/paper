@@ -1,51 +1,51 @@
-# 第六章：技术架构的工程美学
+# Chapter 6: Engineering Aesthetics of Technical Architecture
 
-## 情感契约：代码诗人的技术之美
+## Emotional Contract: The Technical Beauty of Code Poets
 
-经历了迁徙的洗礼，阿明对蚂蚁家园有了全新的认识。在新周期的第一天，当他重新创建共建订单时，心中涌起的不再是简单的投资期待，而是对这个系统背后技术架构的深深敬畏。
+After experiencing the baptism of migration, Amin had a completely new understanding of the Ant Home. On the first day of the new cycle, when he recreated his co-construction order, what arose in his heart was no longer simple investment expectations, but deep awe for the technical architecture behind this system.
 
-作为一个有技术背景的参与者，阿明开始深入研究蚂蚁家园的源代码。当他打开第一个智能合约文件时，眼前出现的不是冰冷的代码符号，而是一首优美的诗篇：
+As a participant with a technical background, Amin began to deeply study the source code of Ant Home. When he opened the first smart contract file, what appeared before his eyes was not cold code symbols, but a beautiful poem:
 
-![代码美学展示](/images/chapter6/chapter6-code.png)
+![Code Aesthetics Display](/images/chapter6/chapter6-code.png)
 
 ```solidity
-// 永恒契约 - 蚂蚁家园核心合约
-// "在数字世界中，我们用代码书写永恒的承诺"
+// Eternal Contract - Ant Home Core Contract
+// "In the digital world, we write eternal promises with code"
 contract AntiliaEternalContract {
- // 这些参数如星辰般永恒不变
- uint256 public constant AO_RATE = 50; // 萌新蚂蚁：0.5%
- uint256 public constant AM_RATE = 5000; // 建设蚂蚁：5%
- uint256 public constant AS_RATE = 15000; // 精英蚂蚁：15%
+ // These parameters are eternally unchanging like stars
+ uint256 public constant AO_RATE = 50; // Novice Ant: 0.5%
+ uint256 public constant AM_RATE = 5000; // Builder Ant: 5%
+ uint256 public constant AS_RATE = 15000; // Elite Ant: 15%
  
- // 承诺的周期，如季节轮回般准确
- uint256 public constant AO_PERIOD = 1 days; // 春天
- uint256 public constant AM_PERIOD = 7 days; // 夏天
- uint256 public constant AS_PERIOD = 15 days; // 秋天
+ // Promised cycles, as accurate as seasonal rotations
+ uint256 public constant AO_PERIOD = 1 days; // Spring
+ uint256 public constant AM_PERIOD = 7 days; // Summer
+ uint256 public constant AS_PERIOD = 15 days; // Autumn
  
- // 没有管理员，没有后门，只有永恒的约定
- // 这个合约一旦部署，将如山川般不可撼动
+ // No administrators, no backdoors, only eternal agreements
+ // Once deployed, this contract will be immovable like mountains
 }
 ```
 
-阿明被这种优雅深深震撼。每一行代码都有它的诗意，每一个函数都承载着设计者的深思熟虑。这不是简单的程序逻辑，而是一种技术哲学的体现。
+Amin was deeply shocked by this elegance. Every line of code had its poetry, every function carried the creator's deep contemplation. This was not simple program logic, but an expression of technical philosophy.
 
-他继续深入探索，发现了更多令人惊叹的设计细节。在订单管理合约中，他看到了这样的注释：
+He continued to explore deeply, discovering more amazing design details. In the order management contract, he saw such comments:
 
 ```solidity
 /**
- * @title 共建订单管理
- * @dev 每个订单都是一份神圣的契约
- * 在这里，承诺不是语言，而是不可更改的代码
- * 在这里，信任不是感情，而是数学的确定性
+ * @title Co-construction Order Management
+ * @dev Every order is a sacred contract
+ * Here, promises are not words, but unchangeable code
+ * Here, trust is not emotion, but mathematical certainty
  */
 function createOrder(OrderType _type, address _referrer) external payable {
- // 确保每只蚂蚁同时只有一个梦想在路上
+ // Ensure each ant has only one dream on the road at a time
  require(activeOrders[msg.sender] == 0, "One dream at a time");
  
- // 验证这份契约的价值
+ // Verify the value of this contract
  require(_validateOrderAmount(_type, msg.value), "Dreams have their price");
  
- // 记录这个美好的开始
+ // Record this beautiful beginning
  orders[orderCounter] = Order({
  dreamer: msg.sender,
  value: msg.value,
@@ -58,308 +58,308 @@ function createOrder(OrderType _type, address _referrer) external payable {
 }
 ```
 
-这种将技术与人文相结合的代码风格，让阿明意识到蚂蚁家园的开发团队不仅仅是程序员，更是艺术家。他们用代码在区块链上雕刻着一座数字时代的教堂，每个函数都是精心设计的建筑构件，每个变量都是精雕细琢的装饰元素。
+This coding style that combined technology with humanities made Amin realize that the development team of Ant Home were not just programmers, but artists. They used code to carve a digital age cathedral on the blockchain, where every function was a carefully designed architectural component, and every variable was a meticulously crafted decorative element.
 
-但更让阿明感动的是系统的容错设计。在资金管理合约中，他发现了大量防护性代码：
+But what moved Amin more was the system's fault-tolerant design. In the fund management contract, he discovered extensive protective code:
 
 ```solidity
 /**
- * @dev 像保护孩子一样保护每只蚂蚁的资产
+ * @dev Protect every ant's assets like protecting children
  */
 modifier protectAntAssets() {
- require(msg.sender != address(0), "来自虚无的调用？这不被允许");
- require(!migrationTriggered, "迁徙期间，静待重生");
- require(block.timestamp > 0, "时间尚未开始");
+ require(msg.sender != address(0), "Call from nothingness? This is not allowed");
+ require(!migrationTriggered, "During migration, await rebirth");
+ require(block.timestamp > 0, "Time has not yet begun");
 
  _;
- require(address(this).balance >= 0, "数学原理的守护");
+ require(address(this).balance >= 0, "Guardian of mathematical principles");
 }
 ```
 
-这些看似多余的检查，实际上体现了开发者对每个参与者的深切关怀。他们预想了各种可能的异常情况，并为每一种情况都准备了优雅的处理方案。
+These seemingly redundant checks actually reflected the developers' deep care for every participant. They anticipated various possible abnormal situations and prepared elegant handling solutions for each scenario.
 
-阿明还发现了一个让他特别感动的细节。在迁徙机制的实现中，有一段这样的代码：
+Amin also discovered a detail that particularly moved him. In the implementation of the migration mechanism, there was such code:
 
 ```solidity
 /**
- * @dev 当严冬来临时，我们不抛弃任何一只蚂蚁
- * 迁徙不是末日，而是向着春天的进发
+ * @dev When harsh winter comes, we abandon no ant
+ * Migration is not the end of the world, but marching toward spring
  */
 function handleMigration() internal {
- // 计算先锋奖，奖励那些在黑暗中依然坚持的勇士
+ // Calculate pioneer rewards, rewarding those brave warriors who persisted in darkness
  uint256 pioneerReward = calculatePioneerReward();
  
- // 保留建设奖，为新家园的建设者准备希望
+ // Reserve building rewards, preparing hope for the builders of the new home
  uint256 buildingReward = calculateBuildingReward();
  
- // 即使在迁徙中，也要确保公平和透明
+ // Even during migration, ensure fairness and transparency
  emit MigrationExecuted(pioneerReward, buildingReward, block.timestamp);
  
- // 数据的凤凰涅槃：保留关系，重置状态
+ // Phoenix rebirth of data: preserve relationships, reset state
  preserveEssentialData();
  resetTransientState();
 }
 ```
 
-这段代码让阿明想起了一句话："技术的最高境界不是炫耀复杂性，而是用简洁优雅的方式解决复杂问题。"蚂蚁家园的技术架构正是这种境界的完美体现。
+This code reminded Amin of a saying: "The highest realm of technology is not showing off complexity, but solving complex problems with simple and elegant methods." The technical architecture of Ant Home was the perfect embodiment of this realm.
 
-那天晚上，阿明在技术交流群里写下了这样一段话：
+That night, Amin wrote this passage in the technical exchange group:
 
-"今天我深度研究了蚂蚁家园的代码，我被震撼了。这不仅仅是一个DeFi项目，更是一件艺术品。每行代码都透露着对完美的追求，每个函数都体现着对用户的关爱。在这个快节奏的区块链世界里，很少有项目愿意花这么多心思去打磨代码的细节。
+"Today I deeply studied the code of Ant Home, and I was shocked. This is not just a DeFi project, but a work of art. Every line of code reveals the pursuit of perfection, every function embodies care for users. In this fast-paced blockchain world, few projects are willing to spend so much effort polishing the details of code.
 
-这让我想起了古代的工匠精神。那些建造教堂的石匠们，即使是在没人能看到的屋顶角落，也会雕刻出最精美的图案。因为他们知道，上帝在看着。
+This reminds me of ancient craftsmanship. Those stonemasons who built cathedrals would carve the most exquisite patterns even in the roof corners where no one could see. Because they knew God was watching.
 
-蚂蚁家园的开发者们，就是这样的数字时代工匠。他们知道，代码是要运行几十年甚至上百年的，所以每一行都要精雕细琢。他们知道，智能合约一旦部署就永不可改，所以每一个细节都要深思熟虑。
+The developers of Ant Home are such digital age craftsmen. They know that code is to run for decades or even centuries, so every line must be meticulously crafted. They know that smart contracts, once deployed, can never be changed, so every detail must be deeply considered.
 
-这就是真正的工程美学——不是为了炫技，而是为了创造真正有价值的、能够传承下去的作品。"
+This is true engineering aesthetics—not for showing off skills, but for creating truly valuable works that can be passed down."
 
-这段话在群里引起了强烈共鸣。许多技术背景的用户纷纷分享自己在代码中发现的精彩细节，大家逐渐意识到，他们参与的不仅仅是一个投资项目，更是一个技术艺术品的共同创作。
+This passage caused strong resonance in the group. Many users with technical backgrounds shared the wonderful details they discovered in the code, and everyone gradually realized that they were participating not just in an investment project, but in the collaborative creation of a technical artwork.
 
-阿明深深地被这种技术之美所感动。在冰冷的代码背后，他看到了创作者们炽热的内心；在严密的逻辑背后，他感受到了对每只数字蚂蚁的真挚关爱。
+Amin was deeply moved by this technical beauty. Behind the cold code, he saw the creators' passionate hearts; behind the rigorous logic, he felt the sincere care for every digital ant.
 
-这就是蚂蚁家园技术架构的真正魅力——它不仅仅是功能的实现，更是美学的表达；不仅仅是问题的解决，更是价值的创造。
+This was the true charm of Ant Home's technical architecture—it was not just the implementation of functions, but the expression of aesthetics; not just the solution of problems, but the creation of value.
 
 ---
 
-## 理性契约：架构设计的权衡与选择
+## Rational Contract: Trade-offs and Choices in Architectural Design
 
-阿明对蚂蚁家园代码美学的感悟，反映了优秀技术架构设计背后的深层原理。任何复杂系统的构建都涉及无数的权衡与选择，蚂蚁家园的技术架构正是这些理性决策的结晶。
+Amin's perception of the code aesthetics of Ant Home reflected the deep principles behind excellent technical architecture design. The construction of any complex system involves countless trade-offs and choices, and Ant Home's technical architecture was the crystallization of these rational decisions.
 
-### 性能vs安全：为什么选择链上链下分离
+### Performance vs Security: Why Choose On-chain and Off-chain Separation
 
-在区块链系统设计中，性能与安全往往是一对矛盾。蚂蚁家园通过精心设计的混合架构，在保证核心安全的前提下实现了高性能：
+In blockchain system design, performance and security are often contradictory. Ant Home achieved high performance while ensuring core security through carefully designed hybrid architecture:
 
-**架构决策分析**：
+**Architectural Decision Analysis**:
 
-| 功能模块 | 部署位置 | 决策原因 | 权衡考量 |
+| Function Module | Deployment Location | Decision Reason | Trade-off Considerations |
 |---------|---------|---------|---------|
-| **资金管理** | 链上 | 绝对安全需求 | 牺牲性能换取安全 |
-| **订单管理** | 链上 | 涉及资产转移 | 核心逻辑必须透明 |
-| **等级计算** | 链下 | 复杂计算，高频更新 | 牺牲部分去中心化换取性能 |
-| **奖励分配** | 混合 | 计算链下，发放链上 | 平衡效率与安全 |
-| **数据查询** | 链下 | 用户体验需求 | 实时响应 vs 去中心化 |
+| **Fund Management** | On-chain | Absolute security requirement | Sacrifice performance for security |
+| **Order Management** | On-chain | Involves asset transfer | Core logic must be transparent |
+| **Level Calculation** | Off-chain | Complex computation, high-frequency updates | Sacrifice some decentralization for performance |
+| **Reward Distribution** | Hybrid | Computation off-chain, distribution on-chain | Balance efficiency and security |
+| **Data Query** | Off-chain | User experience requirement | Real-time response vs decentralization |
 
-**性能优化的数学模型**：
+**Mathematical Model of Performance Optimization**:
 
-![架构权衡图](/images/chapter6/chapter6-tradeoff.png)
+![Architecture Trade-off Diagram](/images/chapter6/chapter6-tradeoff.png)
 
-设系统总性能为P，安全级别为S，则：
+Let system total performance be P, security level be S, then:
 ```
-P = f(链上操作比例, 链下操作比例, 同步开销)
-S = g(关键操作链上比例, 合约安全性, 数据完整性)
+P = f(on-chain operation ratio, off-chain operation ratio, synchronization overhead)
+S = g(critical operation on-chain ratio, contract security, data integrity)
 
-目标函数：max(P × S)
-约束条件：S ≥ S_min（最低安全要求）
-```
-
-蚂蚁家园的解决方案：
-
-- 将20%最关键操作（资金、订单）放在链上
-
-- 将80%辅助操作（计算、查询）放在链下
-
-- 通过事件同步保证数据一致性
-
-这种分配使得 P × S 达到局部最优解。
-
-### 成本vs效率：预计算体系的设计考量
-
-在大规模用户场景下，实时计算会带来巨大的性能压力。蚂蚁家园采用预计算体系来解决这个问题：
-
-**成本效益分析**：
-
-**传统实时计算模式**：
-
-- 计算成本：O(n²) 每次查询都需要遍历整个网络
-
-- 响应时间：500-2000ms（随用户数量增长）
-
-- 资源消耗：CPU密集型，服务器成本高
-
-**蚂蚁家园预计算模式**：
-
-- 计算成本：O(n) 每日定时计算一次
-
-- 响应时间：<50ms（查询预计算结果）
-
-- 资源消耗：存储密集型，成本可控
-
-**经济学模型验证**：
-
-设用户数量为N，查询频率为Q：
-
-- 实时计算总成本：C_real = N² × Q × α（α为单位计算成本）
-
-- 预计算总成本：C_pre = N × β + N × Q × γ（β为计算成本，γ为存储成本）
-
-当N × Q > (β - γ)/α 时，预计算更经济。
-
-对蚂蚁家园而言，这个临界点约为1000用户，远低于实际用户规模。
-
-### 扩展性vs简洁性：模块化设计的平衡点
-
-软件架构设计中的经典问题是如何在系统的扩展性和简洁性之间找到平衡。过度模块化导致复杂性增加，模块化不足则限制扩展性。
-
-**蚂蚁家园的模块化设计原则**：
-
-```
-核心原则：高内聚，低耦合
-设计标准：单一职责原则 + 接口隔离原则
+Objective function: max(P × S)
+Constraint: S ≥ S_min (minimum security requirement)
 ```
 
-**模块划分策略**：
+Ant Home's solution:
 
-1. **业务模块**（高内聚）
- - 用户管理模块：处理身份、等级、状态
- - 订单管理模块：处理共建订单生命周期
- - 奖励计算模块：处理各类奖励计算逻辑
- - 迁徙管理模块：处理系统迁徙流程
+- Put 20% most critical operations (funds, orders) on-chain
 
-2. **技术模块**（低耦合）
- - 区块链接口层：统一链上链下交互
- - 数据访问层：统一数据库访问接口
- - 缓存管理层：统一缓存策略
- - 监控日志层：统一系统监控
+- Put 80% auxiliary operations (computation, queries) off-chain
 
-**复杂度控制分析**：
+- Ensure data consistency through event synchronization
 
-使用圈复杂度（Cyclomatic Complexity）衡量系统复杂度：
+This allocation makes P × S reach a local optimal solution.
 
-- 单个模块复杂度：<10（优秀）
+### Cost vs Efficiency: Design Considerations of Pre-computation System
 
-- 模块间耦合度：<0.3（松耦合）
+In large-scale user scenarios, real-time computation brings enormous performance pressure. Ant Home adopts a pre-computation system to solve this problem:
 
-- 系统总体复杂度：线性增长而非指数增长
+**Cost-Benefit Analysis**:
 
-通过这种设计，蚂蚁家园实现了：
+**Traditional Real-time Computation Mode**:
 
-- 新功能开发：只需修改相关模块，不影响其他部分
+- Computation cost: O(n²) Every query needs to traverse the entire network
 
-- 性能优化：可以针对性优化瓶颈模块
+- Response time: 500-2000ms (grows with user number)
 
-- 错误隔离：单个模块故障不会导致系统崩溃
+- Resource consumption: CPU-intensive, high server cost
 
-### 去中心化程度的理性选择
+**Ant Home Pre-computation Mode**:
 
-去中心化是区块链的核心特征，但绝对的去中心化往往意味着效率的损失。蚂蚁家园在不同层面采用了不同程度的去中心化：
+- Computation cost: O(n) Daily scheduled computation once
 
-**去中心化层级设计**：
+- Response time: <50ms (query pre-computed results)
+
+- Resource consumption: Storage-intensive, controllable cost
+
+**Economic Model Verification**:
+
+Let user number be N, query frequency be Q:
+
+- Real-time computation total cost: C_real = N² × Q × α (α is unit computation cost)
+
+- Pre-computation total cost: C_pre = N × β + N × Q × γ (β is computation cost, γ is storage cost)
+
+When N × Q > (β - γ)/α, pre-computation is more economical.
+
+For Ant Home, this critical point is about 1000 users, far below the actual user scale.
+
+### Scalability vs Simplicity: Balance Point of Modular Design
+
+A classic problem in software architecture design is how to find balance between system scalability and simplicity. Over-modularization leads to increased complexity, while insufficient modularization limits scalability.
+
+**Ant Home's Modular Design Principles**:
 
 ```
-第1级（完全去中心化）：
-
-- 核心合约逻辑：永不可改，无管理员权限
-
-- 资金管理：智能合约自动执行
-
-- 关键参数：合约部署时固化
-
-第2级（部分去中心化）：
-
-- 奖励计算：链下计算，链上验证
-
-- 数据同步：多节点备份，去中心化存储
-
-- 迁徙执行：自动触发，多重验证
-
-第3级（中心化优化）：
-
-- 用户界面：中心化部署，提升用户体验
-
-- 数据查询：中心化缓存，提高响应速度
-
-- 客服支持：中心化服务，保证服务质量
+Core principle: High cohesion, low coupling
+Design standard: Single responsibility principle + Interface segregation principle
 ```
 
-这种分层设计遵循"核心去中心化，边缘适度中心化"原则，确保：
+**Module Division Strategy**:
 
-- 关键决策（资金、规则）完全去中心化
+1. **Business Modules** (High cohesion)
+ - User Management Module: Handle identity, level, status
+ - Order Management Module: Handle co-construction order lifecycle
+ - Reward Calculation Module: Handle various reward calculation logic
+ - Migration Management Module: Handle system migration process
 
-- 辅助功能（查询、展示）适度中心化优化
+2. **Technical Modules** (Low coupling)
+ - Blockchain Interface Layer: Unified on-chain and off-chain interaction
+ - Data Access Layer: Unified database access interface
+ - Cache Management Layer: Unified cache strategy
+ - Monitoring Log Layer: Unified system monitoring
 
-- 用户体验与去中心化理念平衡
+**Complexity Control Analysis**:
 
-**理论验证**：
+Use Cyclomatic Complexity to measure system complexity:
 
-根据去中心化经济学理论，系统的价值V与去中心化程度D的关系为：
+- Single module complexity: <10 (excellent)
+
+- Inter-module coupling: <0.3 (loose coupling)
+
+- System overall complexity: Linear growth rather than exponential
+
+Through this design, Ant Home achieved:
+
+- New feature development: Only need to modify related modules, no impact on other parts
+
+- Performance optimization: Can target bottleneck modules for optimization
+
+- Error isolation: Single module failure won't cause system crash
+
+### Rational Choice of Decentralization Degree
+
+Decentralization is a core feature of blockchain, but absolute decentralization often means efficiency loss. Ant Home adopted different degrees of decentralization at different levels:
+
+**Decentralization Level Design**:
+
+```
+Level 1 (Fully Decentralized):
+
+- Core contract logic: Never changeable, no administrator privileges
+
+- Fund management: Smart contract automatic execution
+
+- Key parameters: Fixed when contract deployed
+
+Level 2 (Partially Decentralized):
+
+- Reward calculation: Off-chain computation, on-chain verification
+
+- Data synchronization: Multi-node backup, decentralized storage
+
+- Migration execution: Automatic trigger, multiple verification
+
+Level 3 (Centralized Optimization):
+
+- User interface: Centralized deployment, improve user experience
+
+- Data query: Centralized cache, improve response speed
+
+- Customer service: Centralized service, ensure service quality
+```
+
+This layered design follows the principle of "core decentralization, edge appropriate centralization", ensuring:
+
+- Key decisions (funds, rules) fully decentralized
+
+- Auxiliary functions (query, display) appropriately centralized optimization
+
+- User experience balanced with decentralization philosophy
+
+**Theoretical Verification**:
+
+According to decentralization economics theory, the relationship between system value V and decentralization degree D is:
 ```
 V = f(D) = a × D - b × D²
 
-其中：
+Where:
 
-- a为去中心化带来的信任价值
+- a is trust value brought by decentralization
 
-- b为去中心化带来的效率损失
+- b is efficiency loss brought by decentralization
 ```
 
-最优去中心化程度：D* = a/(2b)
+Optimal decentralization degree: D* = a/(2b)
 
-蚂蚁家园通过分层设计，让核心功能达到D*附近的最优值，同时让非核心功能保持高效率。
+Through layered design, Ant Home makes core functions reach the optimal value near D*, while keeping non-core functions highly efficient.
 
-### 技术债务管理哲学
+### Technical Debt Management Philosophy
 
-任何长期运行的系统都会积累技术债务。蚂蚁家园通过"永恒契约"的设计哲学，创新性地解决了这个问题：
+Any long-running system will accumulate technical debt. Ant Home innovatively solved this problem through the design philosophy of "eternal contract":
 
-**传统系统的技术债务问题**：
+**Traditional System Technical Debt Problems**:
 
-- 需求变更：不断修改代码，增加复杂性
+- Requirement changes: Continuously modify code, increase complexity
 
-- 性能优化：临时补丁，破坏架构一致性
+- Performance optimization: Temporary patches, break architecture consistency
 
-- 安全修复：紧急修改，引入新bug
+- Security fixes: Emergency modifications, introduce new bugs
 
-**蚂蚁家园的解决方案**：
+**Ant Home's Solution**:
 
-- **一次完美设计**：系统部署前进行充分设计和测试
+- **One-time perfect design**: Sufficient design and testing before system deployment
 
-- **参数固化**：关键参数永不更改，避免需求蠕变
+- **Parameter fixation**: Key parameters never change, avoid requirement creep
 
-- **迁徙重构**：通过迁徙机制定期"重构"整个系统
+- **Migration reconstruction**: Periodically "refactor" the entire system through migration mechanism
 
-**数学模型**：
+**Mathematical Model**:
 
-设技术债务为D(t)，系统价值为V(t)：
+Let technical debt be D(t), system value be V(t):
 
-- 传统系统：D(t) = D₀ × e^(αt)（指数增长）
+- Traditional system: D(t) = D₀ × e^(αt) (exponential growth)
 
-- 蚂蚁家园：D(t) = D₀（通过迁徙周期性归零）
+- Ant Home: D(t) = D₀ (periodically reset to zero through migration)
 
-长期来看：
+In the long term:
 
-- 传统系统：V(t) → 0（技术债务拖垮系统） 
+- Traditional system: V(t) → 0 (technical debt drags down system) 
 
-- 蚂蚁家园：V(t) → ∞（每次迁徙都优化）
+- Ant Home: V(t) → ∞ (each migration optimizes)
 
-这种设计哲学体现了东方智慧中的"不破不立"思想，通过主动的"破"来实现更好的"立"。
+This design philosophy embodies the Eastern wisdom of "no breaking, no establishing", achieving better "establishing" through active "breaking".
 
-正如阿明在代码中感受到的那样，蚂蚁家园的每一个技术决策都经过深思熟虑，每一个架构选择都体现了对长期价值的追求。这不仅仅是技术的胜利，更是理性思考的结晶。
+Just as Amin felt in the code, every technical decision of Ant Home was deeply considered, every architectural choice reflected the pursuit of long-term value. This was not just a victory of technology, but the crystallization of rational thinking.
 
 ---
 
-## 技术契约：完整技术实现方案
+## Technical Contract: Complete Technical Implementation Solution
 
-从阿明感受到的代码美学到架构设计的理性分析，现在让我们深入探索蚂蚁家园完整技术实现方案的每一个细节。这不仅是技术的展示，更是对每只数字蚂蚁的庄重承诺。
+From the code aesthetics that Amin felt to the rational analysis of architectural design, now let's deeply explore every detail of Ant Home's complete technical implementation solution. This is not just a display of technology, but a solemn promise to every digital ant.
 
-### 智能合约架构：完整的合约代码框架
+### Smart Contract Architecture: Complete Contract Code Framework
 
-蚂蚁家园的智能合约采用模块化设计，每个合约都有明确的职责边界：
+Ant Home's smart contracts adopt modular design, with each contract having clear responsibility boundaries:
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
 /**
- * @title 蚂蚁家园主合约
+ * @title Ant Home Main Contract
  * @author Antilia Team
- * @notice 这是我们对每只数字蚂蚁的永恒承诺
- * @dev 一旦部署，永不更改，如星辰般恒久不变
+ * @notice This is our eternal promise to every digital ant
+ * @dev Once deployed, never changed, enduring like stars
  */
 contract AntiliaCore is ReentrancyGuard, Pausable {
  using SafeMath for uint256;
  using Address for address payable;
  
- // ============ 永恒常量 ============
- // 这些数值如物理定律般不可改变
+ // ============ Eternal Constants ============
+ // These values are unchangeable like physical laws
  uint256 public constant AO_AMOUNT = 50 * 1e6; // 50 USDT
  uint256 public constant AM_AMOUNT = 500 * 1e6; // 500 USDT 
  uint256 public constant AS_AMOUNT = 2000 * 1e6; // 2000 USDT
@@ -374,7 +374,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  
  uint256 public constant PIONEER_REWARD_RATE = 1000; // 10%
  
- // ============ 状态变量 ============
+ // ============ State Variables ============
  IERC20 public immutable USDT;
  address public immutable rewardPool;
  
@@ -389,7 +389,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  mapping(address => address) public referrers;
 
  
- // ============ 结构体定义 ============
+ // ============ Struct Definitions ============
  struct Order {
  uint256 id;
  address owner;
@@ -402,7 +402,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  
  enum OrderType { AO, AM, AS }
  
- // ============ 事件定义 ============
+ // ============ Event Definitions ============
  event OrderCreated(
  uint256 indexed orderId,
  address indexed owner,
@@ -425,7 +425,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  uint256 timestamp
  );
  
- // ============ 构造函数 ============
+ // ============ Constructor ============
  constructor(
  address _usdt,
  address _rewardPool
@@ -436,16 +436,16 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  USDT = IERC20(_usdt);
  rewardPool = _rewardPool;
  
- // 初始化订单计数器
+ // Initialize order counter
  orderCounter = 1;
  }
  
- // ============ 核心功能实现 ============
+ // ============ Core Function Implementation ============
  
  /**
- * @notice 创建共建订单
- * @param _orderType 订单类型 (AO/AM/AS)
- * @param _referrer 推荐人地址
+ * @notice Create co-construction order
+ * @param _orderType Order type (AO/AM/AS)
+ * @param _referrer Referrer address
  */
  function createOrder(
  OrderType _orderType,
@@ -459,10 +459,10 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  uint256 amount = _getOrderAmount(_orderType);
  uint256 period = _getOrderPeriod(_orderType);
  
- // 转入USDT
+ // Transfer USDT
  USDT.transferFrom(msg.sender, address(this), amount);
  
- // 创建订单
+ // Create order
  orders[orderCounter] = Order({
  id: orderCounter,
  owner: msg.sender,
@@ -475,7 +475,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  
  activeOrderId[msg.sender] = orderCounter;
  
- // 建立推荐关系（仅首次）
+ // Establish referral relationship (first time only)
  if (referrers[msg.sender] == address(0)) {
  referrers[msg.sender] = _referrer;
  }
@@ -492,8 +492,8 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  }
  
  /**
- * @notice 提取订单收益
- * @param _orderId 订单ID
+ * @notice Claim order returns
+ * @param _orderId Order ID
  */
  function claimOrder(uint256 _orderId) external nonReentrant {
  Order storage order = orders[_orderId];
@@ -504,27 +504,27 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  
  uint256 returnAmount = _calculateReturnAmount(order.orderType, order.amount);
  
- // 检查迁徙条件
+ // Check migration conditions
  if (address(this).balance < returnAmount) {
  _triggerMigration();
  return;
  }
  
- // 标记已提取
+ // Mark as claimed
  order.claimed = true;
  activeOrderId[msg.sender] = 0;
  
- // 转账
+ // Transfer
  payable(msg.sender).transfer(returnAmount);
  
  emit OrderClaimed(_orderId, msg.sender, returnAmount);
  }
  
  
- // ============ 迁徙机制实现 ============
+ // ============ Migration Mechanism Implementation ============
  
  /**
- * @notice 触发蚁群迁徙
+ * @notice Trigger ant colony migration
  */
  function _triggerMigration() internal {
  require(!migrationTriggered, "Migration already triggered");
@@ -536,11 +536,11 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  uint256 pioneerReward = remainingBalance.mul(PIONEER_REWARD_RATE).div(10000);
  uint256 buildingReward = remainingBalance.sub(pioneerReward);
  
- // 分发先锋奖励
+ // Distribute pioneer rewards
  _distributePioneerRewards(pioneerReward);
  
- // 转移建设奖到多签钱包
- // (这里需要预设多签钱包地址)
+ // Transfer building rewards to multi-sig wallet
+ // (Multi-sig wallet address needs to be preset here)
  
  emit MigrationTriggered(
  remainingBalance,
@@ -551,10 +551,10 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  }
  
  /**
- * @notice 分发先锋奖励给最后36个AS订单
+ * @notice Distribute pioneer rewards to last 36 AS orders
  */
  function _distributePioneerRewards(uint256 totalReward) internal {
- // 获取最后36个AS订单
+ // Get last 36 AS orders
  address[] memory pioneers = _getLastASOrders(36);
  
  if (pioneers.length > 0) {
@@ -567,7 +567,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  }
  }
  
- // ============ 辅助函数 ============
+ // ============ Helper Functions ============
  
  function _getOrderAmount(OrderType _type) internal pure returns (uint256) {
  if (_type == OrderType.AO) return AO_AMOUNT;
@@ -593,7 +593,7 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
  revert("Invalid order type");
  }
  
- // ============ 查询函数 ============
+ // ============ Query Functions ============
  
  function getOrderInfo(uint256 _orderId) external view returns (
  address owner,
@@ -628,12 +628,12 @@ contract AntiliaCore is ReentrancyGuard, Pausable {
 }
 ```
 
-### 后端服务系统：微服务架构设计
+### Backend Service System: Microservice Architecture Design
 
-蚂蚁家园的后端采用现代化的微服务架构，每个服务独立部署，职责单一：
+Ant Home's backend adopts modern microservice architecture, with each service independently deployed and having single responsibility:
 
 ```javascript
-// 用户服务 - User Service
+// User Service
 class UserService {
  constructor() {
  this.db = new PostgreSQLConnection();
@@ -642,24 +642,24 @@ class UserService {
  }
  
  /**
- * 用户注册与ID分配
+ * User registration and ID allocation
  */
  async registerUser(walletAddress, referrerAddress) {
- // 验证地址有效性
+ // Validate address
  if (!this.isValidAddress(walletAddress)) {
  throw new Error('Invalid wallet address');
  }
  
- // 检查是否已注册
+ // Check if already registered
  const existingUser = await this.db.findUserByAddress(walletAddress);
  if (existingUser) {
  return existingUser;
  }
  
- // 分配用户ID (A0000001 - A9999999)
+ // Allocate user ID (A0000001 - A9999999)
  const userId = await this.generateUserId();
  
- // 创建用户记录
+ // Create user record
  const user = await this.db.createUser({
  id: userId,
  walletAddress: walletAddress,
@@ -669,19 +669,19 @@ class UserService {
  lastActiveAt: new Date()
  });
  
- // 建立推荐关系
+ // Establish referral relationship
  if (referrerAddress) {
  await this.establishReferralRelation(walletAddress, referrerAddress);
  }
  
- // 缓存用户信息
+ // Cache user information
  await this.redis.setUserInfo(walletAddress, user);
  
  return user;
  }
  
  /**
- * 生成唯一用户ID
+ * Generate unique user ID
  */
  async generateUserId() {
  const lastId = await this.redis.get('last_user_id') || 0;
@@ -689,7 +689,7 @@ class UserService {
  
  if (nextId > 9999999) {
 
- throw new Error('用户ID已达到上限');
+ throw new Error('User ID has reached limit');
  }
  
  const userId = `A${nextId.toString().padStart(7, '0')}`;
@@ -699,47 +699,47 @@ class UserService {
  }
 }
 
-// 等级计算服务 - Level Calculation Service
+// Level Calculation Service
 class LevelCalculationService {
  constructor() {
  this.scheduler = new CronScheduler();
  this.calculator = new TribeNetworkCalculator();
  this.notifier = new EventNotifier();
  
- // 每日22:30执行等级评定
+ // Execute daily level assessment at 22:30
  this.scheduler.schedule('30 22 * * *', this.performDailyLevelAssessment.bind(this));
  }
  
  /**
- * 每日等级评定主流程
+ * Daily level assessment main process
  */
  async performDailyLevelAssessment() {
- console.log(`[${new Date().toISOString()}] 开始每日等级评定...`);
+ console.log(`[${new Date().toISOString()}] Starting daily level assessment...`);
  
  const startTime = Date.now();
  
  try {
- // 1. 获取所有注册用户
+ // 1. Get all registered users
  const allUsers = await this.userService.getAllUsers();
- console.log(`发现 ${allUsers.length} 个用户`);
+ console.log(`Found ${allUsers.length} users`);
  
- // 2. 获取活跃订单快照
+ // 2. Get active order snapshot
  const activeOrders = await this.orderService.getActiveOrdersSnapshot();
- console.log(`发现 ${activeOrders.length} 个活跃订单`);
+ console.log(`Found ${activeOrders.length} active orders`);
  
- // 3. 并行计算用户等级
+ // 3. Calculate user levels in parallel
  const levelUpdates = await this.batchCalculateUserLevels(allUsers, activeOrders);
  
- // 4. 批量更新用户等级
+ // 4. Batch update user levels
  await this.userService.batchUpdateLevels(levelUpdates);
  
- // 5. 更新军团排名
+ // 5. Update legion rankings
  await this.legionService.updateRankings();
  
  const duration = Date.now() - startTime;
- console.log(`等级评定完成，耗时: ${duration}ms`);
+ console.log(`Level assessment completed, duration: ${duration}ms`);
  
- // 发送完成通知
+ // Send completion notification
  await this.notifier.notify('LEVEL_ASSESSMENT_COMPLETED', {
  usersProcessed: allUsers.length,
  levelChanges: levelUpdates.filter(u => u.levelChanged).length,
@@ -748,13 +748,13 @@ class LevelCalculationService {
  });
  
  } catch (error) {
- console.error('等级评定失败:', error);
+ console.error('Level assessment failed:', error);
  await this.notifier.notify('LEVEL_ASSESSMENT_FAILED', { error: error.message });
  }
  }
  
  /**
- * 批量计算用户等级
+ * Batch calculate user levels
  */
  async batchCalculateUserLevels(users, activeOrders) {
  const batchSize = 100;
@@ -774,10 +774,10 @@ class LevelCalculationService {
  }
  
  /**
- * 计算单个用户等级
+ * Calculate single user level
  */
  async calculateSingleUserLevel(user, activeOrders) {
- // 检查用户是否有活跃AS订单
+ // Check if user has active AS order
  const hasActiveASOrder = activeOrders.some(order => 
  order.owner === user.walletAddress && 
  order.orderType === 'AS' && 
@@ -794,7 +794,7 @@ class LevelCalculationService {
  };
  }
  
- // 计算部落网络等级
+ // Calculate tribe network level
  const newLevel = await this.calculator.calculateTribeLevel(
  user.walletAddress, 
  activeOrders
@@ -810,70 +810,70 @@ class LevelCalculationService {
  }
 }
 
-// 奖励计算服务 - Reward Calculation Service
+// Reward Calculation Service
 class RewardCalculationService {
  constructor() {
  this.scheduler = new CronScheduler();
  this.calculator = new TribeRewardCalculator();
  this.distributor = new RewardDistributor();
  
- // 每日23:00执行奖励计算
+ // Execute daily reward calculation at 23:00
  this.scheduler.schedule('0 23 * * *', this.performDailyRewardCalculation.bind(this));
  }
  
  /**
- * 每日奖励计算主流程
+ * Daily reward calculation main process
  */
  async performDailyRewardCalculation() {
- console.log(`[${new Date().toISOString()}] 开始每日奖励计算...`);
+ console.log(`[${new Date().toISOString()}] Starting daily reward calculation...`);
  
  try {
- // 1. 获取有效用户（Am及以上等级，有活跃订单）
+ // 1. Get eligible users (Am and above level, with active orders)
  const eligibleUsers = await this.getEligibleUsers();
  
- // 2. 计算部落贡献奖
+ // 2. Calculate tribe contribution rewards
  const tribeRewards = await this.calculateTribeRewards(eligibleUsers);
  
- // 3. 累计军团奖池
+ // 3. Accumulate legion pool contribution
  const legionPoolContribution = await this.calculateLegionPoolContribution();
  
- // 4. 分发部落贡献奖
+ // 4. Distribute tribe contribution rewards
  await this.distributor.distributeTribeRewards(tribeRewards);
  
- // 5. 累计军团奖池
+ // 5. Accumulate legion pool
  await this.legionService.accumulateWeeklyPool(legionPoolContribution);
  
- console.log('每日奖励计算完成');
+ console.log('Daily reward calculation completed');
  
  } catch (error) {
- console.error('奖励计算失败:', error);
+ console.error('Reward calculation failed:', error);
  }
  }
 }
 ```
 
-### 数据库设计：高并发下的数据结构优化
+### Database Design: Data Structure Optimization Under High Concurrency
 
-蚂蚁家园采用混合数据存储策略，针对不同类型的数据选择最适合的存储方案：
+Ant Home adopts hybrid data storage strategy, choosing the most suitable storage solution for different types of data:
 
 ```sql
--- 用户基础信息表 (PostgreSQL - 强一致性)
+-- User basic information table (PostgreSQL - Strong consistency)
 CREATE TABLE users (
- id VARCHAR(8) PRIMARY KEY, -- A0000001格式
+ id VARCHAR(8) PRIMARY KEY, -- A0000001 format
  wallet_address VARCHAR(42) UNIQUE NOT NULL,
  referrer_address VARCHAR(42),
  current_level VARCHAR(10) DEFAULT 'Ob',
  registered_at TIMESTAMP DEFAULT NOW(),
  last_active_at TIMESTAMP DEFAULT NOW(),
  
- -- 索引优化
+ -- Index optimization
  INDEX idx_wallet_address (wallet_address),
  INDEX idx_referrer_address (referrer_address),
  INDEX idx_current_level (current_level),
  INDEX idx_last_active (last_active_at)
 );
 
--- 部落关系表 (永久保存，迁徙不删除)
+-- Tribe relationship table (Permanent save, not deleted in migration)
 CREATE TABLE tribe_relations (
  user_address VARCHAR(42) NOT NULL,
  referrer_address VARCHAR(42) NOT NULL,
@@ -882,12 +882,12 @@ CREATE TABLE tribe_relations (
  PRIMARY KEY (user_address),
  INDEX idx_referrer (referrer_address),
  
- -- 外键约束
+ -- Foreign key constraints
  FOREIGN KEY (user_address) REFERENCES users(wallet_address),
  FOREIGN KEY (referrer_address) REFERENCES users(wallet_address)
 );
 
--- 订单信息表 (链下备份链上数据)
+-- Order information table (Off-chain backup of on-chain data)
 CREATE TABLE orders (
  id BIGINT PRIMARY KEY,
  owner_address VARCHAR(42) NOT NULL,
@@ -899,13 +899,13 @@ CREATE TABLE orders (
  block_number BIGINT NOT NULL,
  transaction_hash VARCHAR(66) NOT NULL,
  
- -- 复合索引优化查询
+ -- Composite index for query optimization
  INDEX idx_owner_active (owner_address, claimed),
  INDEX idx_type_time (order_type, create_time),
  INDEX idx_expire_time (expire_time)
 );
 
--- 等级历史记录表
+-- Level history table
 CREATE TABLE level_history (
  id BIGINT AUTO_INCREMENT PRIMARY KEY,
  user_address VARCHAR(42) NOT NULL,
@@ -913,15 +913,15 @@ CREATE TABLE level_history (
  new_level VARCHAR(10) NOT NULL,
  assessment_time TIMESTAMP DEFAULT NOW(),
  
- -- 分区优化 (按月分区)
+ -- Partition optimization (monthly partition)
  PARTITION BY RANGE (YEAR(assessment_time) * 100 + MONTH(assessment_time)) (
  PARTITION p202401 VALUES LESS THAN (202402),
  PARTITION p202402 VALUES LESS THAN (202403),
- -- ... 继续添加分区
+ -- ... continue adding partitions
  )
 );
 
--- 军团排名表 (Redis + PostgreSQL双存储)
+-- Legion ranking table (Redis + PostgreSQL dual storage)
 CREATE TABLE legion_rankings (
  rank_date DATE NOT NULL,
  user_address VARCHAR(42) NOT NULL,
@@ -933,31 +933,31 @@ CREATE TABLE legion_rankings (
 );
 ```
 
-**Redis缓存策略**：
+**Redis Cache Strategy**:
 
 ```javascript
 class CacheStrategy {
  constructor() {
  this.redis = new RedisCluster();
  this.ttl = {
- USER_INFO: 3600, // 用户信息: 1小时
- TRIBE_STRUCTURE: 1800, // 部落结构: 30分钟 
- LEGION_RANKING: 300, // 军团排名: 5分钟
- ORDER_STATUS: 60, // 订单状态: 1分钟
- SYSTEM_METRICS: 30 // 系统指标: 30秒
+ USER_INFO: 3600, // User info: 1 hour
+ TRIBE_STRUCTURE: 1800, // Tribe structure: 30 minutes 
+ LEGION_RANKING: 300, // Legion ranking: 5 minutes
+ ORDER_STATUS: 60, // Order status: 1 minute
+ SYSTEM_METRICS: 30 // System metrics: 30 seconds
  };
  }
  
- // 多级缓存策略
+ // Multi-level cache strategy
  async getUserInfo(walletAddress) {
  const cacheKey = `user:${walletAddress}`;
  
- // L1: 应用内存缓存
+ // L1: Application memory cache
  if (this.memoryCache.has(cacheKey)) {
  return this.memoryCache.get(cacheKey);
  }
  
- // L2: Redis缓存
+ // L2: Redis cache
  const cached = await this.redis.get(cacheKey);
  if (cached) {
  const data = JSON.parse(cached);
@@ -965,10 +965,10 @@ class CacheStrategy {
  return data;
  }
  
- // L3: 数据库查询
+ // L3: Database query
  const data = await this.database.getUserInfo(walletAddress);
  
- // 更新所有缓存层
+ // Update all cache layers
  await this.redis.setex(cacheKey, this.ttl.USER_INFO, JSON.stringify(data));
  this.memoryCache.set(cacheKey, data, this.ttl.USER_INFO / 4);
  
@@ -977,9 +977,9 @@ class CacheStrategy {
 }
 ```
 
-### 安全审计：多重安全保障机制
+### Security Audit: Multi-layer Security Guarantee Mechanism
 
-蚂蚁家园实施了全方位的安全保障体系：
+Ant Home implements a comprehensive security guarantee system:
 
 ```javascript
 class SecurityAuditSystem {
@@ -990,27 +990,27 @@ class SecurityAuditSystem {
  }
  
  /**
- * 实时安全监控
+ * Real-time security monitoring
  */
  async startSecurityMonitoring() {
- // 1. 区块链事件监控
+ // 1. Blockchain event monitoring
  this.monitorBlockchainEvents();
  
- // 2. API访问监控
+ // 2. API access monitoring
  this.monitorAPIAccess();
  
- // 3. 数据库访问监控
+ // 3. Database access monitoring
  this.monitorDatabaseAccess();
  
- // 4. 系统资源监控
+ // 4. System resource monitoring
  this.monitorSystemResources();
  }
  
  /**
- * 区块链安全监控
+ * Blockchain security monitoring
  */
  monitorBlockchainEvents() {
- // 监听异常大额订单
+ // Monitor abnormal large orders
  this.blockchain.on('OrderCreated', async (event) => {
 
  if (event.amount > this.config.LARGE_ORDER_THRESHOLD) {
@@ -1019,7 +1019,7 @@ class SecurityAuditSystem {
  }
  });
  
- // 监听快速连续操作
+ // Monitor rapid consecutive operations
  this.blockchain.on('OrderClaimed', async (event) => {
 
  const recentOrders = await this.getRecentOrders(event.owner, 3600);
@@ -1031,26 +1031,26 @@ class SecurityAuditSystem {
  }
  
  /**
- * 威胁检测与响应
+ * Threat detection and response
  */
  async analyzeThreat(threatData) {
  const riskScore = await this.calculateRiskScore(threatData);
  
  if (riskScore > 0.8) {
 
- // 高风险: 立即阻断
+ // High risk: Immediate blocking
  await this.blockThreatSource(threatData.source);
  await this.notifySecurityTeam('HIGH_RISK_DETECTED', threatData);
  
  } else if (riskScore > 0.6) {
 
- // 中风险: 限制访问
+ // Medium risk: Limit access
  await this.limitAccess(threatData.source);
  await this.logSecurityIncident('MEDIUM_RISK', threatData);
  
  } else if (riskScore > 0.4) {
 
- // 低风险: 记录监控
+ // Low risk: Log and monitor
  await this.logSecurityIncident('LOW_RISK', threatData);
  }
  
@@ -1058,7 +1058,7 @@ class SecurityAuditSystem {
  }
  
  /**
- * 合约安全验证
+ * Contract security verification
  */
  async verifyContractSecurity() {
  const checks = [
@@ -1080,18 +1080,18 @@ class SecurityAuditSystem {
 }
 ```
 
-通过这套完整的技术架构，蚂蚁家园实现了：
+Through this complete technical architecture, Ant Home achieved:
 
-1. **绝对安全**：智能合约无升级接口，资金安全100%保障
-2. **高性能**：混合架构支持大规模用户并发操作 
-3. **可扩展**：微服务架构支持系统持续演进
-4. **可维护**：模块化设计便于长期运营维护
-5. **可审计**：全链路日志记录，操作完全透明
+1. **Absolute Security**: Smart contracts have no upgrade interface, 100% fund security guarantee
+2. **High Performance**: Hybrid architecture supports large-scale user concurrent operations 
+3. **Scalability**: Microservice architecture supports continuous system evolution
+4. **Maintainability**: Modular design facilitates long-term operation and maintenance
+5. **Auditability**: Full-link log recording, completely transparent operations
 
-正如阿明在代码中感受到的那样，这不仅仅是技术的堆砌，而是对每只数字蚂蚁的庄重承诺。每一行代码都经过精心设计，每一个模块都承载着对完美的追求。
+Just as Amin felt in the code, this is not just a pile of technology, but a solemn promise to every digital ant. Every line of code is carefully designed, every module carries the pursuit of perfection.
 
-这就是蚂蚁家园技术架构的工程美学——用最优雅的代码实现最可靠的承诺，用最先进的技术守护最珍贵的信任。
+This is the engineering aesthetics of Ant Home's technical architecture—using the most elegant code to implement the most reliable promises, using the most advanced technology to guard the most precious trust.
 
 ---
 
-*下一章我们将深入探讨永恒法则的智慧设计，理解为什么蚂蚁家园选择了"一次完美，永不更改"的设计哲学...*
+*Next chapter, we will deeply explore the wise design of eternal laws, understanding why Ant Home chose the design philosophy of "once perfect, never changed"...*

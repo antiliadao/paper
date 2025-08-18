@@ -1,220 +1,201 @@
-# 第四章：军团竞争的卓越驱动
+# Chapter 4: Excellence Driven by Legion Competition
 
-## 情感契约：军团英雄的荣耀之路
+## Emotional Contract: The Path to Glory for Legion Heroes
 
-当阿明成为AS6部落元帅的那一刻，他以为自己已经到达了蚂蚁家园的顶峰。拥有超过1000人的庞大网络，每天上千USDT的丰厚收益，在外人看来，他已经是这个生态中最成功的蚂蚁之一。
+When Amin became the AS6 tribal marshal, he thought he had reached the pinnacle of Ant Home. With a massive network of over 1,000 people and rich daily income of thousands of USDT, in the eyes of others, he was already one of the most successful ants in this ecosystem.
 
-但是，真正的挑战才刚刚开始。
+However, the real challenge had just begun.
 
-在一个月圆之夜，系统推送了一条特殊的消息："恭喜您获得军团竞选资格！蚂蚁家园最高荣誉——36席军团正在招募，您目前排名第52位。距离军团仅差一步之遥！"
+On a full moon night, the system pushed a special message: "Congratulations on qualifying for legion selection! The highest honor of Ant Home - the 36-seat legion is recruiting, and you are currently ranked 52nd. You are just one step away from the legion!"
 
-![军团席位图](/images/chapter4/chapter4-legion.png)
+![Legion Seats Diagram](/images/chapter4/chapter4-legion.png)
 
-阿明看着这条消息，心中涌起了前所未有的激情。军团！那是蚂蚁家园的最高殿堂，只有全网最优秀的36位AS6元帅才能进入。这不仅仅是荣誉的象征，更意味着每周能够分享全网20%的奖励池——那将是一笔极其可观的收益。
+Looking at this message, Amin felt an unprecedented passion surge in his heart. The Legion! That was the highest palace of Ant Home, where only the top 36 AS6 marshals from the entire network could enter. This was not only a symbol of honor, but also meant being able to share 20% of the entire network's reward pool every week - that would be an extremely considerable income.
 
-但更重要的是，阿明意识到这是一个证明自己真正价值的机会。在蚂蚁家园，军团成员不是靠关系、不是靠运气，而是靠实实在在的贡献和能力。每周一的军团选拔，都是基于小部落总业绩的公开排名，任何人都无法作弊，任何人都无法走后门。
+But more importantly, Amin realized this was an opportunity to prove his true value. In Ant Home, legion members were not chosen by connections or luck, but by real contributions and abilities. Every Monday's legion selection was based on public rankings of small tribe total performance, where no one could cheat and no one could pull strings.
 
-"第52位......"阿明深深地思考着。他知道，要进入前36名，意味着他需要超越至少16位同样优秀的竞争者。这些人都和他一样，是AS6等级的顶尖选手，都拥有庞大的网络和丰富的经验。
+"Ranked 52nd..." Amin thought deeply. He knew that to enter the top 36 meant he needed to surpass at least 16 equally excellent competitors. These people were all like him, top players at AS6 level, all with massive networks and rich experience.
 
-阿明开始仔细分析自己的不足。他发现，虽然自己的网络规模很大，但小部落的活跃度还有提升空间。很多下级虽然加入了网络，但并没有持续参与共建，这直接影响了他的小部落总业绩排名。
+Amin began to carefully analyze his shortcomings. He found that although his network was large in scale, the activity level of his small tribe still had room for improvement. Many subordinates had joined the network but were not continuously participating in co-construction, which directly affected his small tribe total performance ranking.
 
-"我需要做的不是简单地扩大网络规模，而是提升网络质量。"阿明恍然大悟。
+"What I need to do is not simply expand the network scale, but improve network quality," Amin suddenly realized.
 
-从那天起，阿明开始了一场全新的征程。他不再只是被动地等待下级邀请新人，而是主动地为自己的网络成员提供价值。他建立了部落学习群，定期分享蚂蚁家园的运营心得；他组织线上交流活动，让网络成员互相学习、相互鼓励；他甚至开始提供一对一的指导，帮助那些迷茫的新成员找到属于自己的发展路径。
+From that day on, Amin began a completely new journey. He no longer just passively waited for subordinates to invite new people, but actively provided value to his network members. He established tribal learning groups, regularly sharing operational insights about Ant Home; he organized online communication activities, allowing network members to learn from each other and encourage one another; he even began providing one-on-one guidance, helping confused new members find their own development paths.
 
-最让阿明感动的是网络成员们的回应。当小李看到阿明如此用心地帮助大家时，主动提出要为群体做更多贡献；当小王发现自己的收益稳步增长时，开始积极邀请身边的朋友加入；当整个网络的活跃度开始提升时，每个人的收益都在增长。
+What moved Amin most was the response from network members. When Xiao Li saw how wholeheartedly Amin was helping everyone, he actively proposed to contribute more to the group; when Xiao Wang found his income steadily growing, he began actively inviting friends around him to join; when the entire network's activity level began to improve, everyone's income was growing.
 
-三个月的努力后，奇迹发生了。在一个普通的周一早晨，系统推送了一条改变阿明命运的消息："恭喜您成功晋级军团！当前排名第28位。您的小部落总业绩为2,156,789 USDT，本周军团奖励为12,567 USDT。"
+After three months of effort, a miracle happened. On an ordinary Monday morning, the system pushed a message that changed Amin's destiny: "Congratulations on successfully advancing to the legion! Current ranking: 28th. Your small tribe total performance is 2,156,789 USDT, this week's legion reward is 12,567 USDT."
 
-阿明看着这条消息，眼中闪烁着激动的泪花。这不仅仅是排名的提升，更是对他付出和努力的最好认可。他知道，自己能够进入军团，不是因为运气，不是因为投机，而是因为他真正为这个生态创造了价值。
+Looking at this message, Amin's eyes glistened with tears of excitement. This was not just an improvement in ranking, but the best recognition of his efforts and dedication. He knew that his ability to enter the legion was not due to luck or speculation, but because he had truly created value for this ecosystem.
 
-但阿明很快发现，进入军团只是另一个开始。在军团内部，竞争同样激烈。排名第36位的成员随时可能被淘汰，排名靠前的成员享有更高的声望和影响力。更重要的是，作为军团成员，他们不仅要对自己的收益负责，更要对整个生态的健康发展承担责任。
+But Amin soon discovered that entering the legion was just another beginning. Within the legion, competition was equally fierce. The member ranked 36th could be eliminated at any time, while those ranked higher enjoyed greater prestige and influence. More importantly, as legion members, they were not only responsible for their own income, but also bore responsibility for the healthy development of the entire ecosystem.
 
-在军团内部交流群中，阿明见识到了什么叫做真正的卓越。排名第1的军团长老蚁，管理着超过5000人的网络，小部落总业绩高达800万USDT，但他从不炫耀自己的成就，而是经常分享自己的经验，帮助其他军团成员共同提升。
+In the legion's internal communication group, Amin witnessed what true excellence meant. The top-ranked veteran ant managed a network of over 5,000 people with small tribe total performance reaching 8 million USDT, but he never boasted about his achievements. Instead, he often shared his experiences and helped other legion members improve together.
 
-"真正的强者，不是踩着别人往上爬，而是拉着别人一起向上走。"老蚁在群里说道，"我们军团的存在，不是为了垄断利益，而是为了证明：在蚂蚁家园，卓越是可以通过努力达到的。"
+"True strength is not about climbing over others, but about pulling others up with you," the veteran ant said in the group. "Our legion exists not to monopolize benefits, but to prove that in Ant Home, excellence can be achieved through effort."
 
-这句话深深震撼了阿明。他意识到，军团竞争的真正意义不在于击败对手，而在于通过相互竞争，推动整个生态向更高的水平发展。每个军团成员都是其他成员的镜子，通过看到别人的卓越，发现自己的潜力。
+This statement deeply shocked Amin. He realized that the true meaning of legion competition was not about defeating opponents, but about pushing the entire ecosystem to higher levels through mutual competition. Every legion member was a mirror for other members, discovering their own potential by seeing others' excellence.
 
-半年后，阿明的排名稳定在第18位。虽然没有冲到榜首，但他已经找到了属于自己的位置和价值。更重要的是，他的网络中涌现出了越来越多的AS6选手，其中甚至有两人也成功进入了军团。
+Six months later, Amin's ranking stabilized at 18th. Although he hadn't reached the top, he had found his own position and value. More importantly, more and more AS6 players emerged from his network, with two even successfully entering the legion.
 
-"师父，谢谢您的指导！"新晋军团成员小李激动地在群里说道。
+"Master, thank you for your guidance!" newly promoted legion member Xiao Li excitedly said in the group.
 
-"我们是同伴，不是师徒。"阿明回答道，"在蚂蚁家园，每个人都有机会成为最好的自己。"
+"We are companions, not master and disciple," Amin replied. "In Ant Home, everyone has the opportunity to become their best self."
 
-当阿明回顾这段军团竞争的历程时，他深深感动于这个机制的巧妙设计。这里的竞争不是零和博弈，而是正和合作；这里的卓越不是天生注定，而是后天努力；这里的荣誉不是虚无缥缈，而是实实在在的价值创造。
+When Amin looked back on this journey of legion competition, he was deeply moved by the ingenious design of this mechanism. The competition here was not zero-sum game, but positive-sum cooperation; excellence here was not predetermined by birth, but achieved through effort; honor here was not ethereal, but real value creation.
 
-在蚂蚁家园的最高峰，36位部落元帅组成了传说中的军团。他们不仅是个人成就的象征，更是整个生态繁荣的守护者。他们用自己的卓越，证明了在这个去中心化的世界里，每只蚂蚁都有机会成为英雄。
+At the highest peak of Ant Home, 36 tribal marshals formed the legendary legion. They were not only symbols of personal achievement, but guardians of the entire ecosystem's prosperity. With their excellence, they proved that in this decentralized world, every ant has the opportunity to become a hero.
 
 ---
 
-## 理性契约：竞争机制的激励效果分析
+## Rational Contract: Analysis of Competitive Mechanism's Incentive Effects
 
-阿明在军团竞争中的成长历程，完美展现了现代竞争理论和激励机制设计的核心原理。蚂蚁家园的军团系统不仅激发了个体潜能，更优化了整个生态的资源配置效率。
+Amin's growth journey in legion competition perfectly demonstrates the core principles of modern competition theory and incentive mechanism design. Ant Home's legion system not only stimulated individual potential but also optimized the resource allocation efficiency of the entire ecosystem.
 
-### 竞争理论基础：适度竞争促进整体发展
+### Competition Theory Foundation: Moderate Competition Promotes Overall Development
 
-经济学研究表明，适度的竞争是促进效率和创新的关键因素。蚂蚁家园的军团机制巧妙地平衡了竞争强度和合作效应：
+Economic research shows that moderate competition is a key factor in promoting efficiency and innovation. Ant Home's legion mechanism cleverly balances competition intensity and cooperative effects:
 
-**最优竞争强度分析**：
+**Optimal Competition Intensity Analysis:**
 
-竞争激励效果遵循倒U型曲线：
+Competition incentive effects follow an inverted U-curve:
 
-- 竞争过弱：缺乏动力，效率低下
+- Too weak competition: Lack of motivation, low efficiency
+- Moderate competition: Stimulates potential, promotes innovation
+- Too intense competition: Resource waste, vicious competition
 
-- 竞争适中：激发潜能，促进创新 
+Ant Home's design parameters:
 
-- 竞争过激：资源浪费，恶性竞争
+- **Legion Size**: 36 people (approximately 5-10% of total AS6)
+- **Selection Cycle**: Weekly updates (maintaining competitive vitality)
+- **Evaluation Criteria**: Small tribe total performance (objective quantification)
+- **Reward Ratio**: 20% of network daily income (sufficient incentive but not excessive)
 
-蚂蚁家园的设计参数：
+This design ensures competition intensity remains in the optimal range, providing sufficient incentive effects while avoiding vicious competition.
 
-- **军团规模**：36人（约占AS6总数的5-10%）
+### Elite Effect: Demonstration and Leading Role of Top Users
 
-- **评选周期**：每周更新（保持竞争活力）
+The legion system fully utilizes the "elite effect" principle from social psychology. The success cases of top users have multiple positive impacts on the entire ecosystem:
 
-- **评判标准**：小部落总业绩（客观量化）
+**Demonstration Effect:**
 
-- **奖励比例**：全网日收益20%（足够激励但不过度）
+- Replicable success paths: Clear growth paths can be seen from Amin's case
+- Strong incentive effect: Specific success stories are more persuasive than abstract promises
+- Lower participation barriers: New users gain confidence seeing real success cases
 
-这个设计确保了竞争强度处于最优区间，既有足够的激励效果，又避免了恶性竞争。
+**Leading Effect:**
 
-### 精英效应：头部用户的示范和带动作用
+- Knowledge spillover: Legion members share experiences, improving overall level
+- Network externalities: Excellent users' network expansion drives more user participation
+- Brand value: Legion honor enhances the entire platform's reputation
 
-军团系统充分利用了"精英效应"这一社会心理学原理。头部用户的成功案例对整个生态产生多重正向影响：
+**Data Support:**
 
-**示范效应**：
+According to behavioral economics research, the influence of elite effects can be quantified:
 
-- 成功路径可复制：从阿明的案例可以看出明确的成长路径
+- Top 5% of users' behavior influences over 50% of ordinary users' decisions
+- Success case dissemination efficiency is 3-5 times higher than advertising
+- Peer effects increase new user retention rates by 40-60%
 
-- 激励作用强烈：具体的成功故事比抽象的承诺更有说服力
+### Dynamic Balance: Mechanism Design to Prevent Oligopoly
 
-- 降低参与门槛：新用户看到真实的成功案例，增强信心
+Traditional competitive systems often face the "Matthew effect" problem - the strong get stronger, eventually forming oligopolies. Ant Home prevents this risk through multiple mechanisms:
 
-**带动效应**：
+**Competition Threshold Design:**
 
-- 知识溢出：军团成员分享经验，提升整体水平
+1. **Basic Threshold**: AS6 level + active orders (preventing speculators)
+2. **Capability Threshold**: Small tribe total performance ranking (based on actual contribution)
+3. **Dynamic Adjustment**: Weekly re-ranking (preventing interest solidification)
 
-- 网络外部性：优秀用户的网络扩张带动更多用户参与
+**Anti-monopoly Mechanisms:**
 
-- 品牌价值：军团荣誉提升整个平台的声誉
+1. **Seat Limitation**: Maximum 36 people, preventing unlimited expansion
+2. **Continuous Competition**: Lower-ranked members are eliminated, maintaining competitive pressure
+3. **Diverse Evaluation**: Based on network quality rather than pure scale
 
-**数据支撑**：
+**Mathematical Model Verification:**
 
-根据行为经济学研究，精英效应的影响力可以量化：
+Let legion members' competitive advantage be function A(t) = f(network scale, network quality, time investment)
 
-- 头部5%用户的行为影响50%以上的普通用户决策
+Under Ant Home's mechanism:
 
-- 成功案例的传播效率比广告高3-5倍
+- ∂A/∂network scale > 0 but diminishing returns
+- ∂A/∂network quality always positive and non-decreasing
+- ∂A/∂time investment > 0 with critical values
 
-- 同伴效应使新用户留存率提升40-60%
+This ensures latecomers still have opportunities to surpass, avoiding position solidification.
 
-### 动态平衡：防止寡头垄断的机制设计
+### Economic Significance of the 20% Legion Reward Pool
 
-传统的竞争系统往往面临"马太效应"问题——强者恒强，最终形成寡头垄断。蚂蚁家园通过多重机制防范这一风险：
+![Reward Pool Distribution Diagram](/images/chapter4/chapter4-pool.png)
 
-**竞争门槛设计**：
+The legion reward pool design reflects deep economic considerations - it's not only an incentive tool but also an optimization mechanism for value distribution:
 
-1. **基础门槛**：AS6等级 + 活跃订单（防止投机者）
-2. **能力门槛**：小部落总业绩排名（基于实际贡献）
-3. **动态调整**：每周重新排名（防止既得利益固化）
+**Incentive Efficiency Analysis:**
 
-**反垄断机制**：
+Traditional egalitarian distribution: Insufficient incentive, free-rider problem
+Fully market-based distribution: Polarization, system instability
+Ant Home's 20% distribution: Finding balance between efficiency and fairness
 
-1. **席位限制**：最多36人，防止无限扩张
-2. **持续竞争**：排名靠后者被淘汰，保持竞争压力
-3. **多元评价**：基于网络质量而非单纯规模
+**Mathematical Optimization of Pool Size:**
 
-**数学模型验证**：
+Let total network daily income be R, legion pool ratio be α:
 
-设军团成员的竞争优势为函数 A(t) = f(网络规模, 网络质量, 时间投入)
+- α too small: Insufficient incentive, weak competition
+- α too large: Exacerbated inequality, affecting ecosystem stability
+- Optimal α ≈ 20%: Calculated based on Pareto distribution and incentive theory
 
-在蚂蚁家园的机制下：
+**Rationality of Distribution Formula:**
 
-- ∂A/∂网络规模 > 0 但边际递减
+Individual reward = Weekly pool × (Individual small tribe performance ÷ Total performance of 36 members)
 
-- ∂A/∂网络质量 始终为正且不递减
+This formula ensures:
+1. **Distribution by contribution**: Income proportional to actual value creation
+2. **Relative fairness**: Avoiding absolute egalitarianism
+3. **Maintained incentive**: Reasonable income even for lower rankings
 
-- ∂A/∂时间投入 > 0 且有临界值
+### Role of Network Effects in Legion Competition
 
-这确保了后来者仍有超越机会，避免了位置固化。
+Legion competition is not just competition between individuals, but competition of network effects. This reflects the core characteristics of modern digital economy:
 
-### 20%军团奖池的经济学意义
+**Network Value Creation Model:**
 
-![奖池分配图](/images/chapter4/chapter4-pool.png)
+Traditional business: Individual value = Individual ability × Individual effort
+Network economy: Network value = ∑Individual value + Network synergy effects
 
-军团奖池的设计体现了深层的经济学考量，它不仅是激励工具，更是价值分配的优化机制：
+Ant Home's legion competition is based on network value creation competition.
 
-**激励效率分析**：
+**Quantitative Analysis of Synergy Effects:**
 
-传统的平均主义分配：激励不足，搭便车问题
-完全市场化分配：两极分化，系统不稳定
-蚂蚁家园的20%分配：在效率和公平间找到平衡点
+Using Amin's case as example:
 
-**奖池规模的数学优化**：
+- Individual basic income: 20 USDT/day
+- Network synergy value-added: 3000 USDT/day
+- Synergy amplification multiple: 160x
 
-设全网日收益为R，军团奖池比例为α：
+This amplification effect is not the result of zero-sum games, but new value created through network collaboration.
 
-- α太小：激励不足，竞争不激烈
+**Competition-Cooperation Coexistence Model:**
 
-- α太大：加剧不平等，影响生态稳定
+In the legion system, participants face complex relationships of both competition and cooperation:
 
-- 最优α≈20%：根据帕累托分布和激励理论计算得出
+- With legion members: Compete for rankings, cooperate in sharing experiences
+- With non-legion members: Compete for seats, cooperate in ecosystem development
+- With subordinate networks: Cooperative win-win, competitive growth driving
 
-**分配公式的合理性**：
+This "co-opetition" relationship is an important concept in modern business theory, which Ant Home perfectly achieves through the legion mechanism.
 
-个人奖励 = 周奖池 × (个人小部落业绩 ÷ 36人小部落总业绩)
-
-这个公式确保了：
-1. **按贡献分配**：收益与实际价值创造成正比
-2. **相对公平**：避免了绝对平均主义
-3. **激励保持**：即使排名靠后也有合理收益
-
-### 网络效应在军团竞争中的作用
-
-军团竞争不仅是个体间的竞争，更是网络效应的竞争。这体现了现代数字经济的核心特征：
-
-**网络价值创造模式**：
-
-传统商业：个人价值 = 个人能力 × 个人努力
-网络经济：网络价值 = ∑个人价值 + 网络协同效应
-
-蚂蚁家园的军团竞争正是基于网络价值创造的竞争。
-
-**协同效应的量化分析**：
-
-以阿明的案例为例：
-
-- 个人基础收益：20 USDT/天
-
-- 网络协同增值：3000 USDT/天
-
-- 协同放大倍数：160倍
-
-这种放大效应不是零和博弈的结果，而是网络协作创造的新价值。
-
-**竞争-合作并存模型**：
-
-在军团系统中，参与者面临既竞争又合作的复杂关系：
-
-- 与军团内成员：竞争排名，合作分享经验
-
-- 与军团外成员：竞争席位，合作发展生态
-
-- 与下级网络：合作共赢，竞争驱动成长
-
-这种"竞合关系"（Co-opetition）是现代商业理论的重要概念，蚂蚁家园通过军团机制完美地实现了这种平衡。
-
-正如阿明在实践中发现的那样，军团竞争的真正价值不在于击败对手，而在于通过竞争推动整个生态的进步。每个军团成员都是生态进化的催化剂，他们的卓越成就不仅属于个人，更属于整个蚂蚁家园的未来。
+As Amin discovered in practice, the true value of legion competition lies not in defeating opponents, but in promoting the progress of the entire ecosystem through competition. Every legion member is a catalyst for ecosystem evolution, and their excellent achievements belong not only to individuals, but to the future of the entire Ant Home.
 
 ---
 
-## 技术契约：军团系统技术架构
+## Technical Contract: Legion System Technical Architecture
 
-从阿明的荣耀之路到竞争理论的深入分析，现在让我们探索蚂蚁家园是如何通过精密的技术架构来实现公平、透明、实时的军团竞争系统的。
+From Amin's path to glory to the in-depth analysis of competition theory, let's now explore how Ant Home achieves a fair, transparent, and real-time legion competition system through precise technical architecture.
 
-### 排名算法：小部落总业绩的实时计算
+### Ranking Algorithm: Real-time Calculation of Small Tribe Total Performance
 
-军团排名的核心是准确、快速地计算每个AS6用户的小部落总业绩。这需要处理复杂的网络结构和大量的实时数据：
+The core of legion ranking is accurately and quickly calculating each AS6 user's small tribe total performance. This requires processing complex network structures and large amounts of real-time data:
 
 ```javascript
 class LegionRankingEngine {
@@ -224,37 +205,37 @@ class LegionRankingEngine {
  this.timeSeries = new InfluxDB();
  this.calculator = new PerformanceCalculator();
  
- // 实时更新队列
+ // Real-time update queue
  this.updateQueue = new BullQueue('legion-updates');
  this.processingLock = new RedisLock();
  }
  
- // 计算AS6用户的小部落总业绩
+ // Calculate AS6 user's small tribe total performance
  async calculateSmallTribePerformance(as6UserAddress) {
  const lockKey = `calc_lock:${as6UserAddress}`;
  
  return await this.processingLock.acquire(lockKey, async () => {
 
- // 获取直推线路
+ // Get direct referral lines
  const directLines = await this.getDirectReferralLines(as6UserAddress);
  
- // 计算每条线路的总业绩
+ // Calculate total performance for each line
  const linePerformances = await Promise.all(
  directLines.map(line => this.calculateLinePerformance(line))
 
  );
  
- // 排序确定大小部落
+ // Sort to determine large and small tribes
  linePerformances.sort((a, b) => b.performance - a.performance);
 
  
- // 小部落 = 除第一名外的所有线路
+ // Small tribe = all lines except the first
  const smallTribePerformance = linePerformances
  .slice(1)
  .reduce((sum, line) => sum + line.performance, 0);
 
  
- // 缓存结果
+ // Cache results
  await this.cachePerformanceResult(as6UserAddress, {
  smallTribePerformance,
  linePerformances,
@@ -265,7 +246,7 @@ class LegionRankingEngine {
  });
  }
  
- // 递归计算线路业绩
+ // Recursively calculate line performance
  async calculateLinePerformance(rootUserAddress) {
  const query = `
  MATCH (root:User {address: $rootAddress})<-[:REFERRED_BY*]-(descendant:User)
@@ -277,14 +258,14 @@ class LegionRankingEngine {
  return result.records[0].get('totalPerformance') || 0;
  }
  
- // 实时更新机制
+ // Real-time update mechanism
  async handleOrderUpdate(event) {
  const { userAddress, orderAmount, action } = event;
  
- // 找到所有需要更新的AS6上级
+ // Find all AS6 superiors that need updating
  const affectedAS6Users = await this.findAffectedAS6Users(userAddress);
  
- // 批量更新排名
+ // Batch update rankings
  for (let as6User of affectedAS6Users) {
  await this.updateQueue.add('recalculate-performance', {
  as6UserAddress: as6User,
@@ -292,19 +273,19 @@ class LegionRankingEngine {
  timestamp: Date.now()
  }, {
  priority: this.getPriority(as6User),
- delay: 1000 // 1秒延迟，避免频繁更新
+ delay: 1000 // 1 second delay to avoid frequent updates
  });
  }
  }
 }
 ```
 
-### 奖池管理：军团奖励的累计与分配机制
+### Reward Pool Management: Legion Reward Accumulation and Distribution Mechanism
 
-军团奖池的管理需要精确追踪每日累计和每周分配，确保资金安全和分配公平：
+Legion reward pool management requires precise tracking of daily accumulation and weekly distribution, ensuring fund security and fair distribution:
 
 ```solidity
-// 军团奖池智能合约
+// Legion reward pool smart contract
 contract LegionRewardPool {
  struct WeeklyPool {
  uint256 totalAmount;
@@ -326,7 +307,7 @@ contract LegionRewardPool {
  uint256 public currentWeek;
  uint256 constant LEGION_REWARD_RATE = 2000; // 20%
  
- // 每日累计奖池（由主合约调用）
+ // Daily reward accumulation (called by main contract)
  function accumulateDailyReward(uint256 dailyTotalReward) external onlyMainContract {
  uint256 legionReward = dailyTotalReward * LEGION_REWARD_RATE / 10000;
  
@@ -335,7 +316,7 @@ contract LegionRewardPool {
  emit DailyRewardAccumulated(currentWeek, legionReward, weeklyPools[currentWeek].totalAmount);
  }
  
- // 每周一分配奖池
+ // Weekly distribution of reward pool on Mondays
  function distributeLegionRewards(
  address[] calldata members,
  uint256[] calldata performances
@@ -356,7 +337,7 @@ contract LegionRewardPool {
  
  uint256 poolAmount = weeklyPools[currentWeek].totalAmount;
  
- // 按业绩比例分配
+ // Distribute by performance ratio
  for (uint256 i = 0; i < members.length; i++) {
  uint256 memberReward = poolAmount * performances[i] / totalPerformance;
  weeklyPools[currentWeek].memberRewards[members[i]] = memberReward;
@@ -365,7 +346,7 @@ contract LegionRewardPool {
  
  weeklyPools[currentWeek].distributed = true;
  
- // 开始新的一周
+ // Start new week
  currentWeek++;
  weeklyPools[currentWeek].startTime = block.timestamp;
  weeklyPools[currentWeek].endTime = block.timestamp + 7 days;
@@ -373,7 +354,7 @@ contract LegionRewardPool {
  emit WeeklyRewardsDistributed(currentWeek - 1, poolAmount, members.length);
  }
  
- // 用户提取军团奖励
+ // User claims legion rewards
  function claimLegionRewards() external nonReentrant {
  uint256 amount = pendingRewards[msg.sender];
  require(amount > 0, "No pending rewards");
@@ -387,9 +368,9 @@ contract LegionRewardPool {
 }
 ```
 
-### 公平性保障：防止作弊和操纵的技术手段
+### Fairness Guarantee: Technical Measures to Prevent Cheating and Manipulation
 
-军团系统的公平性是其核心价值，必须通过多重技术手段防范各种作弊行为：
+The fairness of the legion system is its core value and must be protected through multiple technical measures against various cheating behaviors:
 
 ```javascript
 class FairPlayGuardian {
@@ -399,13 +380,13 @@ class FairPlayGuardian {
  this.networkAnalyzer = new NetworkStructureAnalyzer();
  }
  
- // 异常检测系统
+ // Anomaly detection system
  async detectAnomalousActivity() {
  const detectionTasks = [
- this.detectSybilAttacks(), // 女巫攻击检测
- this.detectWashTradingPatterns(), // 刷单模式检测
- this.detectCoordinatedBehavior(), // 协调行为检测
- this.detectRapidNetworkGrowth(), // 异常网络增长检测
+ this.detectSybilAttacks(), // Sybil attack detection
+ this.detectWashTradingPatterns(), // Wash trading pattern detection
+ this.detectCoordinatedBehavior(), // Coordinated behavior detection
+ this.detectRapidNetworkGrowth(), // Abnormal network growth detection
  ];
  
  const results = await Promise.all(detectionTasks);
@@ -419,13 +400,13 @@ class FairPlayGuardian {
  };
  }
  
- // 女巫攻击检测
+ // Sybil attack detection
  async detectSybilAttacks() {
  const suspiciousPatterns = await this.networkAnalyzer.findSimilarNetworks({
- addressSimilarity: 0.8, // 地址相似度
- timingSimilarity: 0.9, // 操作时间相似度
- amountSimilarity: 0.95, // 金额模式相似度
- networkStructure: 0.85 // 网络结构相似度
+ addressSimilarity: 0.8, // Address similarity
+ timingSimilarity: 0.9, // Operation timing similarity
+ amountSimilarity: 0.95, // Amount pattern similarity
+ networkStructure: 0.85 // Network structure similarity
  });
  
  const riskAccounts = [];
@@ -435,7 +416,7 @@ class FairPlayGuardian {
 
  riskAccounts.push(...pattern.accounts);
  
- // 记录风险事件
+ // Record risk events
  await this.recordRiskEvent({
  type: 'SYBIL_ATTACK_SUSPECTED',
  accounts: pattern.accounts,
@@ -451,27 +432,27 @@ class FairPlayGuardian {
  };
  }
  
- // 实时行为监控
+ // Real-time behavior monitoring
  async monitorRealTimeBehavior() {
  const behaviorStream = this.behaviorAnalyzer.getRealtimeStream();
  
  behaviorStream.on('suspicious_pattern', async (event) => {
 
  if (event.severity === 'HIGH') {
- // 立即标记账户
+ // Immediately flag account
  await this.flagAccount(event.userAddress, {
  reason: event.pattern,
  evidence: event.evidence,
  autoAction: 'INVESTIGATE'
  });
  
- // 通知管理系统
+ // Notify security team
  await this.notifySecurityTeam(event);
  }
  });
  }
  
- // 网络结构分析
+ // Network structure analysis
  async analyzeNetworkIntegrity() {
  const networkMetrics = await this.networkAnalyzer.calculateMetrics();
  
@@ -486,43 +467,43 @@ class FairPlayGuardian {
 }
 ```
 
-### 性能优化：高并发下的排名计算
+### Performance Optimization: Ranking Calculation Under High Concurrency
 
-军团系统需要处理大量用户的实时排名更新，这对系统性能提出了很高要求：
+The legion system needs to handle real-time ranking updates for a large number of users, placing high demands on system performance:
 
 ```javascript
 class HighPerformanceRankingSystem {
  constructor() {
- this.sharding = new ShardingManager(8); // 8个分片
+ this.sharding = new ShardingManager(8); // 8 shards
  this.cache = new MultiLevelCache();
  this.batcher = new BatchProcessor();
  this.precomputer = new PrecomputationEngine();
  }
  
- // 分片计算策略
+ // Sharding calculation strategy
  async calculateRankingsInParallel() {
  const as6Users = await this.getAS6Users();
  const shards = this.sharding.distributeUsers(as6Users);
  
- // 并行计算各分片
+ // Calculate shards in parallel
  const shardPromises = shards.map(shard => 
  this.calculateShardRankings(shard)
  );
  
  const shardResults = await Promise.all(shardPromises);
  
- // 合并结果并全局排序
+ // Merge results and global sorting
  const globalRankings = this.mergeAndSort(shardResults);
  
  return globalRankings;
  }
  
- // 增量更新策略
+ // Incremental update strategy
  async performIncrementalUpdate(changedUsers) {
- // 只重新计算受影响的用户
+ // Only recalculate affected users
  const affectedUsers = await this.findAffectedUsers(changedUsers);
  
- // 批量更新
+ // Batch update
  await this.batcher.process(affectedUsers, async (batch) => {
 
  const updates = await Promise.all(
@@ -533,11 +514,11 @@ class HighPerformanceRankingSystem {
  await this.cache.batchUpdate(updates);
  });
  
- // 更新排名
+ // Update rankings
  await this.updateRankings(affectedUsers);
  }
  
- // 预计算热点数据
+ // Precompute hot data
  async precomputeFrequentQueries() {
  const precomputeTasks = [
  this.precomputer.precomputeTopUsers(100),
@@ -548,25 +529,25 @@ class HighPerformanceRankingSystem {
  await Promise.all(precomputeTasks);
  }
  
- // 智能缓存策略
+ // Intelligent caching strategy
  async intelligentCaching() {
  return {
- // L1: 热点数据（军团成员）永不过期
+ // L1: Hot data (legion members) never expires
  hotData: this.cache.setTTL('legion_members_*', -1),
  
- // L2: 温数据（AS6用户）5分钟过期
+ // L2: Warm data (AS6 users) expires in 5 minutes
  warmData: this.cache.setTTL('as6_performance_*', 300),
  
- // L3: 冷数据（历史排名）1小时过期
+ // L3: Cold data (ranking history) expires in 1 hour
  coldData: this.cache.setTTL('ranking_history_*', 3600)
  };
  }
 }
 ```
 
-### 透明度与可验证性
+### Transparency and Verifiability
 
-军团系统的所有关键操作都必须是透明和可验证的：
+All key operations of the legion system must be transparent and verifiable:
 
 ```javascript
 class TransparencyEngine {
@@ -576,12 +557,12 @@ class TransparencyEngine {
  this.auditLogger = new AuditLogger();
  }
  
- // 排名快照上链
+ // Publish ranking snapshots on blockchain
  async publishRankingSnapshot(rankings) {
- // 构建Merkle树证明
+ // Build Merkle tree proof
  const merkleRoot = this.merkleTree.buildTree(rankings);
  
- // 上链记录
+ // Record on blockchain
  await this.blockchain.logEvent('RANKING_SNAPSHOT', {
  weekNumber: this.getCurrentWeek(),
  merkleRoot: merkleRoot,
@@ -589,7 +570,7 @@ class TransparencyEngine {
  timestamp: Date.now()
  });
  
- // 生成验证数据
+ // Generate verification data
  const proofs = rankings.map((user, index) => ({
 
  user: user.address,
@@ -601,7 +582,7 @@ class TransparencyEngine {
  return { merkleRoot, proofs };
  }
  
- // 任何人可验证排名
+ // Anyone can verify rankings
  async verifyUserRanking(userAddress, rankingClaim, proof) {
  const merkleRoot = await this.blockchain.getLatestMerkleRoot();
  
@@ -612,7 +593,7 @@ class TransparencyEngine {
  );
  }
  
- // 完整审计日志
+ // Complete audit logs
  async generateAuditReport() {
  return {
  rankingHistory: await this.auditLogger.getRankingHistory(),
@@ -624,15 +605,15 @@ class TransparencyEngine {
 }
 ```
 
-通过这套完整的技术架构，蚂蚁家园的军团系统实现了：
+Through this complete technical architecture, Ant Home's legion system achieves:
 
-1. **绝对公平**：基于客观数据的排名，无人可以操控
-2. **实时响应**：高性能计算支持实时排名更新
-3. **防作弊**：多重检测机制防范各种作弊行为
-4. **完全透明**：所有关键操作链上可查，任何人可验证
+1. **Absolute fairness**: Rankings based on objective data, no one can manipulate
+2. **Real-time response**: High-performance computing supports real-time ranking updates
+3. **Anti-cheating**: Multiple detection mechanisms prevent various cheating behaviors
+4. **Complete transparency**: All key operations are verifiable on-chain by anyone
 
-正如阿明在军团竞争中发现的那样，这里的每一个排名、每一份奖励都有严格的技术保障。没有暗箱操作，没有人情关系，只有公平竞争和价值创造。技术不仅是实现手段，更是公正的守护者——让每只有梦想的数字蚂蚁都能凭借真实的努力登上荣耀的巅峰。
+As Amin discovered in legion competition, every ranking and every reward here has strict technical guarantees. There are no black box operations, no personal relationships, only fair competition and value creation. Technology is not only the means of implementation, but also the guardian of justice - allowing every digital ant with dreams to reach the pinnacle of glory through genuine effort.
 
 ---
 
-*下一章我们将深入探讨蚁群迁徙机制，这个独特的永续哲学如何确保蚂蚁家园能够在任何困境中浴火重生...*
+*In the next chapter, we will delve into the ant colony migration mechanism, exploring how this unique philosophy of perpetual existence ensures that Ant Home can rise from the ashes in any adversity...*

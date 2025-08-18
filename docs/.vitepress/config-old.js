@@ -2,19 +2,55 @@ export default {
   title: 'ANTILIA',
   base: '/paper/',
   
-  // 多语言配置 - 调整顺序：英文、日语、韩语、越南语、简体中文、繁体中文
+  // 多语言配置
   locales: {
-    // 英文作为默认语言
     root: {
+      label: '简体中文',
+      lang: 'zh-CN',
+      title: 'ANTILIA - 蚂蚁家园',
+      description: '永恒契约 - 去中心化价值共建的智慧',
+      themeConfig: {
+        nav: [
+          { text: '首页', link: '/' },
+          { text: '开始阅读', link: '/preface' },
+          { text: '经济模型', link: '/economics' }
+        ],
+        outline: {
+          level: [2, 3],
+          label: '本章导航'
+        },
+        sidebarMenuLabel: '菜单',
+        returnToTopLabel: '返回顶部',
+        darkModeSwitchLabel: '深色模式',
+        sidebar: [
+          {
+            text: '蚂蚁家园-永恒契约',
+            items: [
+              { text: '序章：数字时代的蚂蚁寓言', link: '/preface' },
+              { text: '第一章：去中心化的生命智慧', link: '/chapter-1' },
+              { text: '第二章：价值共建的生态法则', link: '/chapter-2' },
+              { text: '第三章：部落网络的协作智慧', link: '/chapter-3' },
+              { text: '第四章：军团竞争的卓越驱动', link: '/chapter-4' },
+              { text: '第五章：蚁群迁徙的永续哲学', link: '/chapter-5' },
+              { text: '第六章：技术架构的工程美学', link: '/chapter-6' },
+              { text: '第七章：永恒法则的智慧设计', link: '/chapter-7' },
+              { text: '终章：永恒契约', link: '/epilogue' }
+            ]
+          }
+        ]
+      }
+    },
+    en: {
       label: 'English',
       lang: 'en-US',
       title: 'ANTILIA - Digital Ant Colony',
       description: 'Eternal Covenant - Decentralized Value Co-creation',
+      link: '/en/',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Start Reading', link: '/preface' },
-          { text: 'Economics', link: '/economics' }
+          { text: 'Home', link: '/en/' },
+          { text: 'Start Reading', link: '/en/preface' },
+          { text: 'Economics', link: '/en/economics' }
         ],
         outline: {
           level: [2, 3],
@@ -27,15 +63,52 @@ export default {
           {
             text: 'ANTILIA - Eternal Covenant',
             items: [
-              { text: 'Preface: Digital Age Ant Fable', link: '/preface' },
-              { text: 'Chapter 1: Decentralized Life Wisdom', link: '/chapter-1' },
-              { text: 'Chapter 2: Value Co-creation Ecosystem', link: '/chapter-2' },
-              { text: 'Chapter 3: Tribal Network Collaboration', link: '/chapter-3' },
-              { text: 'Chapter 4: Legion Competition Excellence', link: '/chapter-4' },
-              { text: 'Chapter 5: Colony Migration Philosophy', link: '/chapter-5' },
-              { text: 'Chapter 6: Technical Architecture Beauty', link: '/chapter-6' },
-              { text: 'Chapter 7: Eternal Law Design Wisdom', link: '/chapter-7' },
-              { text: 'Epilogue: Eternal Covenant', link: '/epilogue' }
+              { text: 'Preface: Digital Age Ant Fable', link: '/en/preface' },
+              { text: 'Chapter 1: Decentralized Life Wisdom', link: '/en/chapter-1' },
+              { text: 'Chapter 2: Value Co-creation Ecosystem', link: '/en/chapter-2' },
+              { text: 'Chapter 3: Tribal Network Collaboration', link: '/en/chapter-3' },
+              { text: 'Chapter 4: Legion Competition Excellence', link: '/en/chapter-4' },
+              { text: 'Chapter 5: Colony Migration Philosophy', link: '/en/chapter-5' },
+              { text: 'Chapter 6: Technical Architecture Beauty', link: '/en/chapter-6' },
+              { text: 'Chapter 7: Eternal Law Design Wisdom', link: '/en/chapter-7' },
+              { text: 'Epilogue: Eternal Covenant', link: '/en/epilogue' }
+            ]
+          }
+        ]
+      }
+    },
+    'zh-TW': {
+      label: '繁體中文',
+      lang: 'zh-TW',
+      title: 'ANTILIA - 螞蟻家園',
+      description: '永恆契約 - 去中心化價值共建的智慧',
+      link: '/zh-TW/',
+      themeConfig: {
+        nav: [
+          { text: '首頁', link: '/zh-TW/' },
+          { text: '開始閱讀', link: '/zh-TW/preface' },
+          { text: '經濟模型', link: '/zh-TW/economics' }
+        ],
+        outline: {
+          level: [2, 3],
+          label: '本章導航'
+        },
+        sidebarMenuLabel: '選單',
+        returnToTopLabel: '返回頂部',
+        darkModeSwitchLabel: '深色模式',
+        sidebar: [
+          {
+            text: '螞蟻家園-永恆契約',
+            items: [
+              { text: '序章：數位時代的螞蟻寓言', link: '/zh-TW/preface' },
+              { text: '第一章：去中心化的生命智慧', link: '/zh-TW/chapter-1' },
+              { text: '第二章：價值共建的生態法則', link: '/zh-TW/chapter-2' },
+              { text: '第三章：部落網絡的協作智慧', link: '/zh-TW/chapter-3' },
+              { text: '第四章：軍團競爭的卓越驅動', link: '/zh-TW/chapter-4' },
+              { text: '第五章：蟻群遷徙的永續哲學', link: '/zh-TW/chapter-5' },
+              { text: '第六章：技術架構的工程美學', link: '/zh-TW/chapter-6' },
+              { text: '第七章：永恆法則的智慧設計', link: '/zh-TW/chapter-7' },
+              { text: '終章：永恆契約', link: '/zh-TW/epilogue' }
             ]
           }
         ]
@@ -151,80 +224,6 @@ export default {
           }
         ]
       }
-    },
-    'zh-CN': {
-      label: '简体中文',
-      lang: 'zh-CN',
-      title: 'ANTILIA - 蚂蚁家园',
-      description: '永恒契约 - 去中心化价值共建的智慧',
-      link: '/zh-CN/',
-      themeConfig: {
-        nav: [
-          { text: '首页', link: '/zh-CN/' },
-          { text: '开始阅读', link: '/zh-CN/preface' },
-          { text: '经济模型', link: '/zh-CN/economics' }
-        ],
-        outline: {
-          level: [2, 3],
-          label: '本章导航'
-        },
-        sidebarMenuLabel: '菜单',
-        returnToTopLabel: '返回顶部',
-        darkModeSwitchLabel: '深色模式',
-        sidebar: [
-          {
-            text: '蚂蚁家园-永恒契约',
-            items: [
-              { text: '序章：数字时代的蚂蚁寓言', link: '/zh-CN/preface' },
-              { text: '第一章：去中心化的生命智慧', link: '/zh-CN/chapter-1' },
-              { text: '第二章：价值共建的生态法则', link: '/zh-CN/chapter-2' },
-              { text: '第三章：部落网络的协作智慧', link: '/zh-CN/chapter-3' },
-              { text: '第四章：军团竞争的卓越驱动', link: '/zh-CN/chapter-4' },
-              { text: '第五章：蚁群迁徙的永续哲学', link: '/zh-CN/chapter-5' },
-              { text: '第六章：技术架构的工程美学', link: '/zh-CN/chapter-6' },
-              { text: '第七章：永恒法则的智慧设计', link: '/zh-CN/chapter-7' },
-              { text: '终章：永恒契约', link: '/zh-CN/epilogue' }
-            ]
-          }
-        ]
-      }
-    },
-    'zh-TW': {
-      label: '繁體中文',
-      lang: 'zh-TW',
-      title: 'ANTILIA - 螞蟻家園',
-      description: '永恆契約 - 去中心化價值共建的智慧',
-      link: '/zh-TW/',
-      themeConfig: {
-        nav: [
-          { text: '首頁', link: '/zh-TW/' },
-          { text: '開始閱讀', link: '/zh-TW/preface' },
-          { text: '經濟模型', link: '/zh-TW/economics' }
-        ],
-        outline: {
-          level: [2, 3],
-          label: '本章導航'
-        },
-        sidebarMenuLabel: '選單',
-        returnToTopLabel: '返回頂部',
-        darkModeSwitchLabel: '深色模式',
-        sidebar: [
-          {
-            text: '螞蟻家園-永恆契約',
-            items: [
-              { text: '序章：數位時代的螞蟻寓言', link: '/zh-TW/preface' },
-              { text: '第一章：去中心化的生命智慧', link: '/zh-TW/chapter-1' },
-              { text: '第二章：價值共建的生態法則', link: '/zh-TW/chapter-2' },
-              { text: '第三章：部落網絡的協作智慧', link: '/zh-TW/chapter-3' },
-              { text: '第四章：軍團競爭的卓越驅動', link: '/zh-TW/chapter-4' },
-              { text: '第五章：蟻群遷徙的永續哲學', link: '/zh-TW/chapter-5' },
-              { text: '第六章：技術架構的工程美學', link: '/zh-TW/chapter-6' },
-              { text: '第七章：永恆法則的智慧設計', link: '/zh-TW/chapter-7' },
-              { text: '終章：永恆契約', link: '/zh-TW/epilogue' }
-            ]
-          }
-        ]
-      }
     }
   },
   
@@ -270,6 +269,22 @@ export default {
           root: {
             translations: {
               button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换'
+                }
+              }
+            }
+          },
+          en: {
+            translations: {
+              button: {
                 buttonText: 'Search',
                 buttonAriaLabel: 'Search'
               },
@@ -279,6 +294,22 @@ export default {
                 footer: {
                   selectText: 'Select',
                   navigateText: 'Navigate'
+                }
+              }
+            }
+          },
+          'zh-TW': {
+            translations: {
+              button: {
+                buttonText: '搜尋文檔',
+                buttonAriaLabel: '搜尋文檔'
+              },
+              modal: {
+                noResultsText: '無法找到相關結果',
+                resetButtonTitle: '清除查詢條件',
+                footer: {
+                  selectText: '選擇',
+                  navigateText: '切換'
                 }
               }
             }
@@ -327,38 +358,6 @@ export default {
                 footer: {
                   selectText: 'Chọn',
                   navigateText: 'Điều hướng'
-                }
-              }
-            }
-          },
-          'zh-CN': {
-            translations: {
-              button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
-              },
-              modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
-                footer: {
-                  selectText: '选择',
-                  navigateText: '切换'
-                }
-              }
-            }
-          },
-          'zh-TW': {
-            translations: {
-              button: {
-                buttonText: '搜尋文檔',
-                buttonAriaLabel: '搜尋文檔'
-              },
-              modal: {
-                noResultsText: '無法找到相關結果',
-                resetButtonTitle: '清除查詢條件',
-                footer: {
-                  selectText: '選擇',
-                  navigateText: '切換'
                 }
               }
             }

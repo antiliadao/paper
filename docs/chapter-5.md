@@ -1,280 +1,280 @@
-# 第五章：蚁群迁徙的永续哲学
+# Chapter 5: The Perpetual Philosophy of Ant Colony Migration
 
-## 情感契约：浴火重生的史诗故事
+## Emotional Contract: The Epic Story of Rebirth from Fire
 
-时光荏苒，阿明在蚂蚁家园已经生活了整整两年。从最初的观察蚂蚁，到建设蚂蚁，再到精英蚂蚁，直至成为军团成员，他见证了这个生态的繁荣与辉煌。在这个过程中，无数只蚂蚁实现了财务自由的梦想，建立了美满幸福的生活。
+Time flies, and Amin has been living in the Ant Home for two whole years. From initially observing ants, to building ants, then becoming elite ants, and finally becoming a legion member, he has witnessed the prosperity and glory of this ecosystem. During this process, countless ants have realized their dreams of financial freedom and established happy and fulfilling lives.
 
-但是，阿明深知，没有任何系统是完美的，没有任何繁荣是永恒的。作为一个智慧的参与者，他一直在思考一个问题：如果有一天，蚂蚁家园面临生存危机，会发生什么？
+However, Amin deeply understood that no system is perfect, and no prosperity is eternal. As a wise participant, he had always been thinking about one question: If one day the Ant Home faces a survival crisis, what would happen?
 
-这个问题的答案，比他想象的要来得更快。
+The answer to this question came faster than he had imagined.
 
-那是一个普通的周三早晨，阿明像往常一样查看自己的收益统计，突然发现一条特殊的系统通知：
+It was an ordinary Wednesday morning. Amin was checking his earnings statistics as usual when he suddenly discovered a special system notification:
 
-"系统检测到家园储备库资金不足以支付今日到期订单。根据永恒契约第7条，蚁群迁徙机制将自动启动。迁徙完成倒计时：3天。"
+"The system has detected that the home reserve funds are insufficient to pay today's matured orders. According to Article 7 of the Eternal Contract, the ant colony migration mechanism will automatically activate. Migration completion countdown: 3 days."
 
-阿明的心一下子紧了起来。迁徙！这个词他在白皮书中见过，但从未想过真的会经历。这意味着什么？意味着现有的一切都将重新开始吗？
+Amin's heart suddenly tightened. Migration! He had seen this word in the white paper, but never thought he would actually experience it. What did this mean? Did it mean that everything existing would have to start over?
 
-很快，整个蚂蚁家园炸开了锅。各种声音此起彼伏：
+Soon, the entire Ant Home exploded. Various voices arose one after another:
 
-"这是不是意味着我们的投资全部化为泡影？"
+"Does this mean all our investments will turn into bubbles?"
 
-"系统是不是要崩盘了？"
+"Is the system about to collapse?"
 
-"我们该怎么办？"
+"What should we do?"
 
-但阿明注意到，在这些恐慌声音之外，还有另一种声音——那些真正理解蚂蚁家园机制的老蚂蚁们，他们表现得异常冷静。
+But Amin noticed that besides these panicked voices, there was another kind of voice—those old ants who truly understood the Ant Home mechanism showed unusual calmness.
 
-老蚁，那位军团排名第一的传奇人物，在军团群里发出了一条长长的消息：
+Old Ant, the legendary figure ranked first in the legion, sent a long message in the legion group:
 
-"各位蚁友，请不要恐慌。蚁群迁徙不是末日，而是新生。这个机制从系统设计之初就已经存在，它是我们永恒契约的一部分。让我来解释一下迁徙期间会发生什么：
+"Fellow ant friends, please don't panic. Ant colony migration is not doomsday, but rebirth. This mechanism has existed since the system's initial design, and it is part of our eternal contract. Let me explain what will happen during migration:
 
-首先，系统并没有崩盘。迁徙触发时，储备库中仍有大量资金，这些资金将被公平分配。
+First, the system has not collapsed. When migration is triggered, there are still substantial funds in the reserve, and these funds will be fairly distributed.
 
-其次，最后36位AS精英将获得先锋奖，这是对他们勇气的认可。
+Second, the last 36 AS elites will receive pioneer awards, which is recognition of their courage.
 
-最后，90%的资金将作为新巢建设奖，分4期发放给新周期的优秀建设者。
+Finally, 90% of the funds will serve as new nest construction awards, distributed in 4 phases to outstanding builders in the new cycle.
 
-我们的部落关系永远不变，我们的用户ID永远保留，我们的经验和智慧更是无价之宝。
+Our tribal relationships will never change, our user IDs will be permanently retained, and our experience and wisdom are invaluable treasures.
 
-这不是结束，而是一个更强大、更智慧的蚂蚁家园的开始。"
+This is not an end, but the beginning of a stronger, wiser Ant Home."
 
-读完老蚁的消息，阿明心中涌起一种奇特的情感——那不是恐惧，而是敬佩。他敬佩设计这个系统的智慧，更敬佩这个机制体现出的深层哲学思考。
+After reading Old Ant's message, Amin felt a strange emotion welling up in his heart—it wasn't fear, but admiration. He admired the wisdom of designing this system, and even more admired the deep philosophical thinking embodied in this mechanism.
 
-在传统的商业世界里，当危机来临时，往往是强者逃跑、弱者承担损失。但在蚂蚁家园，危机成为了新机遇的开始。那些最后仍然坚持参与的AS精英，获得了丰厚的先锋奖；而所有参与者的关系网络都得到了完整保留，为新周期的发展奠定了坚实基础。
+In the traditional business world, when crises come, the strong often flee while the weak bear the losses. But in the Ant Home, crisis becomes the beginning of new opportunities. Those AS elites who persisted until the end received generous pioneer awards; while all participants' relationship networks were completely preserved, laying a solid foundation for the development of the new cycle.
 
-更让阿明感动的是迁徙期间蚂蚁们的表现。没有人指责，没有人抱怨，大家都在积极准备新周期的到来。许多老蚂蚁主动分享经验，帮助新蚂蚁理解迁徙机制；部落领袖们开始规划新周期的发展策略；甚至连那些之前持观望态度的潜在参与者，也开始关注这个即将重生的生态。
+What moved Amin even more was the performance of the ants during migration. No one blamed, no one complained, everyone was actively preparing for the arrival of the new cycle. Many old ants voluntarily shared experiences to help new ants understand the migration mechanism; tribal leaders began planning development strategies for the new cycle; even those potential participants who had previously held a wait-and-see attitude began to pay attention to this ecosystem about to be reborn.
 
-三天的锁定期很快过去了。当新周期开启的那一刻，阿明见证了一个奇迹：
+The three-day lockdown period passed quickly. When the new cycle opened, Amin witnessed a miracle:
 
-新巢建设奖的巨大吸引力，让众多优秀的建设者涌入。这些人中既有老用户，也有被蚂蚁家园的"凤凰涅槃"故事吸引的新用户。他们带来了新的资金、新的想法、新的活力。
+The huge attraction of the new nest construction award brought in numerous outstanding builders. Among these people were both old users and new users attracted by the Ant Home's "phoenix nirvana" story. They brought new funds, new ideas, and new vitality.
 
-更重要的是，由于部落关系网络的完整保留，新周期的发展速度远超第一周期。那些经验丰富的老蚂蚁，迅速建立起了新的庞大网络；那些新加入的蚂蚁，在老蚂蚁的指导下，避免了很多弯路。
+More importantly, due to the complete preservation of tribal relationship networks, the development speed of the new cycle far exceeded that of the first cycle. Those experienced old ants quickly established new massive networks; those newly joined ants, under the guidance of old ants, avoided many detours.
 
-半年后，新周期的蚂蚁家园规模已经超过了迁徙前的一倍。阿明重新成为了军团成员，但这一次，他的心境完全不同了。
+Half a year later, the scale of the Ant Home in the new cycle had already exceeded twice that before migration. Amin became a legion member again, but this time, his mindset was completely different.
 
-"我终于理解了迁徙的真正意义，"阿明在日记中写道，"它不是系统的缺陷，而是系统最伟大的设计。在自然界中，候鸟的迁徙让它们能够适应季节的变化；森林大火看似毁灭，实则为新生命的绽放清理了道路。蚂蚁家园的迁徙机制，正是这种生命智慧在数字世界的完美体现。"
+"I finally understand the true meaning of migration," Amin wrote in his diary. "It's not a defect in the system, but the greatest design of the system. In nature, bird migration allows them to adapt to seasonal changes; forest fires seem destructive, but actually clear the way for new life to bloom. The migration mechanism of the Ant Home is the perfect embodiment of this life wisdom in the digital world."
 
-"通过迁徙，系统不仅解决了资金短缺的危机，更重要的是，它实现了系统的自我优化和进化。每一次迁徙，都是一次脱胎换骨；每一个新周期，都比上一个更加强大。"
+"Through migration, the system not only solves the crisis of fund shortage, but more importantly, it achieves system self-optimization and evolution. Every migration is a transformation; every new cycle is stronger than the previous one."
 
-"这就是真正的永续哲学——不是僵化地维持现状，而是通过主动的重生获得永恒的生命力。"
+"This is the true perpetual philosophy—not rigidly maintaining the status quo, but gaining eternal vitality through active rebirth."
 
-一年后，当阿明回顾这段经历时，他发现迁徙给他带来的不仅仅是财富的增长，更是人生哲学的升华。他学会了在不确定性中寻找机会，在危机中看到转机，在结束中发现开始。
+A year later, when Amin looked back on this experience, he found that migration brought him not only wealth growth, but also the elevation of life philosophy. He learned to find opportunities in uncertainty, see turnarounds in crises, and discover beginnings in endings.
 
-这就是蚁群迁徙的永续哲学——不畏惧变化，拥抱重生，在每一次考验中变得更加强大。
+This is the perpetual philosophy of ant colony migration—not fearing change, embracing rebirth, and becoming stronger with each trial.
 
-![凤凰涅槃图](/images/chapter5/chapter5-phoenix.png)
+![Phoenix Nirvana](/images/chapter5/chapter5-phoenix.png)
 
 ---
 
-## 理性契约：可持续性经济模型
+## Rational Contract: Sustainable Economic Model
 
-阿明在迁徙中体验到的"浴火重生"，背后蕴含着深刻的经济学原理。蚂蚁家园的迁徙机制不是简单的重启，而是基于现代可持续发展理论设计的精巧经济模型。
+The "rebirth from fire" that Amin experienced during migration contains profound economic principles. The migration mechanism of the Ant Home is not a simple restart, but an ingenious economic model designed based on modern sustainable development theory.
 
-### 生命周期理论：任何系统都有兴衰周期
+### Life Cycle Theory: Every System Has Cycles of Rise and Decline
 
-![生命周期循环](/images/chapter5/chapter5-lifecycle.png)
+![Life Cycle Loop](/images/chapter5/chapter5-lifecycle.png)
 
-经济学中的"生命周期理论"指出，任何经济系统都会经历萌芽、成长、成熟、衰退四个阶段。传统系统往往在衰退期无法自我恢复，最终走向消亡。蚂蚁家园通过迁徙机制，创新性地将"衰退"转化为"重生"：
+The "life cycle theory" in economics points out that any economic system will go through four stages: germination, growth, maturity, and decline. Traditional systems often cannot self-recover during the decline period and eventually move toward extinction. The Ant Home innovatively transforms "decline" into "rebirth" through the migration mechanism:
 
-**传统系统生命周期**：
+**Traditional System Life Cycle**:
 ```
-萌芽期 → 成长期 → 成熟期 → 衰退期 → 消亡
-```
-
-**蚂蚁家园生命周期**：
-```
-萌芽期 → 成长期 → 成熟期 → 迁徙期 → 新萌芽期（循环）
+Germination → Growth → Maturity → Decline → Extinction
 ```
 
-这种循环式发展模式借鉴了自然界的智慧。正如森林大火为新植被提供生长空间，蚁群迁徙为系统的下一次繁荣清理了道路。
-
-**数据分析支撑**：
-
-根据复杂系统理论，系统的可持续性可以用以下公式衡量：
+**Ant Home Life Cycle**:
 ```
-可持续性指数 = (系统韧性 × 自我修复能力) ÷ 外部冲击强度
+Germination → Growth → Maturity → Migration → New Germination (Cycle)
 ```
 
-蚂蚁家园通过迁徙机制显著提高了分子项：
+This cyclical development model draws wisdom from nature. Just as forest fires provide growing space for new vegetation, ant colony migration clears the path for the system's next prosperity.
 
-- 系统韧性：部落关系保留，经验传承不断
+**Data Analysis Support**:
 
-- 自我修复能力：90%资金用于新周期发展
+According to complex systems theory, the sustainability of a system can be measured using the following formula:
+```
+Sustainability Index = (System Resilience × Self-Repair Capability) ÷ External Shock Intensity
+```
 
-### 韧性设计：如何在危机中保护参与者利益
+The Ant Home significantly improves the numerator through the migration mechanism:
 
-传统的庞氏结构在崩盘时往往是"后来者承担全部损失"，这种不公平分配导致信任崩塌。蚂蚁家园的迁徙机制通过精巧的利益分配设计，实现了"危机成本公平分担，重生收益共同分享"：
+- System Resilience: Tribal relationships preserved, experience inheritance continuous
 
-**风险分担机制**：
+- Self-Repair Capability: 90% of funds used for new cycle development
 
-1. **时间风险分担**：越晚参与承担的风险越小
- - 先锋奖奖励最后36个AS订单用户
- - 体现"风险与收益对等"的公平原则
+### Resilience Design: How to Protect Participant Interests During Crises
 
-2. **贡献风险分担**：贡献越大，损失越小
- - AS用户的15%收益率已经包含了系统性风险补偿
- - 高等级用户优先获得先锋奖和建设奖
+Traditional Ponzi structures often result in "latecomers bearing all losses" when they collapse, and this unfair distribution leads to trust collapse. The migration mechanism of the Ant Home achieves "fair sharing of crisis costs and common sharing of rebirth benefits" through ingenious interest distribution design:
 
-3. **网络价值保护**：最核心的资产（关系网络）完全保护
- - 部落关系永久保留
- - 用户ID和历史经验保留
- - 知识和声誉价值延续
+**Risk Sharing Mechanism**:
 
-**数学建模验证**：
+1. **Time Risk Sharing**: Later participants bear less risk
+ - Pioneer awards reward the last 36 AS order users
+ - Embodies the fair principle of "risk commensurate with return"
 
-设总体系统价值为V，迁徙时刻参与者损失函数为：
+2. **Contribution Risk Sharing**: Greater contribution, smaller loss
+ - AS users' 15% yield rate already includes systemic risk compensation
+ - Higher-level users have priority for pioneer and construction awards
+
+3. **Network Value Protection**: The most core asset (relationship networks) is completely protected
+ - Tribal relationships permanently preserved
+ - User IDs and historical experience retained
+ - Knowledge and reputation value continues
+
+**Mathematical Modeling Verification**:
+
+Let the total system value be V, and the participant loss function at migration time be:
 ```
 L(t, c) = α × (T-t)/T - β × c/C
 
-其中：
+Where:
 
-- t为参与时间，T为迁徙时间
+- t is participation time, T is migration time
 
-- c为个体贡献，C为总贡献
+- c is individual contribution, C is total contribution
 
-- α为时间风险系数
+- α is time risk coefficient
 
-- β为贡献保护系数
+- β is contribution protection coefficient
 ```
 
-通过适当设置α和β的值，系统能够实现损失的公平分配。
+By appropriately setting the values of α and β, the system can achieve fair distribution of losses.
 
-### 重启机制：资源重新配置的经济学原理
+### Restart Mechanism: Economic Principles of Resource Reallocation
 
-迁徙机制本质上是一种"帕累托改进"的资源重新配置过程。通过清理低效资源，优化激励结构，实现整个系统效率的提升：
+The migration mechanism is essentially a "Pareto improvement" resource reallocation process. By clearing inefficient resources and optimizing incentive structures, it achieves improvement in overall system efficiency:
 
-**资源配置优化**：
+**Resource Allocation Optimization**:
 
-**迁徙前的资源分布**：
+**Resource Distribution Before Migration**:
 
-- 储备库：资金不足，无法维持运营
+- Reserve: Insufficient funds, unable to maintain operations
 
-- 奖励池：积累大量资金，但流动性不足
+- Reward Pool: Accumulated substantial funds, but insufficient liquidity
 
-- 用户网络：部分网络活跃度下降
+- User Network: Some networks have declining activity
 
-**迁徙后的资源重配**：
+**Resource Reallocation After Migration**:
 
-- 新巢建设奖：90%资金投入新周期发展
+- New Nest Construction Award: 90% of funds invested in new cycle development
 
-- 先锋奖励：10%奖励坚持者，激励忠诚
+- Pioneer Reward: 10% rewards perseverers, incentivizing loyalty
 
-- 网络重构：基于历史网络，但激励更优化
+- Network Reconstruction: Based on historical networks, but with optimized incentives
 
-**效率提升机制**：
+**Efficiency Improvement Mechanism**:
 
-1. **清除无效参与**：迁徙过程自然筛选出真正的长期参与者
-2. **激励机制优化**：新周期的激励结构能够吸引更多优质参与者
-3. **网络质量提升**：保留高质量关系，清除低活跃连接
+1. **Eliminate Invalid Participation**: Migration process naturally filters out truly long-term participants
+2. **Optimize Incentive Mechanisms**: Incentive structures in new cycles can attract more quality participants
+3. **Improve Network Quality**: Retain high-quality relationships, clear low-activity connections
 
-根据网络经济学理论，网络价值与活跃节点数的平方成正比。通过迁徙机制的"优胜劣汰"，新网络的质量显著提升。
+According to network economics theory, network value is proportional to the square of the number of active nodes. Through the "survival of the fittest" migration mechanism, the quality of new networks is significantly improved.
 
-### 先锋奖与建设奖的风险分散
+### Pioneer Awards and Construction Awards Risk Diversification
 
-蚂蚁家园的迁徙奖励设计体现了现代风险管理理论的精髓：
+The migration reward design of the Ant Home embodies the essence of modern risk management theory:
 
-**先锋奖（10%）的经济学意义**：
+**Economic Significance of Pioneer Awards (10%)**:
 
-1. **逆向激励**：奖励风险承担者，而不是风险规避者
-2. **信号传递**：向市场传递"系统有能力保护参与者"的信号
-3. **道德激励**：鼓励在困难时期仍然坚持的行为
+1. **Reverse Incentives**: Reward risk-takers, not risk-avoiders
+2. **Signal Transmission**: Send the signal to the market that "the system has the ability to protect participants"
+3. **Moral Incentives**: Encourage behavior that persists during difficult times
 
-**建设奖（90%）的设计智慧**：
+**Design Wisdom of Construction Awards (90%)**:
 
-1. **时间分散**：分4期发放，避免资金集中风险
-2. **绩效导向**：基于新周期的实际贡献分配，不是平均主义
-3. **激励最大化**：90%比例确保新周期有足够的发展动力
+1. **Time Diversification**: Distributed in 4 phases, avoiding concentrated fund risks
+2. **Performance-Oriented**: Distributed based on actual contributions in new cycles, not egalitarianism
+3. **Incentive Maximization**: 90% ratio ensures sufficient development momentum for new cycles
 
-**风险分散效果分析**：
+**Risk Diversification Effect Analysis**:
 
-传统重启模式的风险分布：
+Risk distribution in traditional restart models:
 
-- 100%风险由参与者承担
+- 100% risk borne by participants
 
-- 0%风险缓冲机制
+- 0% risk buffer mechanism
 
-蚂蚁家园迁徙模式的风险分布：
+Risk distribution in Ant Home migration model:
 
-- 60%风险转化为未来收益（90%建设奖）
+- 60% risk converted to future benefits (90% construction awards)
 
-- 30%风险由系统承担（储备库剩余）
+- 30% risk borne by system (reserve surplus)
 
-- 10%风险由先锋奖补偿
+- 10% risk compensated by pioneer awards
 
-### 对比分析：迁徙 vs 其他风险处理方式
+### Comparative Analysis: Migration vs Other Risk Handling Methods
 
-| 风险处理方式 | 蚁群迁徙 | 传统破产清算 | 政府救助 | 保险机制 |
+| Risk Handling Method | Ant Colony Migration | Traditional Bankruptcy Liquidation | Government Bailout | Insurance Mechanism |
 |------------|---------|------------|----------|---------|
-| **损失分配** | 公平分担，能力越强损失越小 | 后来者承担全部损失 | 纳税人承担损失 | 投保人分摊损失 |
-| **重启能力** | 自动重启，保留网络价值 | 无法重启 | 需要外部资金 | 需要重新投保 |
-| **道德风险** | 激励长期参与和贡献 | 激励早期退出 | 激励冒险行为 | 激励过度依赖 |
-| **系统进化** | 每次迁徙都优化系统 | 系统消亡 | 维持现状 | 风险转移不优化 |
-| **参与者保护** | 网络关系和经验保留 | 全部损失 | 部分补偿 | 金钱补偿 |
+| **Loss Distribution** | Fair sharing, stronger ability means less loss | Latecomers bear all losses | Taxpayers bear losses | Policyholders share losses |
+| **Restart Capability** | Automatic restart, retain network value | Cannot restart | Requires external funds | Need to re-insure |
+| **Moral Hazard** | Incentivize long-term participation and contribution | Incentivize early exit | Incentivize risky behavior | Incentivize over-dependence |
+| **System Evolution** | Each migration optimizes system | System dies | Maintain status quo | Risk transfer without optimization |
+| **Participant Protection** | Network relationships and experience retained | Total loss | Partial compensation | Monetary compensation |
 
-**可持续性评估**：
+**Sustainability Assessment**:
 
-从长期来看，蚁群迁徙机制创造了一种"反脆弱性"（Anti-fragility）：
+In the long run, the ant colony migration mechanism creates an "anti-fragility":
 
-- 每次危机都让系统变得更强
+- Each crisis makes the system stronger
 
-- 参与者从每次迁徙中学习和成长
+- Participants learn and grow from each migration
 
-- 网络效应在迁徙中得到强化而不是削弱
+- Network effects are strengthened rather than weakened in migration
 
-**数学模型验证**：
+**Mathematical Model Verification**:
 
-设系统在第n次迁徙后的总价值为V_n，则：
+Let the total value of the system after the nth migration be V_n, then:
 ```
 V_n = V_{n-1} × (1 - λ) + I_n × μ
 
-其中：
+Where:
 
-- λ为迁徙损失率
+- λ is migration loss rate
 
-- I_n为第n期新投入
+- I_n is new investment in period n
 
-- μ为系统效率提升系数
+- μ is system efficiency improvement coefficient
 ```
 
-由于μ > 1（系统在每次迁徙后都更高效），长期来看：
+Since μ > 1 (system becomes more efficient after each migration), in the long term:
 
 ```
 lim_{n→∞} V_n = +∞
 ```
 
-这意味着通过迁徙机制，系统具备了理论上的无限增长潜力。
+This means that through the migration mechanism, the system has theoretically unlimited growth potential.
 
-正如阿明在实践中发现的那样，蚁群迁徙不是系统的bug，而是最重要的feature。它将危机转化为机遇，将结束变成开始，让整个生态在一次次的重生中获得真正的永续发展能力。
+Just as Amin discovered in practice, ant colony migration is not a bug in the system, but the most important feature. It transforms crises into opportunities, turns endings into beginnings, and allows the entire ecosystem to gain true sustainable development capability through repeated rebirths.
 
 ---
 
-## 技术契约：迁徙机制技术实现
+## Technical Contract: Technical Implementation of Migration Mechanism
 
-从阿明的浴火重生体验到可持续性的经济分析，现在让我们深入了解蚂蚁家园是如何通过精密的技术架构来实现这个复杂的迁徙系统的。
+From Amin's rebirth experience to the economic analysis of sustainability, now let's delve into how the Ant Home achieves this complex migration system through precise technical architecture.
 
-### 触发条件检测：资金不足的自动检测算法
+### Trigger Condition Detection: Automatic Detection Algorithm for Fund Shortage
 
-迁徙机制的核心是准确、及时地检测系统是否需要启动重生流程。这需要实时监控多个关键指标：
+The core of the migration mechanism is accurately and timely detecting whether the system needs to start the rebirth process. This requires real-time monitoring of multiple key indicators:
 
 ```solidity
 contract MigrationDetector {
  struct SystemHealth {
- uint256 reserveBalance; // 储备库余额
- uint256 dailyExpiredAmount; // 当日到期订单总额
- uint256 dailyNewOrders; // 当日新订单总额
- uint256 weeklyTrend; // 周趋势指标
+ uint256 reserveBalance; // Reserve balance
+ uint256 dailyExpiredAmount; // Daily expired order total
+ uint256 dailyNewOrders; // Daily new order total
+ uint256 weeklyTrend; // Weekly trend indicator
  }
  
- uint256 public constant MIGRATION_THRESHOLD = 100; // 100%阈值
+ uint256 public constant MIGRATION_THRESHOLD = 100; // 100% threshold
  uint256 public lastHealthCheckTime;
  
- // 每日00:00自动检查系统健康度
+ // Daily 00:00 automatic system health check
  function checkSystemHealth() external returns (bool needMigration) {
  require(block.timestamp >= lastHealthCheckTime + 1 days, "Too frequent");
  
  SystemHealth memory health = calculateSystemHealth();
  
- // 核心判断逻辑：储备库 < 当日到期订单总额
+ // Core judgment logic: reserve < daily expired order total
  uint256 coverageRatio = health.reserveBalance * 100 / health.dailyExpiredAmount;
  
  if (coverageRatio < MIGRATION_THRESHOLD) {
@@ -284,7 +284,7 @@ contract MigrationDetector {
  
  lastHealthCheckTime = block.timestamp;
  
- // 记录系统健康数据
+ // Record system health data
  emit HealthCheckCompleted(
  health.reserveBalance,
  health.dailyExpiredAmount,
@@ -294,15 +294,15 @@ contract MigrationDetector {
  return false;
  }
  
- // 计算系统健康指标
+ // Calculate system health indicators
  function calculateSystemHealth() internal view returns (SystemHealth memory) {
- // 获取当前储备库余额
+ // Get current reserve balance
  uint256 reserveBalance = address(this).balance;
  
- // 计算今日到期订单总额
+ // Calculate today's expired order total
  uint256 dailyExpiredAmount = calculateTodayExpiredOrders();
  
- // 统计近期新订单趋势
+ // Count recent new order trends
  uint256 dailyNewOrders = calculateTodayNewOrders();
  uint256 weeklyTrend = calculateWeeklyTrend();
  
@@ -314,18 +314,18 @@ contract MigrationDetector {
  });
  }
  
- // 触发迁徙流程
+ // Trigger migration process
  function _triggerMigration(SystemHealth memory health) internal {
  migrationTriggered = true;
  migrationStartTime = block.timestamp;
  migrationLockEndTime = block.timestamp + 3 days;
  
- // 计算迁徙奖励分配
+ // Calculate migration reward distribution
  uint256 remainingFunds = health.reserveBalance;
- uint256 pioneerReward = remainingFunds * 10 / 100; // 10%先锋奖
- uint256 buildingReward = remainingFunds * 90 / 100; // 90%建设奖
+ uint256 pioneerReward = remainingFunds * 10 / 100; // 10% pioneer award
+ uint256 buildingReward = remainingFunds * 90 / 100; // 90% construction award
  
- // 记录迁徙事件
+ // Record migration event
  emit MigrationTriggered(
  health.reserveBalance,
  health.dailyExpiredAmount,
@@ -334,18 +334,18 @@ contract MigrationDetector {
  migrationStartTime
  );
  
- // 开始先锋奖分配流程
+ // Start pioneer reward distribution process
  _distributePioneerRewards(pioneerReward);
  
- // 锁定建设奖到多签钱包
+ // Lock construction awards to multisig wallet
  _lockBuildingRewards(buildingReward);
  }
 }
 ```
 
-### 资产清算流程：公平透明的清算机制
+### Asset Liquidation Process: Fair and Transparent Liquidation Mechanism
 
-当迁徙触发后，系统需要执行复杂的资产清算和分配流程：
+When migration is triggered, the system needs to execute complex asset liquidation and distribution processes:
 
 ```javascript
 class MigrationProcessor {
@@ -356,36 +356,36 @@ class MigrationProcessor {
  this.calculator = new RewardCalculator();
  }
  
- // 执行完整迁徙流程
+ // Execute complete migration process
  async executeMigrationProcess() {
- console.log('开始执行蚁群迁徙流程...');
+ console.log('Starting ant colony migration process...');
  
  try {
- // 第一阶段：数据快照
+ // Phase 1: Data snapshot
  const snapshot = await this.createSystemSnapshot();
  
- // 第二阶段：计算奖励分配
+ // Phase 2: Calculate reward distribution
  const rewards = await this.calculateMigrationRewards(snapshot);
  
- // 第三阶段：执行资金分配
+ // Phase 3: Execute fund distribution
  await this.distributeRewards(rewards);
  
- // 第四阶段：系统重置
+ // Phase 4: System reset
  await this.resetSystemState();
  
- // 第五阶段：准备新周期
+ // Phase 5: Prepare new cycle
  await this.prepareNewCycle();
  
- console.log('迁徙流程执行完成');
+ console.log('Migration process execution completed');
  
  } catch (error) {
- console.error('迁徙流程执行失败:', error);
+ console.error('Migration process execution failed:', error);
  await this.rollbackMigration();
  throw error;
  }
  }
  
- // 创建系统快照
+ // Create system snapshot
  async createSystemSnapshot() {
  const snapshot = {
  timestamp: Date.now(),
@@ -397,25 +397,25 @@ class MigrationProcessor {
  rewardBalances: await this.database.getAllRewardBalances()
  };
  
- // 生成快照哈希值确保数据完整性
+ // Generate snapshot hash to ensure data integrity
  snapshot.hash = this.generateSnapshotHash(snapshot);
  
- // 将快照上链永久保存
+ // Save snapshot on-chain permanently
  await this.blockchain.saveSnapshot(snapshot);
  
  return snapshot;
  }
  
- // 计算迁徙奖励分配
+ // Calculate migration reward distribution
  async calculateMigrationRewards(snapshot) {
- // 识别最后36个AS订单用户
+ // Identify last 36 AS order users
  const pioneerUsers = await this.identifyPioneerUsers(snapshot);
  
- // 计算先锋奖分配
+ // Calculate pioneer award distribution
  const pioneerRewardTotal = snapshot.reserveBalance * 0.1;
  const pioneerRewardPerUser = pioneerRewardTotal / pioneerUsers.length;
  
- // 计算建设奖分期
+ // Calculate construction award phases
  const buildingRewardTotal = snapshot.reserveBalance * 0.9;
  const buildingRewardPhases = this.calculateBuildingRewardPhases(buildingRewardTotal);
  
@@ -431,14 +431,14 @@ class MigrationProcessor {
  };
  }
  
- // 识别先锋用户（最后36个AS订单）
+ // Identify pioneer users (last 36 AS orders)
  async identifyPioneerUsers(snapshot) {
  const asOrders = snapshot.userStates
  .filter(user => user.orderType === 'AS' && user.hasActiveOrder)
 
- .sort((a, b) => b.orderCreateTime - a.orderCreateTime) // 按创建时间倒序
+ .sort((a, b) => b.orderCreateTime - a.orderCreateTime) // Sort by creation time descending
 
- .slice(0, 36); // 取最后36个
+ .slice(0, 36); // Take last 36
  
  return asOrders.map(order => ({
 
@@ -448,7 +448,7 @@ class MigrationProcessor {
  }));
  }
  
- // 分配先锋奖励
+ // Distribute pioneer rewards
  async distributePioneerRewards(pioneerRewards) {
  const batchSize = 10;
  const batches = this.chunkArray(pioneerRewards, batchSize);
@@ -460,16 +460,16 @@ class MigrationProcessor {
  
  await Promise.all(txPromises);
  
- // 记录分配事件
+ // Record distribution events
  await this.database.recordPioneerRewards(batch);
  }
  }
 }
 ```
 
-### 数据保护策略：用户关系数据的保留与重置
+### Data Protection Strategy: Preservation and Reset of User Relationship Data
 
-迁徙过程中最关键的是正确处理用户数据，既要重置动态状态，又要保护核心资产：
+The most critical aspect during migration is properly handling user data, both resetting dynamic states and protecting core assets:
 
 ```javascript
 class DataMigrationManager {
@@ -479,39 +479,39 @@ class DataMigrationManager {
  this.encryption = new EncryptionService();
  }
  
- // 执行数据迁徙
+ // Execute data migration
  async migrateUserData() {
- // 创建完整数据备份
+ // Create complete data backup
  await this.backup.createFullBackup();
  
  try {
- // 保留的数据
+ // Preserve data
  await this.preserveEssentialData();
  
- // 重置的数据
+ // Reset data
  await this.resetTransientData();
  
- // 验证数据完整性
+ // Verify data integrity
  await this.verifyDataIntegrity();
  
  } catch (error) {
- // 数据迁徙失败，恢复备份
+ // Data migration failed, restore backup
  await this.backup.restore();
  throw error;
  }
  }
  
- // 保留核心数据
+ // Preserve core data
  async preserveEssentialData() {
- console.log('保留用户核心数据...');
+ console.log('Preserving user core data...');
  
- // 永久保留的数据表
+ // Permanently preserved data tables
  const preservedTables = [
- 'users', // 用户基础信息
- 'tribe_relations', // 部落关系网络
- 'user_ids', // 用户ID映射
- 'migration_history', // 迁徙历史记录
- 'reputation_scores' // 用户声誉分数
+ 'users', // User basic information
+ 'tribe_relations', // Tribal relationship network
+ 'user_ids', // User ID mapping
+ 'migration_history', // Migration history records
+ 'reputation_scores' // User reputation scores
  ];
  
  for (let table of preservedTables) {
@@ -519,16 +519,16 @@ class DataMigrationManager {
  await this.backup.createTableBackup(table);
  }
  
- console.log(`已保留 ${preservedTables.length} 个核心数据表`);
+ console.log(`Preserved ${preservedTables.length} core data tables`);
  }
  
- // 重置临时数据
+ // Reset temporary data
  async resetTransientData() {
- console.log('重置用户临时数据...');
+ console.log('Resetting user temporary data...');
  
- // 需要重置的数据
+ // Data to be reset
  const resetOperations = [
- // 用户状态重置
+ // User state reset
  this.database.query(`
  UPDATE users SET 
  current_level = 'Ob',
@@ -537,34 +537,34 @@ class DataMigrationManager {
  historical_performance = 0
  `),
  
- // 清空订单表
+ // Clear order table
  this.database.query(`DELETE FROM orders`),
  
- // 清空等级记录
+ // Clear level records
  this.database.query(`DELETE FROM level_history`),
  
- // 清空军团记录
+ // Clear legion records
  this.database.query(`DELETE FROM legion_rankings`),
  
- // 清空奖励记录
+ // Clear reward records
  this.database.query(`DELETE FROM reward_distributions`)
  ];
  
  await Promise.all(resetOperations);
  
- console.log('临时数据重置完成');
+ console.log('Temporary data reset completed');
  }
  
- // 验证数据完整性
+ // Verify data integrity
  async verifyDataIntegrity() {
  const checks = [
- // 检查部落关系完整性
+ // Check tribal relationship integrity
  this.verifyTribeRelations(),
  
- // 检查用户ID唯一性
+ // Check user ID uniqueness
  this.verifyUserIdUniqueness(),
  
- // 检查数据一致性
+ // Check data consistency
  this.verifyDataConsistency()
  ];
  
@@ -572,17 +572,17 @@ class DataMigrationManager {
  
  if (results.some(result => !result.valid)) {
 
- throw new Error('数据完整性验证失败');
+ throw new Error('Data integrity verification failed');
  }
  
- console.log('数据完整性验证通过');
+ console.log('Data integrity verification passed');
  }
 }
 ```
 
-### 重启流程：3天锁定期的技术处理
+### Restart Process: Technical Handling of 3-Day Lockdown Period
 
-迁徙的最后阶段是系统重启，这需要精心编排的技术流程：
+The final stage of migration is system restart, which requires carefully orchestrated technical processes:
 
 ```javascript
 class SystemRestartManager {
@@ -592,74 +592,74 @@ class SystemRestartManager {
  this.config = new ConfigManager();
  }
  
- // 执行3天锁定期流程
+ // Execute 3-day lockdown period process
  async executeLockdownPeriod() {
- console.log('开始3天系统锁定期...');
+ console.log('Starting 3-day system lockdown period...');
  
- // 第1天：系统维护和数据校验
+ // Day 1: System maintenance and data verification
  await this.scheduler.scheduleTask(new Date(Date.now() + 0), async () => {
 
  await this.performSystemMaintenance();
  await this.validateAllData();
  });
  
- // 第2天：配置新周期参数
+ // Day 2: Configure new cycle parameters
  await this.scheduler.scheduleTask(new Date(Date.now() + 24*60*60*1000), async () => {
 
  await this.configureNewCycle();
  await this.initializeNewCycleData();
  });
  
- // 第3天：预热系统准备重启
+ // Day 3: Warm up system for restart
  await this.scheduler.scheduleTask(new Date(Date.now() + 2*24*60*60*1000), async () => {
 
  await this.preheatSystem();
  await this.finalPreparations();
  });
  
- // 第4天00:00：正式重启系统
+ // Day 4 00:00: Official system restart
  await this.scheduler.scheduleTask(new Date(Date.now() + 3*24*60*60*1000), async () => {
 
  await this.restartSystem();
  });
  }
  
- // 系统重启流程
+ // System restart process
  async restartSystem() {
- console.log('正式重启蚂蚁家园系统...');
+ console.log('Officially restarting Ant Home system...');
  
  try {
- // 1. 重新初始化合约状态
+ // 1. Reinitialize contract state
  await this.blockchain.initializeNewCycle();
  
- // 2. 重启后端服务
+ // 2. Restart backend services
  await this.restartBackendServices();
  
- // 3. 重新同步数据
+ // 3. Resync all data
  await this.syncAllData();
  
- // 4. 启动实时服务
+ // 4. Start real-time services
  await this.startRealtimeServices();
  
- // 5. 发送重启完成通知
+ // 5. Send restart completion notification
  await this.notifySystemRestart();
  
- console.log('系统重启完成，新周期开始！');
+ console.log('System restart completed, new cycle begins!');
  
  } catch (error) {
- console.error('系统重启失败:', error);
+ console.error('System restart failed:', error);
  await this.rollbackRestart();
  throw error;
  }
  }
  
- // 新周期建设奖发放调度
+ // Schedule new cycle construction award distribution
  async scheduleBuildingRewardDistribution() {
  const phases = [
- { week: 4, percentage: 10 }, // 第4周发放10%
- { week: 8, percentage: 20 }, // 第8周发放20%
- { week: 12, percentage: 30 }, // 第12周发放30%
- { week: 16, percentage: 40 } // 第16周发放40%
+ { week: 4, percentage: 10 }, // Week 4 distribute 10%
+ { week: 8, percentage: 20 }, // Week 8 distribute 20%
+ { week: 12, percentage: 30 }, // Week 12 distribute 30%
+ { week: 16, percentage: 40 } // Week 16 distribute 40%
  ];
  
  for (let phase of phases) {
@@ -674,9 +674,9 @@ class SystemRestartManager {
 }
 ```
 
-### 迁徙监控与统计
+### Migration Monitoring and Statistics
 
-为了确保迁徙过程的透明和可追踪，系统实现了完整的监控体系：
+To ensure transparency and traceability of the migration process, the system implements a complete monitoring system:
 
 ```javascript
 class MigrationMonitor {
@@ -686,7 +686,7 @@ class MigrationMonitor {
  this.logger = new AuditLogger();
  }
  
- // 实时监控迁徙状态
+ // Real-time monitoring of migration status
  async monitorMigrationProcess() {
  const metrics = {
  migrationStage: await this.getCurrentMigrationStage(),
@@ -696,10 +696,10 @@ class MigrationMonitor {
  userSentiment: await this.analyzUserSentiment()
  };
  
- // 记录监控数据
+ // Record monitoring data
  await this.metrics.record('migration_metrics', metrics);
  
- // 检查是否需要告警
+ // Check if alerts are needed
  if (metrics.systemHealthScore < 0.8) {
  await this.alerts.trigger('MIGRATION_HEALTH_LOW', metrics);
  }
@@ -707,30 +707,30 @@ class MigrationMonitor {
  return metrics;
  }
  
- // 生成迁徙统计报告
+ // Generate migration statistics report
  async generateMigrationReport() {
  const report = {
  migrationId: this.getCurrentMigrationId(),
  triggeredAt: await this.getMigrationTriggerTime(),
  completedAt: await this.getMigrationCompletionTime(),
  
- // 财务统计
+ // Financial statistics
  totalAssetsBeforeMigration: await this.getTotalAssetsSnapshot(),
  pioneerRewardDistributed: await this.getPioneerRewardTotal(),
  buildingRewardReserved: await this.getBuildingRewardTotal(),
  
- // 用户统计
+ // User statistics
  totalUsersBeforeMigration: await this.getUserCountSnapshot(),
  pioneerUsersCount: await this.getPioneerUsersCount(),
  relationshipsPreserved: await this.getRelationshipsCount(),
  
- // 性能统计
+ // Performance statistics
  migrationDuration: await this.getMigrationDuration(),
  systemDowntime: await this.getSystemDowntime(),
  dataIntegrityScore: await this.getDataIntegrityScore()
  };
  
- // 将报告上链永久保存
+ // Save report on-chain permanently
  await this.blockchain.saveMigrationReport(report);
  
  return report;
@@ -738,15 +738,15 @@ class MigrationMonitor {
 }
 ```
 
-通过这套完整的技术架构，蚂蚁家园实现了：
+Through this complete technical architecture, the Ant Home achieves:
 
-1. **自动化执行**：整个迁徙流程自动触发和执行，无需人工干预
-2. **数据安全**：核心资产（关系网络）得到完整保护，临时状态正确重置
-3. **公平分配**：先锋奖和建设奖的分配完全基于客观数据和智能合约
-4. **透明可查**：所有迁徙过程链上记录，任何人都可以验证
+1. **Automated Execution**: The entire migration process is automatically triggered and executed without human intervention
+2. **Data Security**: Core assets (relationship networks) are completely protected, temporary states are correctly reset
+3. **Fair Distribution**: Pioneer and construction award distribution is entirely based on objective data and smart contracts
+4. **Transparency and Verifiability**: All migration processes are recorded on-chain, anyone can verify
 
-正如阿明在迁徙中体验到的那样，这不仅仅是技术上的重启，更是生态的进化和升华。每一行代码都在守护着这个永续哲学的实现——让危机成为新生的起点，让结束成为更辉煌开始的序幕。
+Just as Amin experienced during migration, this is not just a technical restart, but an evolution and sublimation of the ecosystem. Every line of code guards the realization of this perpetual philosophy—making crises the starting point of new life, making endings the prelude to more glorious beginnings.
 
 ---
 
-*下一章我们将深入探讨技术架构的工程美学，看看这个复杂的系统是如何在代码层面实现如此精妙的设计...*
+*In the next chapter, we will delve into the engineering aesthetics of the technical architecture, to see how this complex system achieves such exquisite design at the code level...*

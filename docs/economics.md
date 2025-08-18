@@ -1,507 +1,507 @@
-# 蚂蚁家园经济模型详解
+# Ant Home Economic Model Detailed Explanation
 
-## 前言：超越传统的生态经济哲学
+## Preface: Ecological Economic Philosophy Beyond Tradition
 
-在深入了解蚂蚁家园的具体机制之前，我们必须先理解一个根本性问题：**为什么世界需要一个仿生态的经济模型？**
+Before delving into the specific mechanisms of Ant Home, we must first understand a fundamental question: **Why does the world need a bio-ecological economic model?**
 
-### 传统经济系统的根本缺陷
+### Fundamental Flaws of Traditional Economic Systems
 
-人类历史上的每一种经济制度，无论是奴隶制、封建制、资本主义还是社会主义，都建立在一个共同的假设之上：**需要有"人"来控制价值的流动**。
+Every economic system in human history, whether slavery, feudalism, capitalism, or socialism, has been built on a common assumption: **the need for "humans" to control the flow of value**.
 
-这种人治经济的核心问题：
-- **权力腐败**：控制者总是倾向于为自己谋利
-- **信息不对称**：决策者与参与者之间存在天然的信息鸿沟
-- **效率损耗**：层层中介和管理成本消耗巨大资源
-- **系统性不公**：规则制定者天然处于优势地位
+Core problems of human-controlled economies:
+- **Power corruption**: Controllers always tend to benefit themselves
+- **Information asymmetry**: Natural information gap between decision-makers and participants
+- **Efficiency loss**: Massive resource consumption from layers of intermediaries and management costs
+- **Systemic inequality**: Rule-makers naturally hold advantageous positions
 
-### 仿生智慧：经济制度的生态重构
+### Bio-wisdom: Ecological Reconstruction of Economic Systems
 
-蚂蚁家园提出了一个革命性解决方案：**将经济规则从人类主观意志中解放出来，交给自然界已验证的协作智慧**。
+Ant Home proposes a revolutionary solution: **Liberating economic rules from human subjective will and entrusting them to the collaborative wisdom verified by nature**.
 
-自然界中，蚂蚁社会展现了完美的去中心化协作模式：
-- **无需中央调度**：每只蚂蚁根据局部信息做出最优决策
-- **集体智慧涌现**：个体简单行为产生复杂群体智能
-- **资源高效配置**：通过信息素传递实现最优路径选择
-- **危机应对机制**：面临威胁时整体迁徙，保持种群延续
+In nature, ant societies demonstrate perfect decentralized collaboration:
+- **No central coordination needed**: Each ant makes optimal decisions based on local information
+- **Collective intelligence emergence**: Simple individual behaviors generate complex group intelligence
+- **Efficient resource allocation**: Optimal path selection through pheromone transmission
+- **Crisis response mechanism**: Collective migration when facing threats, maintaining species continuity
 
-这意味着：
+This means:
 
-**有机协作的契约**
+**Organic Collaboration Contract**
 ```solidity
-// 等级权益预设，基于贡献动态匹配
+// Preset level rights, dynamically matched based on contribution
 mapping(uint8 => uint256) public levelRewards; // AS1(10%) → AS6(20%)
-mapping(address => uint256) public tribeBonusRate; // 部落贡献奖比例
+mapping(address => uint256) public tribeBonusRate; // Tribe contribution bonus ratio
 ```
 
-**绝对公平的执行**
-系统不会因为你是谁、来自哪里、投入多少而区别对待。算法面前，蚂蚁平等。
+**Absolutely Fair Execution**
+The system won't treat you differently based on who you are, where you come from, or how much you invest. Before algorithms, ants are equal.
 
-**完全透明的运行**
-每一笔资金流动、每一次收益分配、每一个等级评定，都在区块链上永久可查，无法隐瞒。
+**Completely Transparent Operation**
+Every fund flow, every revenue distribution, every level assessment is permanently verifiable on the blockchain, impossible to hide.
 
-### 有机去中心化：权力的生态化分布
+### Organic Decentralization: Ecological Distribution of Power
 
-蚂蚁家园不是简单的"去中心化"，而是**有机去中心化**：
+Ant Home is not simply "decentralized" but **organically decentralized**:
 
-#### 传统"去中心化"项目的伪装
-- **治理代币投票**：实际上是财富决定权力
-- **社区治理**：往往被大户操控
-- **技术团队主导**：开发者拥有实际控制权
+#### Traditional "Decentralized" Project Disguises
+- **Governance token voting**: Actually wealth determines power
+- **Community governance**: Often manipulated by whales
+- **Technical team dominance**: Developers hold actual control
 
-#### 蚂蚁家园的有机去中心化
-- **等级制激励**：权力基于贡献动态分配，而非财富多少
-- **军团竞争机制**：顶级参与者通过竞争获得更多权益
-- **蚁群迁徙进化**：系统具备自主进化能力，无需人为干预
-- **算法自动执行**：所有操作都由智能合约和预设规则执行
+#### Ant Home's Organic Decentralization
+- **Level-based incentives**: Power dynamically allocated based on contribution, not wealth
+- **Legion competition mechanism**: Top participants gain more rights through competition
+- **Ant colony migration evolution**: System has autonomous evolution capability without human intervention
+- **Algorithm automatic execution**: All operations executed by smart contracts and preset rules
 
-### 从信任到验证：范式的根本转变
+### From Trust to Verification: Fundamental Paradigm Shift
 
-**传统金融的信任模式：**
-"请相信我们会公平对待你的资金"
+**Traditional Finance Trust Model:**
+"Please trust us to treat your funds fairly"
 
-**蚂蚁家园的验证模式：**
-"不需要相信任何人，代码会保证你的权益"
+**Ant Home Verification Model:**
+"No need to trust anyone, code guarantees your rights"
 
 ```javascript
-// 你不需要相信我们的承诺，只需要验证这段代码
+// You don't need to trust our promises, just verify this code
 function calculateTribeBonus(address user) public view returns (uint256) {
     uint8 level = getUserLevel(user);
-    uint256 bigTribeBonus = getBigTribeRevenue(user) * 30 / 100; // 大部落固定30%
-    uint256 smallTribeBonus = getSmallTribeRevenue(user) * getLevelRate(level) / 100; // 小部落按等级
+    uint256 bigTribeBonus = getBigTribeRevenue(user) * 30 / 100; // Big tribe fixed 30%
+    uint256 smallTribeBonus = getSmallTribeRevenue(user) * getLevelRate(level) / 100; // Small tribe by level
     return bigTribeBonus + smallTribeBonus;
 }
 ```
 
-### 价值创造的新范式
+### New Paradigm of Value Creation
 
-#### 传统模式：零和博弈
-- 有人赚钱，必然有人亏钱
-- 价值在交换中被重新分配，而非创造
-- 中介机构抽取大量手续费和管理费
+#### Traditional Model: Zero-sum Game
+- If someone makes money, someone must lose money
+- Value is redistributed rather than created in exchanges
+- Intermediary institutions extract large fees and management costs
 
-#### 蚂蚁家园模式：正和共创
-- **生态网络效应**：每个新参与者都增强整个生态的价值
-- **贡献驱动分配**：价值增长通过贡献算法自动分配给建设者
-- **零中介成本**：智能合约消除了中间环节的寻租行为
+#### Ant Home Model: Positive-sum Co-creation
+- **Ecological network effects**: Each new participant enhances the value of the entire ecosystem
+- **Contribution-driven distribution**: Value growth automatically distributed to builders through contribution algorithms
+- **Zero intermediary costs**: Smart contracts eliminate rent-seeking behavior in intermediate links
 
-### 经济模型的哲学基石
+### Philosophical Foundation of Economic Model
 
-蚂蚁家园的经济模型建立在三大哲学基石之上：
+Ant Home's economic model is built on three philosophical foundations:
 
-#### 1. 仿生公平原则
-所有收益分配都基于自然界验证的协作模式，而非人为判断：
-- **部落贡献奖**：`bonus = big_tribe_revenue × 30% + small_tribe_revenue × level_rate`
-- **军团奖池分配**：`share = pool × (personal_contribution / total_contribution)`  
-- **等级动态评定**：`level = f(direct_referrals, team_performance, active_orders)`
+#### 1. Bio-fair Principle
+All revenue distribution is based on nature-verified collaboration models, not human judgment:
+- **Tribe contribution reward**: `bonus = big_tribe_revenue × 30% + small_tribe_revenue × level_rate`
+- **Legion pool distribution**: `share = pool × (personal_contribution / total_contribution)`  
+- **Dynamic level assessment**: `level = f(direct_referrals, team_performance, active_orders)`
 
-#### 2. 透明执行原则
-系统的每一个环节都是透明的：
-- 智能合约代码开源可验证
-- 所有交易记录链上可查
-- 资金流向实时监控
+#### 2. Transparent Execution Principle
+Every aspect of the system is transparent:
+- Smart contract code is open source and verifiable
+- All transaction records are verifiable on-chain
+- Fund flows are monitored in real-time
 
-#### 3. 自主参与原则
-没有任何强制：
-- 自由选择参与等级
-- 自主决定参与时长
-- 随时可以退出系统
-
----
-
-## 理念与实现的桥梁
-
-理解了这些哲学基础后，让我们看看蚂蚁家园如何将这些抽象理念转化为具体可操作的经济机制。
-
-以下四大核心系统，不是独立的功能模块，而是同一理念的不同表达：
-
-- **共建价值系统**：将价值创造生态化
-- **部落网络体系**：将合作激励制度化
-- **军团竞争机制**：将治理权力分布化
-- **蚁群迁徙机制**：将系统进化自动化
-
-每一个机制的设计，都体现了"仿生智慧"和"有机去中心化"的核心原则。
+#### 3. Autonomous Participation Principle
+No coercion:
+- Free choice of participation level
+- Autonomous decision on participation duration
+- Can exit the system at any time
 
 ---
 
-## 系统概述
+## Bridge Between Concept and Implementation
 
-蚂蚁家园是基于BSC链的去中心化生态共建网络，通过智能合约实现价值的有机流动与分配。系统采用"一次部署、有机进化"的设计理念，确保规则透明且可持续发展。
+Understanding these philosophical foundations, let's see how Ant Home translates these abstract concepts into specific operational economic mechanisms.
 
-### 核心机制
-- **共建价值系统**：三个等级的生态建设选择
-- **部落网络体系**：基于推荐关系的多层激励体系  
-- **军团竞争机制**：每周评选前36名价值贡献者
-- **蚁群迁徙机制**：系统自动风险管理与价值传承
+The following four core systems are not independent functional modules, but different expressions of the same concept:
+
+- **Co-building Value System**: Ecologizing value creation
+- **Tribe Network System**: Institutionalizing cooperation incentives
+- **Legion Competition Mechanism**: Distributing governance power
+- **Ant Colony Migration Mechanism**: Automating system evolution
+
+Every mechanism design embodies the core principles of "bio-wisdom" and "organic decentralization".
 
 ---
 
-## 一、共建价值体系
+## System Overview
 
-### 共建等级详解
+Ant Home is a decentralized ecological co-building network based on BSC chain, implementing organic flow and distribution of value through smart contracts. The system adopts a "deploy once, evolve organically" design philosophy, ensuring transparent rules and sustainable development.
 
-| 等级 | 身份 | 价值投入 | 共建周期 | 价值返还 | 放大率 | 预设日收益 | 解锁权限 |
+### Core Mechanisms
+- **Co-building Value System**: Three levels of ecological construction choices
+- **Tribe Network System**: Multi-layer incentive system based on referral relationships  
+- **Legion Competition Mechanism**: Weekly selection of top 36 value contributors
+- **Ant Colony Migration Mechanism**: Automatic system risk management and value inheritance
+
+---
+
+## I. Co-building Value System
+
+### Co-building Level Details
+
+| Level | Identity | Value Input | Co-building Cycle | Value Return | Amplification Rate | Preset Daily Return | Unlocked Permissions |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Ao** | 萌新蚂蚁 | 50 USDT | T+1天 | 50.25 USDT | 0.5% | 0.25 USDT | 无部落贡献奖 |
-| **Am** | 建设蚂蚁 | 500 USDT | T+7天 | 525 USDT | 5% | 7.14 USDT | 大部落30%+小部落3% |
-| **AS** | 精英蚂蚁 | 2000 USDT | T+15天 | 2300 USDT | 15% | 20 USDT | 大部落30%+小部落6% |
+| **Ao** | Rookie Ant | 50 USDT | T+1 day | 50.25 USDT | 0.5% | 0.25 USDT | No tribe contribution reward |
+| **Am** | Builder Ant | 500 USDT | T+7 days | 525 USDT | 5% | 7.14 USDT | Big tribe 30%+Small tribe 3% |
+| **AS** | Elite Ant | 2000 USDT | T+15 days | 2300 USDT | 15% | 20 USDT | Big tribe 30%+Small tribe 6% |
 
-### 身份转换规则
+### Identity Conversion Rules
 
-蚂蚁家园采用动态身份系统，确保权益与贡献实时匹配：
+Ant Home adopts a dynamic identity system ensuring rights match contributions in real-time:
 
-**身份获得机制**：
-- 创建共建订单后立即获得对应身份（Ao/Am/AS）
-- 共建订单到期后自动变为Ob观察蚂蚁
-- Ob状态下创建新共建订单，立即恢复对应身份
-- 同一时间只能有一个活跃共建订单
+**Identity Acquisition Mechanism**:
+- Immediately obtain corresponding identity (Ao/Am/AS) after creating co-building order
+- Automatically become Ob observer ant after co-building order expires
+- In Ob state, creating new co-building order immediately restores corresponding identity
+- Only one active co-building order allowed at the same time
 
-**Ob观察蚂蚁特殊说明**：
-- 触发条件：共建订单到期后即变为Ob状态
-- 权益状态：无任何收益，无部落贡献奖
-- 推荐资格：仍可作为推荐人（部落关系永久保留）
-- 恢复方式：创建新共建订单立即获得对应身份
+**Ob Observer Ant Special Notes**:
+- Trigger condition: Becomes Ob state after co-building order expires
+- Rights status: No revenue, no tribe contribution reward
+- Referral qualification: Can still serve as referrer (tribe relationship permanently retained)
+- Recovery method: Creating new co-building order immediately obtains corresponding identity
 
-### 重要规则
-1. **单一共建限制**：每个地址同时只能持有一个活跃共建订单
-2. **价值释放机制**：共建完成后需手动领取，领取后重新计入网络价值
-3. **预计算模型**：所有共建返还在合约部署时已确定，完全透明可预期
+### Important Rules
+1. **Single Co-building Limit**: Each address can only hold one active co-building order at a time
+2. **Value Release Mechanism**: Manual claim required after co-building completion, counted into network value after claiming
+3. **Pre-calculation Model**: All co-building returns determined at contract deployment, completely transparent and predictable
 
 ---
 
-## 二、部落网络激励机制
+## II. Tribe Network Incentive Mechanism
 
-### 部落等级体系
+### Tribe Level System
 
-![部落网络AS6](/images/economics/as6.png)
+![Tribe Network AS6](/images/economics/as6.png)
 
-![部落网络AS1](/images/economics/as1.png)
+![Tribe Network AS1](/images/economics/as1.png)
 
-蚂蚁家园建立了基于贡献的动态等级制度，激励参与者持续建设生态：
+Ant Home establishes a contribution-based dynamic level system to incentive participants' continuous ecological construction:
 
-| 等级 | 称号 | 晋升条件 | 大部落权益 | 小部落权益 |
+| Level | Title | Promotion Conditions | Big Tribe Rights | Small Tribe Rights |
 |:---:|:---:|:-------:|:----------:|:----------:|
-| **AS** | 精英蚂蚁 | 共建AS订单 | 30% | 6% |
-| **AS1** | 部落队长 | 自身AS + 直推6个AS | 30% | 10% |
-| **AS2** | 部落长老 | 自身AS1 + 直推中1个达到AS1 | 30% | 12% |
-| **AS3** | 部落首领 | 自身AS1 + 直推中2个达到AS1 | 30% | 14% |
-| **AS4** | 部落酋长 | 自身AS1 + 直推中3个达到AS1 | 30% | 16% |
-| **AS5** | 部落统领 | 自身AS1 + 直推中4个达到AS1 | 30% | 18% |
-| **AS6** | 部落元帅 | 自身AS1 + 直推中5个达到AS1 | 30% | 20% |
+| **AS** | Elite Ant | Co-build AS order | 30% | 6% |
+| **AS1** | Tribe Captain | Self AS + direct referral 6 AS | 30% | 10% |
+| **AS2** | Tribe Elder | Self AS1 + 1 direct referral reaching AS1 | 30% | 12% |
+| **AS3** | Tribe Chief | Self AS1 + 2 direct referrals reaching AS1 | 30% | 14% |
+| **AS4** | Tribe Chieftain | Self AS1 + 3 direct referrals reaching AS1 | 30% | 16% |
+| **AS5** | Tribe Commander | Self AS1 + 4 direct referrals reaching AS1 | 30% | 18% |
+| **AS6** | Tribe Marshal | Self AS1 + 5 direct referrals reaching AS1 | 30% | 20% |
 
-### 部落划分规则
+### Tribe Division Rules
 
-![部落划分](/images/economics/tride.png)
+![Tribe Division](/images/economics/tride.png)
 
-系统自动将参与者的推荐网络划分为两类部落：
+The system automatically divides participants' referral networks into two types of tribes:
 
-**大部落（核心部落）**
-- 定义：直接推荐网络中贡献最高的一条线路
-- 计算：该线路中所有活跃共建订单的价值总和
-- 奖励基础：仅计算该线路根用户的个人预设日收益
+**Big Tribe (Core Tribe)**
+- Definition: The line with highest contribution in direct referral network
+- Calculation: Total value of all active co-building orders in that line
+- Reward basis: Only counts personal preset daily return of that line's root user
 
-**小部落（协作部落）**  
-- 定义：除大部落外的所有其他直接推荐线路
-- 计算：所有其他线路活跃共建订单价值总和
-- 奖励基础：所有小部落线路用户的预设日收益总和
+**Small Tribe (Collaboration Tribe)**  
+- Definition: All other direct referral lines except big tribe
+- Calculation: Total value of active co-building orders in all other lines
+- Reward basis: Total preset daily returns of all small tribe line users
 
-### 部落贡献奖计算公式
+### Tribe Contribution Reward Calculation Formula
 
-**大部落贡献分享**
-- 贡献基数：大部落直接推荐者个人的每日预设收益（不是整条线路）
-- 贡献比例：30%（所有等级统一）
-- 示例：大部落根用户参与2000 USDT（AS等级），日收益20 USDT，你获得6 USDT/天
+**Big Tribe Contribution Sharing**
+- Contribution base: Daily preset return of big tribe direct referrer's personal contribution (not entire line)
+- Contribution ratio: 30% (unified for all levels)
+- Example: Big tribe root user participates 2000 USDT (AS level), daily return 20 USDT, you get 6 USDT/day
 
-**小部落贡献分享**
-- 贡献基数：所有小部落线路参与者的每日预设收益总和
-- 贡献比例：根据等级确定（AS:6%, AS1:10%, AS2:12%, AS3:14%, AS4:16%, AS5:18%, AS6:20%）
-- 示例：小部落总日收益500 USDT，AS6等级获得100 USDT/天
+**Small Tribe Contribution Sharing**
+- Contribution base: Total daily preset returns of all small tribe line participants
+- Contribution ratio: Determined by level (AS:6%, AS1:10%, AS2:12%, AS3:14%, AS4:16%, AS5:18%, AS6:20%)
+- Example: Small tribe total daily return 500 USDT, AS6 level gets 100 USDT/day
 
-### 等级评定机制
-- **评定时间**：每日22:30统一评定
-- **生效时间**：评定后立即生效
-- **评定依据**：基于22:30时刻的部落网络活跃状态
-- **动态调整**：只统计有活跃共建订单的用户
-- **独立判定**：每个等级独立判定，不需要逐级提升
+### Level Assessment Mechanism
+- **Assessment time**: Daily unified assessment at 22:30
+- **Effective time**: Takes effect immediately after assessment
+- **Assessment basis**: Based on tribe network active status at 22:30
+- **Dynamic adjustment**: Only counts users with active co-building orders
+- **Independent determination**: Each level independently determined, no need for gradual promotion
 
-### 实时价值流动说明
-1. 部落划分基于实时活跃共建订单的价值贡献，动态调整
-2. 参与者完成共建后，其价值贡献立即从网络中移除
-3. 参与者创建新共建后，其价值贡献立即加入网络计算
-
----
-
-## 三、军团竞争价值分配
-
-### 评选标准与流程
-
-| 评选维度 | 具体标准 | 更新频率 |
-|----------|----------|----------|
-| **基础资格** | 必须达到AS6等级且有活跃共建订单 | 实时检查 |
-| **评估指标** | 小部落总业绩排名 | 每日23:30更新 |
-| **军团规模** | 全网前36名AS6用户 | 固定名额 |
-| **正式选拔** | 每周一01:00确定本周军团成员 | 每周确认 |
-
-**小部落总业绩计算**：所有小部落线路的活跃共建订单金额总和
-
-### 军团奖池来源与分配
-
-**奖池构成与分配时间表**：
-
-| 时间节点 | 操作内容 | 计算基础 |
-|----------|----------|----------|
-| **每日23:00** | 奖池累计 | 全网活跃共建订单预设日收益总和的20% |
-| **周一到周日** | 7天累计周期 | 持续累计到周奖池 |
-| **每周一01:00** | 奖池分配 | 按36个军团成员的小部落业绩占比加权分配 |
-
-### 分配计算示例
-```
-军团个人奖 = 周军团奖池总额 × (个人小部落价值贡献 ÷ 36人小部落价值贡献总和)
-
-示例计算：
-- 周军团奖池：100,000 USDT
-- 个人小部落贡献：500,000 USDT  
-- 36人总贡献：10,000,000 USDT
-- 个人奖励：100,000 × (500,000 ÷ 10,000,000) = 5,000 USDT
-```
+### Real-time Value Flow Description
+1. Tribe division based on real-time active co-building order value contributions, dynamically adjusted
+2. Participant's value contribution immediately removed from network after completing co-building
+3. Participant's value contribution immediately added to network calculation after creating new co-building
 
 ---
 
-## 四、蚁群迁徙机制
+## III. Legion Competition Value Distribution
 
-### 触发条件与检测机制
+### Selection Standards and Process
 
-**迁徙触发逻辑**：
-- **检查时机**：每日00:00后第一个用户执行提取操作时检查
-- **触发条件**：家园储备库 < 00:00时刻到期的共建订单总额
-- **系统响应**：迁徙触发后立即锁定3天
+| Selection Dimension | Specific Standards | Update Frequency |
+|----------|----------|----------|
+| **Basic Qualification** | Must reach AS6 level with active co-building order | Real-time check |
+| **Assessment Indicator** | Small tribe total performance ranking | Daily update at 23:30 |
+| **Legion Size** | Top 36 AS6 users network-wide | Fixed quota |
+| **Official Selection** | Confirm this week's legion members every Monday 01:00 | Weekly confirmation |
 
-### 迁徙流程详解
+**Small Tribe Total Performance Calculation**: Total amount of active co-building orders in all small tribe lines
 
-#### 第一阶段：系统锁定（3天）
-- 系统进入保护期，暂停所有价值流入和流出操作
-- 记录最后36个AS身份的共建订单（按创建时间倒序）
-- 公示迁徙信息，准备价值传承
+### Legion Pool Source and Distribution
 
-#### 第二阶段：价值传承分配
+**Pool Composition and Distribution Schedule**:
 
-**资金分配比例表**：
+| Time Point | Operation Content | Calculation Basis |
+|----------|----------|----------|
+| **Daily 23:00** | Pool accumulation | 20% of total preset daily returns of all active co-building orders network-wide |
+| **Monday to Sunday** | 7-day accumulation cycle | Continuous accumulation to weekly pool |
+| **Every Monday 01:00** | Pool distribution | Weighted distribution according to 36 legion members' small tribe performance proportion |
 
-| 分配项目 | 分配比例 | 受益对象 | 发放方式 |
+### Distribution Calculation Example
+```
+Legion Personal Reward = Weekly Legion Pool Total × (Personal Small Tribe Value Contribution ÷ 36 People Small Tribe Value Contribution Total)
+
+Example Calculation:
+- Weekly Legion Pool: 100,000 USDT
+- Personal Small Tribe Contribution: 500,000 USDT  
+- 36 People Total Contribution: 10,000,000 USDT
+- Personal Reward: 100,000 × (500,000 ÷ 10,000,000) = 5,000 USDT
+```
+
+---
+
+## IV. Ant Colony Migration Mechanism
+
+### Trigger Conditions and Detection Mechanism
+
+**Migration Trigger Logic**:
+- **Check timing**: When first user executes withdrawal operation after 00:00 daily
+- **Trigger condition**: Home reserve vault < total amount of co-building orders expiring at 00:00
+- **System response**: Immediately lock for 3 days after migration trigger
+
+### Migration Process Details
+
+#### Phase 1: System Lock (3 days)
+- System enters protection period, suspending all value inflow and outflow operations
+- Record last 36 AS identity co-building orders (in reverse chronological order of creation)
+- Announce migration information, prepare value inheritance
+
+#### Phase 2: Value Inheritance Distribution
+
+**Fund Distribution Ratio Table**:
+
+| Distribution Item | Distribution Ratio | Beneficiaries | Distribution Method |
 |----------|----------|----------|----------|
-| **迁徙先锋奖** | 10% | 最后36个AS身份参与者 | 平均分配，立即发放 |
-| **新巢建设奖** | 90% | 新周期军团排名前36名 | 分4期评选发放 |
+| **Migration Pioneer Award** | 10% | Last 36 AS identity participants | Equal distribution, immediate issuance |
+| **New Nest Construction Award** | 90% | Top 36 in new cycle legion ranking | Distributed in 4 phases of selection |
 
-#### 第三阶段：新周期启动
-- 系统重置，开启新的共建周期
-- 所有参与者可重新开始价值共建
-- 部落关系和用户ID完整保留
+#### Phase 3: New Cycle Launch
+- System reset, opening new co-building cycle
+- All participants can restart value co-building
+- Tribe relationships and user IDs completely preserved
 
-### 新巢建设计划
+### New Nest Construction Plan
 
-在新周期中，90%的传承价值将通过4次评选分配：
+In the new cycle, 90% of inherited value will be distributed through 4 selections:
 
-| 评选阶段 | 评选时间 | 分配比例 | 分配依据 | 评选标准 |
+| Selection Phase | Selection Time | Distribution Ratio | Distribution Basis | Selection Criteria |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **第1阶段** | 第4周 | 总基金10% | 第4周军团排名 | 当周小部落价值贡献前36名 |
-| **第2阶段** | 第8周 | 总基金20% | 第8周军团排名 | 当周小部落价值贡献前36名 |
-| **第3阶段** | 第12周 | 总基金30% | 第12周军团排名 | 当周小部落价值贡献前36名 |
-| **第4阶段** | 第16周 | 总基金40% | 第16周军团排名 | 当周小部落价值贡献前36名 |
+| **Phase 1** | Week 4 | 10% of total fund | Week 4 legion ranking | Top 36 small tribe value contributors that week |
+| **Phase 2** | Week 8 | 20% of total fund | Week 8 legion ranking | Top 36 small tribe value contributors that week |
+| **Phase 3** | Week 12 | 30% of total fund | Week 12 legion ranking | Top 36 small tribe value contributors that week |
+| **Phase 4** | Week 16 | 40% of total fund | Week 16 legion ranking | Top 36 small tribe value contributors that week |
 
-**重要说明**：每次评选独立进行，基于当周实时价值贡献，而非累计贡献
+**Important Note**: Each selection conducted independently, based on that week's real-time value contribution, not cumulative contribution
 
-### 迁徙后系统处理
+### Post-Migration System Processing
 
-**数据重置范围**：
-- 用户身份全部重置为Ob观察蚂蚁
-- 等级记录全部清零
-- 历史业绩全部清零
-- 军团排名全部清零
-- 奖励余额全部清零
+**Data Reset Scope**:
+- All user identities reset to Ob observer ant
+- All level records cleared
+- All historical performance cleared
+- All legion rankings cleared
+- All reward balances cleared
 
-**数据保留范围**：
-- 用户ID永久保留
-- 部落关系完整保留
+**Data Retention Scope**:
+- User IDs permanently retained
+- Tribe relationships completely preserved
 
-**重启后处理流程**：
-- 系统锁定3天维护期
-- 老用户无需重新注册，可直接共建激活
-- 次日22:30根据部落网络重新计算等级
+**Post-Restart Processing Flow**:
+- System locked for 3-day maintenance period
+- Old users need not re-register, can directly co-build to activate
+- Next day 22:30 recalculate levels based on tribe network
 
 ---
 
-## 五、共建收益期规则
+## V. Co-building Revenue Period Rules
 
-### T+N共建周期计算
+### T+N Co-building Cycle Calculation
 
-**时间计算标准**：
+**Time Calculation Standards**:
 
-| 时间节点 | 状态说明 | 收益情况 |
+| Time Point | Status Description | Revenue Situation |
 |----------|----------|----------|
-| **T日** | 创建共建当日 | 不产生收益 |
-| **T+1至T+N** | 正常收益期 | 产生部落贡献分享 |
-| **T+N日后** | 共建完成 | 停止产生收益 |
+| **T Day** | Co-building creation day | No revenue generated |
+| **T+1 to T+N** | Normal revenue period | Generates tribe contribution sharing |
+| **After T+N Day** | Co-building completed | Stops generating revenue |
 
-### 收益期示例
+### Revenue Period Example
 
-**AS等级共建周期示例**：
+**AS Level Co-building Cycle Example**:
 ```
-创建时间：Day1 10:00（举例）
-T+0期间：Day1 10:00-23:59（创建当天，不产生收益）
-T+1开始：Day2 00:00（第二天开始产生收益）
-订单到期：Day16 00:00（T+15天后）
+Creation time: Day1 10:00 (example)
+T+0 period: Day1 10:00-23:59 (creation day, no revenue generated)
+T+1 start: Day2 00:00 (second day starts generating revenue)
+Order expiry: Day16 00:00 (after T+15 days)
 
-收益期间：Day2 00:00 至 Day15 23:59
-收益天数：14天
+Revenue period: Day2 00:00 to Day15 23:59
+Revenue days: 14 days
 ```
 
-### 重要说明
-1. **收益产生条件**：所有部落贡献分享仅在下级共建订单的收益期内产生
-2. **状态影响**：共建完成未领取状态下，不计入任何价值贡献和网络计算
-3. **持续参与**：参与者必须领取完成的共建并重新创建才能继续参与价值流动
+### Important Notes
+1. **Revenue generation condition**: All tribe contribution sharing only generated during subordinate co-building orders' revenue period
+2. **Status impact**: In completed but unclaimed co-building status, not counted in any value contribution and network calculation
+3. **Continuous participation**: Participants must claim completed co-building and recreate to continue participating in value flow
 
 ---
 
-## 六、技术参数
+## VI. Technical Parameters
 
-### 链上技术规格
+### On-chain Technical Specifications
 
-| 技术维度 | 具体参数 | 说明 |
+| Technical Dimension | Specific Parameters | Description |
 |----------|----------|------|
-| **区块链** | BSC（币安智能链） | 高性能，低手续费 |
-| **代币标准** | USDT (BEP-20) | 稳定币，降低波动风险 |
-| **Gas费用** | 用户承担，约0.001-0.003 BNB/笔 | 操作成本透明 |
-| **合约特性** | 不可升级，无管理员权限 | 确保去中心化 |
+| **Blockchain** | BSC (Binance Smart Chain) | High performance, low fees |
+| **Token Standard** | USDT (BEP-20) | Stablecoin, reduces volatility risk |
+| **Gas Fees** | User bears cost, approximately 0.001-0.003 BNB/transaction | Transparent operation cost |
+| **Contract Features** | Non-upgradeable, no admin privileges | Ensures decentralization |
 
-### 时间标准规范
+### Time Standard Specifications
 
-| 时间类型 | 标准设置 | 应用场景 |
+| Time Type | Standard Setting | Application Scenario |
 |----------|----------|----------|
-| **统一时区** | UTC+8（新加坡时间） | 全球统一标准 |
-| **日结算时间** | 每日23:00 | 部落贡献奖发放 |
-| **等级评定时间** | 每日22:30 | 等级状态更新 |
-| **周结算时间** | 每周一01:00 | 军团奖池分配 |
+| **Unified Time Zone** | UTC+8 (Singapore Time) | Global unified standard |
+| **Daily Settlement Time** | Daily 23:00 | Tribe contribution reward distribution |
+| **Level Assessment Time** | Daily 22:30 | Level status update |
+| **Weekly Settlement Time** | Every Monday 01:00 | Legion pool distribution |
 
 ---
 
-## 七、参与流程
+## VII. Participation Process
 
-### 基础操作流程
+### Basic Operation Process
 
-**准备阶段操作清单**：
-1. 准备BSC链USDT
-2. 准备少量BNB作为Gas费
-3. 连接支持BSC的钱包（如MetaMask）
+**Preparation Phase Operation Checklist**:
+1. Prepare BSC chain USDT
+2. Prepare small amount of BNB for Gas fees
+3. Connect BSC-supporting wallet (like MetaMask)
 
-**共建阶段操作步骤**：
-1. 选择共建等级（Ao/Am/AS）
-2. 调用合约createOrder函数
-3. 将USDT转入家园储备库
-4. 确认交易完成
+**Co-building Phase Operation Steps**:
+1. Choose co-building level (Ao/Am/AS)
+2. Call contract createOrder function
+3. Transfer USDT to home reserve vault
+4. Confirm transaction completion
 
-**收获阶段操作指南**：
-1. 等待共建周期完成
-2. 调用claimOrder函数领取返还
-3. 决定是否继续参与共建
+**Harvesting Phase Operation Guide**:
+1. Wait for co-building cycle completion
+2. Call claimOrder function to claim return
+3. Decide whether to continue participating in co-building
 
-### 生态建设策略
+### Ecological Construction Strategy
 
-**部落网络构建要点**：
-1. **优先发展高质量直接推荐**：选择理解项目且有执行力的合作伙伴
-2. **形成稳定的大小部落结构**：平衡大部落深度和小部落广度
-3. **维护长期合作关系**：部落关系是永久性的，需要用心维护
+**Tribe Network Construction Key Points**:
+1. **Prioritize developing high-quality direct referrals**: Choose partners who understand the project and have execution capability
+2. **Form stable big and small tribe structure**: Balance big tribe depth and small tribe breadth
+3. **Maintain long-term cooperative relationships**: Tribe relationships are permanent and need careful maintenance
 
-**等级晋升规划**：
-1. **新手期**：建议从Am等级开始，熟悉机制
-2. **发展期**：升级到AS等级，开始建设部落网络
-3. **成熟期**：争取AS6等级，参与军团竞争
+**Level Promotion Planning**:
+1. **Novice period**: Recommend starting from Am level to familiarize with mechanisms
+2. **Development period**: Upgrade to AS level, start building tribe network
+3. **Mature period**: Strive for AS6 level, participate in legion competition
 
-**军团竞争策略**：
-1. **关注小部落总价值贡献排名**：这是军团评选的核心指标
-2. **平衡发展多条推荐线路**：避免过度依赖单一大部落
-3. **保持持续活跃**：确保自身和团队的共建订单保持活跃状态
+**Legion Competition Strategy**:
+1. **Focus on small tribe total value contribution ranking**: This is the core indicator for legion selection
+2. **Balance development of multiple referral lines**: Avoid over-dependence on single big tribe
+3. **Maintain continuous activity**: Ensure own and team's co-building orders remain active
 
 ---
 
-## 八、风险提示
+## VIII. Risk Warning
 
-### 技术操作风险
+### Technical Operation Risks
 
-| 风险类型 | 风险描述 | 防范措施 |
+| Risk Type | Risk Description | Prevention Measures |
 |----------|----------|----------|
-| **地址错误** | 转账地址错误导致资金损失 | 多次确认地址，使用地址簿 |
-| **私钥丢失** | 私钥丢失将永久失去账户控制权 | 安全备份，多重保管 |
-| **钓鱼风险** | 假冒官方网站或合约地址 | 仅通过官方渠道访问 |
+| **Address Error** | Wrong transfer address causing fund loss | Multiple address confirmations, use address book |
+| **Private Key Loss** | Private key loss will permanently lose account control | Secure backup, multiple custody |
+| **Phishing Risk** | Fake official websites or contract addresses | Only access through official channels |
 
-### 系统机制风险
+### System Mechanism Risks
 
-**蚁群迁徙风险**：
-- 风险描述：当储备库资金不足时系统将进入迁徙期
-- 影响范围：3天锁定期，暂停所有操作
-- 补偿机制：迁徙先锋奖和新巢建设奖
+**Ant Colony Migration Risk**:
+- Risk description: System enters migration period when reserve vault funds insufficient
+- Impact scope: 3-day lock period, suspend all operations
+- Compensation mechanism: Migration pioneer award and new nest construction award
 
-**等级波动风险**：
-- 风险描述：等级评定基于实时贡献，可能出现等级下降
-- 影响因素：团队成员订单到期，推荐网络活跃度下降
-- 应对策略：保持团队活跃，及时沟通续建
+**Level Fluctuation Risk**:
+- Risk description: Level assessment based on real-time contribution, possible level decline
+- Influencing factors: Team member order expiry, referral network activity decline
+- Response strategy: Maintain team activity, timely communication for renewal
 
-**军团淘汰风险**：
-- 风险描述：军团成员基于竞争排名，存在被淘汰可能
-- 竞争激烈程度：仅前36名AS6用户能够享受军团奖励
-- 保级策略：持续扩大小部落规模，提升竞争力
+**Legion Elimination Risk**:
+- Risk description: Legion members based on competitive ranking, possibility of elimination
+- Competition intensity: Only top 36 AS6 users can enjoy legion rewards
+- Retention strategy: Continuously expand small tribe scale, improve competitiveness
 
 ---
 
-## 九、专业术语解释
+## IX. Professional Terminology Explanation
 
-### 核心概念术语
+### Core Concept Terms
 
-| 术语 | 定义 | 应用场景 |
+| Term | Definition | Application Scenario |
 |------|------|----------|
-| **活跃共建订单** | 已创建但未完成或未领取的共建订单 | 各类计算的基础数据 |
-| **推荐线路** | 从某个直接推荐者开始的整个下级网络分支 | 部落划分的基本单位 |
-| **实时价值贡献** | 当前所有活跃共建订单的价值总和 | 等级评定和排名依据 |
-| **共建收益期** | 订单创建后第2天至到期日的时间段 | 部落贡献奖产生期间 |
+| **Active Co-building Order** | Co-building order created but not completed or unclaimed | Basic data for various calculations |
+| **Referral Line** | Entire subordinate network branch starting from a direct referrer | Basic unit for tribe division |
+| **Real-time Value Contribution** | Total value of all current active co-building orders | Basis for level assessment and ranking |
+| **Co-building Revenue Period** | Time period from day 2 after order creation to expiry date | Period when tribe contribution rewards generated |
 
-### 系统机制术语
+### System Mechanism Terms
 
-| 术语 | 定义 | 重要性 |
+| Term | Definition | Importance |
 |------|------|--------|
-| **迁徙先锋者** | 蚁群迁徙前最后参与的36个AS身份参与者 | 获得10%先锋奖励 |
-| **预设日收益** | 每个等级对应的固定日收益额度 | 所有奖励计算基础 |
-| **部落贡献奖** | 基于推荐网络的分层激励机制 | 主要收益来源 |
-| **军团奖池** | 顶级参与者的竞争性奖励池 | AS6等级专属奖励 |
+| **Migration Pioneer** | Last 36 AS identity participants before ant colony migration | Receive 10% pioneer reward |
+| **Preset Daily Return** | Fixed daily return amount corresponding to each level | Basis for all reward calculations |
+| **Tribe Contribution Reward** | Layered incentive mechanism based on referral network | Main revenue source |
+| **Legion Pool** | Competitive reward pool for top participants | AS6 level exclusive reward |
 
-### 治理相关术语
+### Governance Related Terms
 
-- **等级评定**：每日22:30基于部落网络状态的动态等级计算
-- **军团竞争**：AS6等级用户基于小部落贡献的排名竞争
-- **蚁群迁徙**：系统资金不足时的自动风险管理和进化机制
-- **新巢建设**：迁徙后新周期的价值传承和激励计划
+- **Level Assessment**: Dynamic level calculation based on tribe network status daily at 22:30
+- **Legion Competition**: Ranking competition among AS6 level users based on small tribe contribution
+- **Ant Colony Migration**: Automatic risk management and evolution mechanism when system funds insufficient
+- **New Nest Construction**: Value inheritance and incentive plan for new cycle after migration
 
 ---
 
-## 十、安全验证
+## X. Security Verification
 
-### 官方信息验证
+### Official Information Verification
 
-**合约地址验证**：
-- 仅通过官方渠道获取合约地址
-- 在BSCScan上验证合约代码
-- 确认合约功能与文档描述一致
+**Contract Address Verification**:
+- Only obtain contract addresses through official channels
+- Verify contract code on BSCScan
+- Confirm contract functions match documentation description
 
-**信息来源验证**：
-- 关注官方公告渠道
-- 谨防假冒网站和钓鱼链接
-- 验证信息发布者身份
+**Information Source Verification**:
+- Follow official announcement channels
+- Beware of fake websites and phishing links
+- Verify information publisher identity
 
-### 安全操作建议
+### Security Operation Recommendations
 
-**钱包安全**：
-- 使用硬件钱包或知名软件钱包
-- 定期备份私钥和助记词
-- 不在公共网络进行敏感操作
+**Wallet Security**:
+- Use hardware wallets or reputable software wallets
+- Regularly backup private keys and mnemonic phrases
+- Do not perform sensitive operations on public networks
 
-**交易安全**：
-- 交易前仔细检查所有参数
-- 设置合理的Gas限制
-- 保留交易记录便于查询
+**Transaction Security**:
+- Carefully check all parameters before transactions
+- Set reasonable Gas limits
+- Keep transaction records for reference

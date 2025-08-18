@@ -1,157 +1,154 @@
-# 终章：致每一只数字蚂蚁的永恒契约
+# Final Chapter: The Eternal Contract to Every Digital Ant
 
-## 阿明的觉醒：从观察者到见证者
+## Amin's Awakening: From Observer to Witness
 
-三年后的今天，阿明站在自己的书房里，凝视着墙上那张蚂蚁家园发展历程图表。从最初的谨慎观察，到勇敢参与，再到深度理解，他见证了一个伟大生态的诞生与成长。
+Three years later today, Amin stands in his study, gazing at the development timeline chart of the Ant Colony on the wall. From initial cautious observation, to brave participation, to deep understanding, he has witnessed the birth and growth of a great ecosystem.
 
-这三年来，阿明不仅实现了财务自由，更重要的是，他找到了人生的意义和价值。在蚂蚁家园，他不仅仅是一个投资者，更是一个建设者、一个见证者、一个传承者。
+Over these three years, Amin not only achieved financial freedom, but more importantly, he found the meaning and value of life. In the Ant Colony, he is not just an investor, but a builder, a witness, a inheritor.
 
-他想起了第一次看到那个白皮书大纲时的激动心情，想起了初入家园时的忐忑不安，想起了成为军团成员时的无上荣光，想起了经历迁徙时的浴火重生，想起了研究代码时的深深震撼。
+He remembers the excitement when he first saw the whitepaper outline, the anxiety when first entering the colony, the supreme honor when becoming a legion member, the rebirth through migration, the deep shock when studying the code.
 
-每一个回忆都如此真实，每一次成长都如此珍贵。
+Every memory is so real, every growth so precious.
 
-阿明打开电脑，开始写下他的感悟：
-
----
-
-## 给未来蚂蚁们的一封信
-
-**亲爱的数字蚂蚁朋友们：**
-
-当您读到这些文字时，您面前展开的不仅仅是一个投资项目的介绍，更是一份跨越时空的永恒契约——一份用数学写就的，用代码铸成的，任何人都无法篡改的神圣约定。
-
-我是阿明，一只在蚂蚁家园生活了三年的普通蚂蚁。三年前，我和您一样，对这个新世界充满好奇和疑虑。今天，我想以一个亲历者的身份，向您分享这个生态的真实面貌。
-
-### 这里，没有中心化的权威
-
-在我曾经生活的传统世界里，规则的制定者往往也是规则的修改者。当他们的利益与我们的利益冲突时，规则就会悄然改变。但在蚂蚁家园，这种情况永远不会发生。
-
-这里的每一条规则都写在不可更改的智能合约中，就像古代的法典刻在石碑上一样。没有任何人——包括系统的创造者——能够修改这些规则。这不是技术的限制，而是对您最庄重的承诺。
-
-**0.5%、5%、15%的收益率** —— 永恒不变 
-**1天、7天、15天的周期** —— 永恒不变 
-**36人的军团席位** —— 永恒不变 
-**完善的奖励机制** —— 永恒不变 
-**先锋奖与建设奖的分配** —— 永恒不变 
-
-这些数字不会因为市场的波动而调整，不会因为管理者的心情而改变，更不会因为任何外部压力而妥协。它们如数学定理一般精确，如物理法则一般恒定。
-
-### 这里，每只蚂蚁都是平等的建设者
-
-在蚂蚁家园，没有特权，没有后门，没有内部消息。每只蚂蚁都站在同样的起跑线上，都有相同的机会和权利。
-
-您的收益不取决于您认识谁，不取决于您的背景如何，只取决于您的贡献有多大。系统用最公平的算法计算每个人的奖励，用最透明的方式分配每一份收益。
-
-**萌新蚂蚁(Ao)** —— 50 USDT起步，人人都能参与 
-**建设蚂蚁(Am)** —— 稳健收益，风险可控 
-**精英蚂蚁(AS)** —— 丰厚回报，承担更大责任 
-**军团成员** —— 最高荣誉，基于真实贡献 
-
-每个级别都是公开透明的，每次升级都是实力的证明。在这里，您的价值由您的行动决定，您的地位由您的贡献确定。
-
-### 这里，有着最智慧的风险管理
-
-我知道您会担心风险，这是完全可以理解的。在这个充满不确定性的世界里，谁能保证永远的安全？
-
-但蚂蚁家园用最智慧的方式回答了这个问题：**蚁群迁徙机制**。
-
-当系统面临无法克服的困难时，它不会像其他项目一样崩盘归零，让参与者血本无归。相反，它会启动迁徙机制，确保：
-
-- 最后坚持的勇士获得先锋奖励
-
-- 90%的资金用于新周期发展
-
-- 所有的关系网络完整保留
-
-- 每个人的努力都有价值传承
-
-这不是失败，而是重生。这不是结束，而是新的开始。就像候鸟的迁徙一样，这是生命的智慧，是适应环境变化的最好方式。
-
-### 这里，技术不是冰冷的工具，而是温暖的承诺
-
-作为一个有技术背景的参与者，我深入研究过蚂蚁家园的每一行代码。我被震撼了。
-
-这不仅仅是程序，更是艺术；不仅仅是逻辑，更是哲学；不仅仅是功能，更是对每只蚂蚁的深切关怀。
-
-每一个函数都经过精心设计，每一个参数都有深刻含义，每一个异常处理都体现着对用户的保护。创造者们用最严格的标准要求自己，用最完美的代码实现承诺。
-
-这种对完美的追求，让我想起了古代的工匠精神。他们知道自己的作品要传承千年，所以不敢有丝毫马虎。
-
-### 这里，蕴含着深刻的人生智慧
-
-三年来，蚂蚁家园教会了我很多：
-
-**勤劳** —— 只有付出努力，才能获得回报 
-**团结** —— 个人的成功建立在集体的繁荣之上 
-**智慧** —— 要学会在变化中抓住不变的规律 
-**耐心** —— 好的结果需要时间的积淀 
-**勇气** —— 面对未知时要敢于尝试 
-
-这些品质不仅在蚂蚁家园中有用，在人生的任何阶段都是珍贵的财富。
-
-### 这里，是真正的去中心化世界
-
-也许您会问：这样的系统真的存在吗？在这个充满欺骗和背叛的世界里，真的有如此纯净的地方吗？
-
-我用我三年的亲身经历告诉您：是的，它存在。
-
-蚂蚁家园不是乌托邦，它是用现代技术实现的理想社会的原型。在这里，信任不是基于感情，而是基于数学；公平不是基于承诺，而是基于代码；永恒不是基于信念，而是基于不可变性。
-
-这就是区块链技术带给人类最珍贵的礼物——让理想变成现实的能力。
-
-### 致每一只即将加入的数字蚂蚁
-
-如果您读到这里，说明您已经感受到了这个生态的魅力。但我想提醒您，加入蚂蚁家园意味着：
-
-**您加入的不是一个投资项目，而是一个价值理念** 
-**您获得的不是短期收益，而是长期成长** 
-**您参与的不是金钱游戏，而是文明进化** 
-**您见证的不是技术创新，而是人类智慧的结晶** 
-
-在蚂蚁家园，您将学会什么是真正的去中心化，什么是真正的公平，什么是真正的永恒。这些体验将成为您人生中最宝贵的财富。
-
-### 永恒的承诺
-
-![永恒契约宣言](/images/epilogue/epilogue-covenant.png)
-
-最后，我想以蚂蚁家园创世团队的名义，向每一只数字蚂蚁做出永恒的承诺：
-
-**我们承诺，这里的规则如星辰般永恒不变** 
-**我们承诺，这里的机会对每只蚂蚁都是平等的** 
-**我们承诺，这里的奖励基于真实的价值创造** 
-**我们承诺，这里的未来属于每一个参与者** 
-
-这些承诺不是写在纸上的文字，而是写在区块链上的代码。它们不需要信任，只需要验证；不需要守护，只需要执行。
+Amin opens his computer and begins to write his insights:
 
 ---
 
-## 新的开始
+## A Letter to Future Ants
 
-亲爱的朋友，当您合上这份白皮书的最后一页时，请不要认为这是结束。相反，这是一个新的开始——您与蚂蚁家园缘分的开始，您人生新篇章的开始，您参与构建理想世界的开始。
+**Dear Digital Ant Friends:**
 
-蚂蚁家园的大门已经为您打开，永恒的契约正等待您的签署。
+When you read these words, what unfolds before you is not merely an introduction to an investment project, but an eternal contract that transcends time and space—a sacred agreement written in mathematics, forged in code, that no one can tamper with.
 
-在这个数字时代的新大陆上，让我们携手同行，用勤劳创造财富，用团结建设家园，用智慧拥抱未来。
+I am Amin, an ordinary ant who has lived in the Ant Colony for three years. Three years ago, I was like you, full of curiosity and doubt about this new world. Today, I want to share the true face of this ecosystem from the perspective of a firsthand experiencer.
 
-让我们一起，成为这个伟大时代的见证者，成为区块链文明的建设者，成为永恒契约的守护者。
+### Here, There is No Centralized Authority
 
-欢迎您，来到蚂蚁家园。 
-欢迎您，成为数字世界的开拓者。 
-欢迎您，签署这份永恒的契约。
+In the traditional world I once lived in, the makers of rules were often the modifiers of rules. When their interests conflicted with ours, rules would quietly change. But in the Ant Colony, this will never happen.
+
+Every rule here is written in immutable smart contracts, like ancient laws carved in stone tablets. No one—including the system's creators—can modify these rules. This is not a technical limitation, but the most solemn promise to you.
+
+**0.5%, 5%, 15% return rates** — Eternally unchanging  
+**1-day, 7-day, 15-day cycles** — Eternally unchanging  
+**36-member legion seats** — Eternally unchanging  
+**Perfect reward mechanism** — Eternally unchanging  
+**Pioneer and Construction reward distribution** — Eternally unchanging  
+
+These numbers will not adjust due to market fluctuations, will not change due to managers' moods, and will not compromise due to any external pressure. They are as precise as mathematical theorems, as constant as physical laws.
+
+### Here, Every Ant is an Equal Builder
+
+In the Ant Colony, there are no privileges, no backdoors, no inside information. Every ant stands at the same starting line, with the same opportunities and rights.
+
+Your returns do not depend on who you know or what your background is, but only on how much you contribute. The system calculates each person's rewards with the fairest algorithms and distributes every share of income in the most transparent way.
+
+**Newbie Ant (Ao)** — Starting from 50 USDT, everyone can participate  
+**Builder Ant (Am)** — Stable returns, controllable risks  
+**Elite Ant (AS)** — Rich returns, greater responsibilities  
+**Legion Members** — Highest honor, based on real contributions  
+
+Every level is open and transparent, every upgrade is proof of capability. Here, your value is determined by your actions, your status by your contributions.
+
+### Here, There is the Wisest Risk Management
+
+I know you will worry about risks, which is completely understandable. In this uncertain world, who can guarantee eternal safety?
+
+But the Ant Colony answers this question in the wisest way: **The Colony Migration Mechanism**.
+
+When the system faces insurmountable difficulties, it will not collapse to zero like other projects, leaving participants with total losses. Instead, it will activate the migration mechanism, ensuring:
+
+- The last persisting warriors receive pioneer rewards
+- 90% of funds are used for new cycle development
+- All relationship networks are completely preserved
+- Everyone's efforts have value inheritance
+
+This is not failure, but rebirth. This is not an end, but a new beginning. Like the migration of migratory birds, this is the wisdom of life, the best way to adapt to environmental changes.
+
+### Here, Technology is Not a Cold Tool, but a Warm Promise
+
+As a participant with a technical background, I have thoroughly studied every line of code in the Ant Colony. I was shocked.
+
+This is not just programming, but art; not just logic, but philosophy; not just functionality, but deep care for every ant.
+
+Every function is carefully designed, every parameter has profound meaning, every exception handling reflects protection for users. The creators demanded the highest standards from themselves and realized promises with the most perfect code.
+
+This pursuit of perfection reminds me of ancient craftsmanship. They knew their work would be passed down for millennia, so they dared not be careless in the slightest.
+
+### Here, Contains Profound Life Wisdom
+
+Over three years, the Ant Colony has taught me much:
+
+**Diligence** — Only through effort can one gain rewards  
+**Unity** — Individual success is built on collective prosperity  
+**Wisdom** — Learn to grasp unchanging patterns in change  
+**Patience** — Good results need time to accumulate  
+**Courage** — Dare to try when facing the unknown  
+
+These qualities are useful not only in the Ant Colony but are precious wealth at any stage of life.
+
+### Here, is a Truly Decentralized World
+
+Perhaps you will ask: Does such a system really exist? In this world full of deception and betrayal, is there really such a pure place?
+
+I tell you with my three years of personal experience: Yes, it exists.
+
+The Ant Colony is not utopia; it is a prototype of an ideal society realized through modern technology. Here, trust is not based on emotion but on mathematics; fairness is not based on promises but on code; eternity is not based on belief but on immutability.
+
+This is the most precious gift blockchain technology brings to humanity—the ability to turn ideals into reality.
+
+### To Every Digital Ant About to Join
+
+If you have read this far, it means you have felt the charm of this ecosystem. But I want to remind you that joining the Ant Colony means:
+
+**You are joining not an investment project, but a value concept**  
+**You are gaining not short-term profits, but long-term growth**  
+**You are participating not in a money game, but in civilizational evolution**  
+**You are witnessing not technological innovation, but the crystallization of human wisdom**  
+
+In the Ant Colony, you will learn what true decentralization is, what true fairness is, what true eternity is. These experiences will become the most precious wealth in your life.
+
+### Eternal Promise
+
+![Eternal Covenant Declaration](/images/epilogue/epilogue-covenant.png)
+
+Finally, I want to make an eternal promise to every digital ant in the name of the Ant Colony Genesis Team:
+
+**We promise that the rules here are as eternally unchanging as the stars**  
+**We promise that opportunities here are equal for every ant**  
+**We promise that rewards here are based on real value creation**  
+**We promise that the future here belongs to every participant**  
+
+These promises are not words written on paper, but code written on the blockchain. They need not trust, only verification; need not guardianship, only execution.
 
 ---
 
-**此致敬礼**
+## A New Beginning
 
-**蚂蚁家园创世团队** 
-**代表每一只数字蚂蚁** 
-**写于区块链永恒之上** 
-**传于千秋万代之间**
+Dear friend, when you close the last page of this whitepaper, please do not think this is the end. On the contrary, this is a new beginning—the beginning of your destiny with the Ant Colony, the beginning of a new chapter in your life, the beginning of your participation in building an ideal world.
+
+The gates of the Ant Colony have opened for you, the eternal contract awaits your signature.
+
+On this new continent of the digital age, let us journey together, creating wealth through diligence, building our homeland through unity, embracing the future through wisdom.
+
+Let us together become witnesses of this great era, builders of blockchain civilization, guardians of the eternal contract.
+
+Welcome to the Ant Colony.  
+Welcome to becoming a pioneer of the digital world.  
+Welcome to signing this eternal contract.
 
 ---
 
-*"在数字的星空下，我们用代码铸就永恒的承诺。 
-在虚拟的世界里，我们用智慧建造真实的家园。 
-这不是结束，这是永恒的开始。"*
+**With Respect**
 
-**蚂蚁家园 —— 您的数字时代理想家园**
+**Ant Colony Genesis Team**  
+**Representing Every Digital Ant**  
+**Written upon the Blockchain's Eternity**  
+**Passed Down Through Millennia**
+
+---
+
+*"Under the digital starry sky, we forge eternal promises with code.  
+In the virtual world, we build a real homeland with wisdom.  
+This is not the end, this is the eternal beginning."*
+
+**Ant Colony — Your Ideal Homeland in the Digital Age**

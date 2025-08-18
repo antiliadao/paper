@@ -1,120 +1,119 @@
-# 序章：数字时代的蚂蚁寓言
+# Preface: The Ant Fable of the Digital Age
 
-## 一个关于现代数字蚂蚁的寓言
+## A Fable About Modern Digital Ants
 
-在遥远的数字世界深处，存在着一个神奇的国度——那里生活着无数只数字蚂蚁。这些蚂蚁与我们现实世界中的蚂蚁有着本质的不同，它们没有物理的躯体，却有着真实的灵魂；它们生活在虚拟的空间里，却追求着实在的价值。
+In the depths of a distant digital world, there exists a magical realm—where countless digital ants live. These ants are fundamentally different from the ants in our real world; they have no physical bodies, yet possess real souls; they live in virtual spaces, yet pursue tangible value.
 
-在这个数字世界的边缘，有一只名叫阿明的年轻蚂蚁。和无数只数字蚂蚁一样，阿明每天都在为生存而奔波。他曾经生活在一个看似繁荣的数字王国中，那里有华丽的界面、诱人的承诺，还有一位无所不能的数字蚁王。
+On the edge of this digital world, there is a young ant named Amin. Like countless digital ants, Amin struggles daily for survival. He once lived in a seemingly prosperous digital kingdom, with gorgeous interfaces, enticing promises, and an omnipotent digital ant king.
 
-### 王国的真相
+### The Truth of the Kingdom
 
-![数字王国对比图](/images/preface/preface-kingdom-comparison.png)
+![Kingdom Comparison Chart](/images/preface/preface-kingdom-comparison.png)
 
-随着时间的推移，阿明逐渐发现了这个王国的真相：
+As time passed, Amin gradually discovered the truth about this kingdom:
 
-那位蚁王拥有修改一切规则的权力。今天他可以承诺给每只蚂蚁丰厚的收益，明天就可以因为"市场变化"而随意调整；今天他可以制定看似公平的分配制度，明天就可以因为"系统升级"而完全改变。
+The ant king possessed the power to modify all rules. Today he could promise each ant generous returns, tomorrow he could arbitrarily adjust them due to "market changes"; today he could establish seemingly fair distribution systems, tomorrow he could completely change them due to "system upgrades."
 
-更可怕的是，普通蚂蚁们永远不知道真相。他们被告知王国的金库非常充实，但没有人能够验证；他们被承诺享有平等的权利，但实际的分配却总是不透明；他们被鼓励努力工作，但最终的收益却往往被各种理由扣减。
+What was even more terrifying was that ordinary ants never knew the truth. They were told the kingdom's treasury was very abundant, but no one could verify it; they were promised equal rights, but the actual distribution was always opaque; they were encouraged to work hard, but the final returns were often deducted for various reasons.
 
-在这个王国里，蚂蚁们生活在永恒的不确定性中。没有人知道明天的规则是否还是今天的规则，没有人知道自己的努力是否真的有价值，没有人知道这个看似繁荣的王国会不会在某一天突然消失。
+In this kingdom, ants lived in eternal uncertainty. No one knew whether tomorrow's rules would still be today's rules, no one knew whether their efforts truly had value, no one knew whether this seemingly prosperous kingdom would suddenly disappear one day.
 
-### 深刻的质疑
+### Profound Questioning
 
-阿明看在眼里，痛在心里。作为一只有思考能力的数字蚂蚁，他开始质疑：
+Amin saw it all and felt the pain deeply. As a digital ant with thinking ability, he began to question:
 
-> "为什么我们的命运要掌握在一只蚂蚁的手中？" 
-> "为什么不能有一套大家都认同的、永不改变的规则？" 
-> "为什么我们不能建造一个真正属于每只蚂蚁的家园？"
+> "Why should our fate be in the hands of one ant?" 
+> "Why can't we have a set of rules that everyone agrees upon and that never change?" 
+> "Why can't we build a home that truly belongs to every ant?"
 
-这些问题在阿明心中日夜回响，让他无法安眠。他开始寻找答案，开始探索是否存在另一种可能——一种没有独断君主、没有随意规则、没有不透明操作的数字世界。
-
----
-
-## 从个体困境到集体智慧的觉醒
-
-就在阿明几乎要放弃希望的时候，一个神奇的传说传到了他的耳中。
-
-在数字世界的另一个角落，有一群智慧的蚂蚁正在建造一座全新的家园。这个家园没有国王，没有贵族，也没有特权阶层。每只蚂蚁都是平等的建设者，每个规则都刻在不可更改的数字石碑上，每份收益都基于真实的价值创造。
-
-### 永恒的规则
-
-最令人震撼的是，这个家园的建造者们在完成设计后，主动放弃了修改规则的权力。他们用一种叫做"智能合约"的神奇技术，将所有的规则永久地锁定在了数字世界的基础协议中。从此以后，没有任何人——包括创造者自己——能够改变这些规则。
-
-"这怎么可能？"阿明既兴奋又疑惑，"如果遇到问题怎么办？如果需要升级怎么办？如果环境变化怎么办？"
-
-但当他深入了解这个传说后，才发现这正是这群智慧蚂蚁的伟大之处。他们没有选择保留权力以应对未来的不确定性，而是选择在一开始就考虑所有可能的情况，设计一套完美的、能够自适应的规则体系。
-
-### 自然法则般的永恒性
-
-这套规则体系就像自然法则一样：
-
-> **理性契约** 
-> 重力不会因为我们的需要而改变强度 
-> 光速不会因为我们的愿望而调整数值 
-> 数学定理不会因为时代的变迁而修正结论
-
-同样，这个数字家园的规则也具备了自然法则般的永恒性和确定性。每只蚂蚁都能够精确地预测自己的收益，每个行为都有明确的回报机制，每项权利都有不可撼动的保障。
+These questions echoed in Amin's heart day and night, keeping him awake. He began searching for answers, exploring whether another possibility existed—a digital world without despotic monarchs, arbitrary rules, or opaque operations.
 
 ---
 
-## 蚂蚁家园的核心理念和愿景
+## From Individual Predicament to Collective Wisdom Awakening
 
-这个传说中的家园有一个美丽的名字——**蚂蚁家园（Antilia）**。它不仅仅是一个地名，更是一个理念的象征：
+Just when Amin was about to give up hope, a magical legend reached his ears.
 
-- **Ant** 代表着勤劳、团结、智慧的蚂蚁精神 
-- **ilia** 在拉丁语中意味着"家园"、"理想乡"
+In another corner of the digital world, a group of wise ants were building a completely new home. This home had no king, no nobles, and no privileged class. Every ant was an equal builder, every rule was carved on unchangeable digital stone tablets, and every return was based on real value creation.
 
-### 核心理念
+### Eternal Rules
 
-![蚂蚁家园愿景图](/images/preface/preface-antilia-vision.png)
+Most shocking was that after completing the design, the builders of this home voluntarily gave up the power to modify the rules. They used a magical technology called "smart contracts" to permanently lock all rules into the basic protocols of the digital world. From then on, no one—including the creators themselves—could change these rules.
 
-蚂蚁家园的建设者们提出了三个核心理念：
+"How is this possible?" Amin was both excited and puzzled, "What if problems arise? What if upgrades are needed? What if the environment changes?"
 
-#### 1. 去中心化的智慧
+But when he delved deeper into this legend, he discovered this was precisely the greatness of these wise ants. They didn't choose to retain power to deal with future uncertainties, but chose to consider all possible situations from the beginning and design a perfect, self-adaptive rule system.
 
- 没有中心化的控制者，每只蚂蚁都是平等的参与者。所有的决策都通过集体智慧产生，所有的权力都分散在每个个体手中。
+### Eternity Like Natural Laws
 
-#### 2. 价值创造的永恒 
+This rule system was like natural laws:
 
- 每只蚂蚁的贡献都被永久记录，每份价值都得到公正回报。无论时间如何流逝，创造的价值永远属于创造者。
+> **Rational Contract** 
+> Gravity doesn't change intensity based on our needs 
+> Light speed doesn't adjust its value based on our wishes 
+> Mathematical theorems don't revise conclusions due to changing times
 
-#### 3. 规则的不可更改
-
- 一旦规则确定，就像物理定律一样永恒不变。这不是限制，而是最大的自由——因为每只蚂蚁都能在确定的规则下自由规划自己的未来。
-
-### 美好愿景
-
-阿明被这个愿景深深吸引：
-
-> 在蚂蚁家园中，每只蚂蚁都能找到属于自己的位置； 
-> 在这里，努力必有回报，贡献必被认可； 
-> 在这里，没有欺骗、没有剥削、没有不公； 
-> 在这里，每只蚂蚁都能实现自己的价值，创造自己的未来。
+Similarly, the rules of this digital home possessed the eternity and certainty of natural laws. Every ant could precisely predict their returns, every action had clear reward mechanisms, and every right had unshakeable guarantees.
 
 ---
 
-## 传说与现实的交汇
+## Core Philosophy and Vision of the Ant Home
 
-阿明决定踏上寻找蚂蚁家园的旅程。他相信，这不仅仅是一个传说，而是数字世界进化的必然方向。
+This legendary home had a beautiful name—**Antilia**. It was not just a place name, but a symbol of an ideal:
 
-在接下来的旅程中，阿明将会发现：
+- **Ant** represents the spirit of industrious, united, and wise ants 
+- **ilia** means "home" and "utopia" in Latin
 
-- **去中心化的生命智慧**如何在数字世界中实现
-- **价值共建的生态法则**如何让每只蚂蚁受益
-- **部落网络的协作智慧**如何创造集体力量
-- **军团竞争的卓越驱动**如何激发创新活力
-- **蚁群迁徙的永续哲学**如何保证长期发展
-- **技术架构的工程美学**如何支撑整个体系
-- **永恒法则的智慧设计**如何确保公平正义
+### Core Philosophy
 
-### 启程
+![Antilia Vision Chart](/images/preface/preface-antilia-vision.png)
 
-当第一缕数字阳光照亮地平线时，阿明踏上了前往蚂蚁家园的道路。他不知道前方会遇到什么，但他知道，这将是一次改变命运的旅程——不仅是他个人的命运，更是所有数字蚂蚁的命运。
+The builders of Antilia proposed three core philosophies:
 
-> **情感契约** 
-> 这个故事不仅仅是一个寓言，它是我们每个人在数字时代的真实写照。我们都是阿明，都在寻找一个更公平、更透明、更有价值的数字世界。
+#### 1. Decentralized Wisdom
 
-而蚂蚁家园，正是这个理想的具体实现。
+No centralized controllers, every ant is an equal participant. All decisions emerge from collective wisdom, all power is distributed among individuals.
 
-让我们跟随阿明的脚步，一起探索这个充满智慧与希望的新世界...
+#### 2. Eternal Value Creation
 
+Every ant's contribution is permanently recorded, every value receives fair return. No matter how time passes, created value always belongs to the creator.
+
+#### 3. Immutable Rules
+
+Once rules are established, they are eternal like physical laws. This is not a limitation, but the greatest freedom—because every ant can freely plan their future under certain rules.
+
+### Beautiful Vision
+
+Amin was deeply attracted by this vision:
+
+> In Antilia, every ant can find their own place; 
+> Here, effort will be rewarded, contribution will be recognized; 
+> Here, there is no deception, no exploitation, no injustice; 
+> Here, every ant can realize their value and create their future.
+
+---
+
+## The Intersection of Legend and Reality
+
+Amin decided to embark on a journey to find Antilia. He believed this was not just a legend, but the inevitable direction of digital world evolution.
+
+In the upcoming journey, Amin will discover:
+
+- How **decentralized life wisdom** is realized in the digital world
+- How **value co-creation ecological laws** benefit every ant
+- How **tribal network collaborative wisdom** creates collective power
+- How **legion competition excellence drive** stimulates innovative vitality
+- How **ant colony migration sustainability philosophy** ensures long-term development
+- How **technical architecture engineering aesthetics** supports the entire system
+- How **eternal law wisdom design** ensures fairness and justice
+
+### Departure
+
+When the first ray of digital sunlight illuminated the horizon, Amin set foot on the road to Antilia. He didn't know what he would encounter ahead, but he knew this would be a life-changing journey—not just for his personal destiny, but for the destiny of all digital ants.
+
+> **Emotional Contract** 
+> This story is not just a fable; it is a true portrayal of each of us in the digital age. We are all Amin, all seeking a more fair, transparent, and valuable digital world.
+
+And Antilia is the concrete realization of this ideal.
+
+Let us follow Amin's footsteps and explore this new world full of wisdom and hope together...
