@@ -117,10 +117,3 @@ When the first ray of digital sunlight illuminated the horizon, Amin set foot on
 And Antilia is the concrete realization of this ideal.
 
 Let us follow Amin's footsteps and explore this new world full of wisdom and hope together...
-
-> **情感契约** 
-> 这个故事不仅仅是一个寓言，它是我们每个人在数字时代的真实写照。我们都是阿明，都在寻找一个更公平、更透明、更有价值的数字世界。
-
-而蚂蚁家园，正是这个理想的具体实现。
-
-让我们跟随阿明的脚步，一起探索这个充满智慧与希望的新世界...
