@@ -345,13 +345,13 @@ Trong chu kỳ mới, 90% giá trị kế thừa sẽ được phân phối qua 
 
 **Ví dụ Chu kỳ Đồng xây dựng cấp AS**:
 ```
-Thời gian tạo: Day1 10:00 (ví dụ)
-Giai đoạn T+0: Day1 10:00-23:59 (ngày tạo, không phát sinh lợi nhuận)
-Bắt đầu T+1: Day2 00:00 (ngày thứ hai bắt đầu phát sinh lợi nhuận)
+Thời gian tạo: Day0 10:00 (ví dụ)
+Giai đoạn T+0: Day0 10:00-23:59 (ngày tạo, không phát sinh lợi nhuận)
+Bắt đầu T+1: Day1 00:00 (ngày thứ hai bắt đầu phát sinh lợi nhuận)
 Hết hạn đơn hàng: Day16 00:00 (sau T+15 ngày)
 
-Giai đoạn lợi nhuận: Day2 00:00 đến Day15 23:59
-Số ngày lợi nhuận: 14 ngày
+Giai đoạn lợi nhuận: Day1 00:00 đến Day15 23:59
+Số ngày lợi nhuận: 15 ngày
 ```
 
 ### Giải thích Quan trọng
