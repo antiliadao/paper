@@ -346,12 +346,12 @@ In the new cycle, 90% of inherited value will be distributed through 4 selection
 **AS Level Co-building Cycle Example**:
 ```
 Creation time: Day1 10:00 (example)
-T+0 period: Day1 10:00-23:59 (creation day, no revenue generated)
-T+1 start: Day2 00:00 (second day starts generating revenue)
+T+0 period: Day0 10:00-23:59 (creation day, no revenue generated)
+T+1 start: Day1 00:00 (second day starts generating revenue)
 Order expiry: Day16 00:00 (after T+15 days)
 
-Revenue period: Day2 00:00 to Day15 23:59
-Revenue days: 14 days
+Revenue period: Day1 00:00 to Day15 23:59
+Revenue days: 15 days
 ```
 
 ### Important Notes
