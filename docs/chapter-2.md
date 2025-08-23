@@ -131,7 +131,7 @@ We can verify the sustainability of Ant Home's incentive mechanism with a simple
 **Balance Point Analysis**:
 When X ≥ Y and reward pool funds ≥ Z, the system is in a healthy balance state.
 
-Through historical data simulation, this balance point can be completely maintained under reasonable participation growth rates (5-10% monthly growth).
+Through historical data simulation, this balance point can be completely maintained under reasonable participation growth rates.
 
 **Risk Critical Point**:
 Only when new orders are continuously lower than expiring orders, and reserve funds are insufficient to pay expiring orders, will the colony migration mechanism be triggered. The probability of this under normal operations is extremely low (<2%).
