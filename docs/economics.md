@@ -142,7 +142,7 @@ Ant Home is a decentralized ecological co-building network based on BSC chain, i
 | Level | Identity | Value Input | Co-building Cycle | Value Return | Amplification Rate | Preset Daily Return | Unlocked Permissions |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Ao** | Rookie Ant | 50 USDT | T+1 day | 50.25 USDT | 0.5% | 0.25 USDT | No tribe contribution reward |
-| **Am** | Builder Ant | 500 USDT | T+7 days | 525 USDT | 5% | 7.14 USDT | Big tribe 30%+Small tribe 3% |
+| **Am** | Builder Ant | 500 USDT | T+7 days | 525 USDT | 5% | 3.57 USDT | Big tribe 30%+Small tribe 3% |
 | **AS** | Elite Ant | 2000 USDT | T+15 days | 2300 USDT | 15% | 20 USDT | Big tribe 30%+Small tribe 6% |
 
 ### Identity Conversion Rules

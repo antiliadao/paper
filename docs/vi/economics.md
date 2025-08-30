@@ -142,7 +142,7 @@ Nhà Kiến là mạng đồng xây dựng sinh thái phi tập trung dựa trê
 | Cấp độ | Danh tính | Đầu tư Giá trị | Chu kỳ Đồng xây dựng | Hoàn trả Giá trị | Tỷ lệ Phóng đại | Lợi nhuận Ngày Thiết lập sẵn | Quyền Mở khóa |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Ao** | Kiến Tân thủ | 50 USDT | T+1 ngày | 50.25 USDT | 0.5% | 0.25 USDT | Không có thưởng đóng góp bộ tộc |
-| **Am** | Kiến Xây dựng | 500 USDT | T+7 ngày | 525 USDT | 5% | 7.14 USDT | Đại bộ tộc 30%+Tiểu bộ tộc 3% |
+| **Am** | Kiến Xây dựng | 500 USDT | T+7 ngày | 525 USDT | 5% | 3.57 USDT | Đại bộ tộc 30%+Tiểu bộ tộc 3% |
 | **AS** | Kiến Tinh anh | 2000 USDT | T+15 ngày | 2300 USDT | 15% | 20 USDT | Đại bộ tộc 30%+Tiểu bộ tộc 6% |
 
 ### Quy tắc Chuyển đổi Danh tính

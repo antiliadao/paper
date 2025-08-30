@@ -247,7 +247,7 @@ class RewardCalculator {
  'AS5': { large: 0.30, small: 0.18 },
  'AS6': { large: 0.30, small: 0.20 }
  };
- this.dailyRewards = { 'Ao': 0.5, 'Am': 7.14, 'AS': 20 };
+ this.dailyRewards = { 'Ao': 0.5, 'Am': 3.57, 'AS': 20 };
  }
  
  // 매일 23:00 실행의 보상 계산
