@@ -32,7 +32,9 @@ Thứ nhất, hệ thống không sụp đổ. Khi di cư được kích hoạt,
 
 Thứ hai, 36 tinh hoa AS cuối cùng sẽ nhận được phần thưởng tiên phong, đây là sự công nhận dũng khí của họ.
 
-Cuối cùng, 90% tiền sẽ được dùng làm giải thưởng xây dựng tổ mới, được phát trong 4 đợt cho những người xây dựng xuất sắc của chu kỳ mới.
+Thứ ba, 70% tiền sẽ được dùng để bồi thường tổn thất cho những người dùng bị thua lỗ trong chu kỳ này.
+
+Cuối cùng, 20% tiền sẽ được dùng làm quỹ xây dựng tổ mới, được phát trong 4 đợt cho 36 thành viên quân đoàn của chu kỳ mới.
 
 Mối quan hệ bộ tộc của chúng ta không bao giờ thay đổi, ID người dùng của chúng ta được giữ lại vĩnh viễn, và kinh nghiệm và trí tuệ của chúng ta là kho báu vô giá.
 
@@ -195,7 +197,9 @@ Phân bố rủi ro của mô hình khởi động lại truyền thống:
 
 Phân bố rủi ro của mô hình di cư Kiến Gia:
 
-- 60% rủi ro chuyển thành lợi ích tương lai (90% giải thưởng xây dựng)
+- 70% rủi ro được bồi thường qua bồi thường tổn thất
+
+- 20% rủi ro chuyển thành lợi ích tương lai (quỹ xây dựng)
 
 - 30% rủi ro do hệ thống gánh chịu (dư thừa quỹ dự trữ)
 
@@ -281,7 +285,8 @@ contract MigrationDetector {
  // Tính toán phân bổ thưởng di cư
  uint256 remainingFunds = health.reserveBalance;
  uint256 pioneerReward = remainingFunds * 10 / 100; // 10% giải thưởng tiên phong
- uint256 buildingReward = remainingFunds * 90 / 100; // 90% giải thưởng xây dựng
+ uint256 lossCompensation = remainingFunds * 70 / 100; // 70% bồi thường tổn thất
+ uint256 buildingReward = remainingFunds * 20 / 100; // 20% quỹ xây dựng tổ mới
  
  // Ghi lại sự kiện di cư
  emit MigrationTriggered(

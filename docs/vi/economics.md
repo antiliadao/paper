@@ -288,8 +288,9 @@ Ví dụ Tính toán:
 
 | Mục Phân phối | Tỷ lệ Phân phối | Đối tượng Thụ hưởng | Cách thức Phát hành |
 |----------|----------|----------|----------|
-| **Thưởng Tiên phong Di cư** | 10% | 36 người tham gia danh tính AS cuối cùng | Phân chia đều, phát hành ngay |
-| **Thưởng Xây dựng Tổ mới** | 90% | 36 người đứng đầu xếp hạng quân đoàn chu kỳ mới | Phát hành tuyển chọn 4 đợt |
+| **Phần thưởng tiên phong** | 10% | 36 người tham gia danh tính AS cuối cùng | Phân chia đều, phát hành ngay |
+| **Bồi thường tổn thất** | 70% | Người dùng bị thua lỗ trong chu kỳ này | Phân bổ theo tỷ lệ tổn thất |
+| **Quỹ xây dựng tổ mới** | 20% | 36 thành viên quân đoàn chu kỳ mới | Phát hành tuyển chọn 4 đợt |
 
 #### Giai đoạn 3: Khởi động Chu kỳ Mới
 - Hệ thống reset, mở chu kỳ đồng xây dựng mới
@@ -298,14 +299,14 @@ Ví dụ Tính toán:
 
 ### Kế hoạch Xây dựng Tổ mới
 
-Trong chu kỳ mới, 90% giá trị kế thừa sẽ được phân phối qua 4 lần tuyển chọn:
+Trong chu kỳ mới, 20% quỹ xây dựng tổ mới sẽ được phân phối qua 4 lần tuyển chọn:
 
 | Giai đoạn Tuyển chọn | Thời gian Tuyển chọn | Tỷ lệ Phân phối | Căn cứ Phân phối | Tiêu chuẩn Tuyển chọn |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Giai đoạn 1** | Tuần thứ 4 | 10% tổng quỹ | Xếp hạng quân đoàn tuần thứ 4 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
-| **Giai đoạn 2** | Tuần thứ 8 | 20% tổng quỹ | Xếp hạng quân đoàn tuần thứ 8 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
-| **Giai đoạn 3** | Tuần thứ 12 | 30% tổng quỹ | Xếp hạng quân đoàn tuần thứ 12 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
-| **Giai đoạn 4** | Tuần thứ 16 | 40% tổng quỹ | Xếp hạng quân đoàn tuần thứ 16 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
+| **Giai đoạn 1** | Tuần thứ 4 | 10% quỹ xây dựng | Xếp hạng quân đoàn tuần thứ 4 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
+| **Giai đoạn 2** | Tuần thứ 8 | 20% quỹ xây dựng | Xếp hạng quân đoàn tuần thứ 8 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
+| **Giai đoạn 3** | Tuần thứ 12 | 30% quỹ xây dựng | Xếp hạng quân đoàn tuần thứ 12 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
+| **Giai đoạn 4** | Tuần thứ 16 | 40% quỹ xây dựng | Xếp hạng quân đoàn tuần thứ 16 | 36 người đóng góp giá trị tiểu bộ tộc hàng đầu tuần đó |
 
 **Giải thích Quan trọng**: Mỗi lần tuyển chọn tiến hành độc lập, dựa trên đóng góp giá trị thời gian thực tuần đó, không phải đóng góp tích lũy
 

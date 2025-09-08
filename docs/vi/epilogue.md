@@ -58,8 +58,9 @@ Nhưng Vương quốc Kiến đã trả lời câu hỏi này bằng cách khôn
 Khi hệ thống đối mặt với khó khăn không thể vượt qua, nó sẽ không sụp đổ về zero như các dự án khác, khiến người tham gia mất trắng. Thay vào đó, nó sẽ kích hoạt cơ chế di cư, đảm bảo:
 
 - Những chiến binh kiên trì đến cuối nhận được phần thưởng tiên phong
-- 90% tiền được sử dụng cho phát triển chu kỳ mới
-- Tất cả mạng lưới quan hệ được bảo toàn hoàn toàn
+- 70% tiền được dùng để bồi thường tổn thất cho người dùng bị thua lỗ
+- 20% tiền được sử dụng cho phát triển chu kỳ mới
+- Tất cả mạng lười quan hệ được bảo toàn hoàn toàn
 - Nỗ lực của mọi người đều có giá trị kế thừa
 
 Đây không phải là thất bại mà là tái sinh. Đây không phải là kết thúc mà là khởi đầu mới. Giống như sự di cư của chim di trú, đây là trí tuệ của sự sống, là cách tốt nhất để thích nghi với thay đổi môi trường.

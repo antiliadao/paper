@@ -289,16 +289,17 @@ Example Calculation:
 | Distribution Item | Distribution Ratio | Beneficiaries | Distribution Method |
 |----------|----------|----------|----------|
 | **Migration Pioneer Award** | 10% | Last 36 AS identity participants | Equal distribution, immediate issuance |
-| **New Nest Construction Award** | 90% | Top 36 in new cycle legion ranking | Distributed in 4 phases of selection |
+| **Loss Compensation** | 70% | Users with losses in this cycle | Distributed by loss ratio, immediate issuance |
+| **New Nest Construction Fund** | 20% | Top 36 in new cycle legion ranking | Awarded to 36 legion members in new cycle |
 
 #### Phase 3: New Cycle Launch
 - System reset, opening new co-building cycle
 - All participants can restart value co-building
 - Tribe relationships and user IDs completely preserved
 
-### New Nest Construction Plan
+### New Nest Construction Fund Distribution
 
-In the new cycle, 90% of inherited value will be distributed through 4 selections:
+In the new cycle, 20% of construction fund will be distributed to 36 legion members through 4 selections:
 
 | Selection Phase | Selection Time | Distribution Ratio | Distribution Basis | Selection Criteria |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -307,7 +308,7 @@ In the new cycle, 90% of inherited value will be distributed through 4 selection
 | **Phase 3** | Week 12 | 30% of total fund | Week 12 legion ranking | Top 36 small tribe value contributors that week |
 | **Phase 4** | Week 16 | 40% of total fund | Week 16 legion ranking | Top 36 small tribe value contributors that week |
 
-**Important Note**: Each selection conducted independently, based on that week's real-time value contribution, not cumulative contribution
+**Important Note**: Each selection conducted independently, based on that week's real-time value contribution, awarded to 36 legion members who contribute in the new cycle
 
 ### Post-Migration System Processing
 

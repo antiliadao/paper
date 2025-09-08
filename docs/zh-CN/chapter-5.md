@@ -10,7 +10,12 @@
 
 那是一个普通的周三早晨，阿明像往常一样查看自己的收益统计，突然发现一条特殊的系统通知：
 
-"系统检测到家园储备库资金不足以支付今日到期订单。根据永恒契约第7条，蚁群迁徙机制将自动启动。迁徙完成倒计时：3天。"
+"系统检测到家园储备库资金不足以支付今日到期订单。根据永恒契约第7条，蚁群迁徙机制将自动启动。迁徙完成倒计时：3天。
+
+迁徙资金分配方案：
+• 10% 分配给最后36位AS订单用户（先锋奖）
+• 70% 补偿给本周期亏损订单用户
+• 20% 进入新巢建设基金"
 
 阿明的心一下子紧了起来。迁徙！这个词他在白皮书中见过，但从未想过真的会经历。这意味着什么？意味着现有的一切都将重新开始吗？
 
@@ -30,9 +35,11 @@
 
 首先，系统并没有崩盘。迁徙触发时，储备库中仍有大量资金，这些资金将被公平分配。
 
-其次，最后36位AS精英将获得先锋奖，这是对他们勇气的认可。
+其次，最后36位AS精英将获得先锋奖（10%），这是对他们勇气的认可。
 
-最后，90%的资金将作为新巢建设奖，分4期发放给新周期的优秀建设者。
+更重要的是，70%的资金将用于补偿本周期未能获利的用户，让每个参与者都能获得保护。
+
+最后，20%的资金将作为新巢建设基金，奖励给新周期做出贡献的36军团成员。
 
 我们的部落关系永远不变，我们的用户ID永远保留，我们的经验和智慧更是无价之宝。
 
@@ -42,11 +49,17 @@
 
 在传统的商业世界里，当危机来临时，往往是强者逃跑、弱者承担损失。但在蚂蚁家园，危机成为了新机遇的开始。那些最后仍然坚持参与的AS精英，获得了丰厚的先锋奖；而所有参与者的关系网络都得到了完整保留，为新周期的发展奠定了坚实基础。
 
-更让阿明感动的是迁徙期间蚂蚁们的表现。没有人指责，没有人抱怨，大家都在积极准备新周期的到来。许多老蚂蚁主动分享经验，帮助新蚂蚁理解迁徙机制；部落领袖们开始规划新周期的发展策略；甚至连那些之前持观望态度的潜在参与者，也开始关注这个即将重生的生态。
+更让阿明感动的是迁徙期间蚂蚁们的表现。没有人指责，没有人抱怨，大家都在积极准备新周期的到来。
+
+那些在本周期亏损的用户，看到了系统对他们的保护——70%的补偿资金让他们的损失得到了大幅缓解。这种"不让任何蚂蚁掉队"的理念，让整个社区更加团结。
+
+许多老蚂蚁主动分享经验，帮助新蚂蚁理解迁徙机制；部落领袖们开始规划新周期的发展策略；甚至连那些之前持观望态度的潜在参与者，也被这种保护机制所吸引，开始关注这个即将重生的生态。
 
 三天的锁定期很快过去了。当新周期开启的那一刻，阿明见证了一个奇迹：
 
-新巢建设奖的巨大吸引力，让众多优秀的建设者涌入。这些人中既有老用户，也有被蚂蚁家园的"凤凰涅槃"故事吸引的新用户。他们带来了新的资金、新的想法、新的活力。
+新巢建设基金的20%将奖励给新周期的36军团成员，这吸引了众多优秀的建设者为进入军团而努力。更重要的是，那些获得70%补偿的用户，因为损失得到了保护，很多选择继续参与新周期，成为了新生态的中坚力量。
+
+这些人中既有获得补偿后重燃信心的老用户，也有被蚂蚁家园"保护每个参与者"理念吸引的新用户。他们带来了新的资金、新的想法、新的活力。
 
 更重要的是，由于部落关系网络的完整保留，新周期的发展速度远超第一周期。那些经验丰富的老蚂蚁，迅速建立起了新的庞大网络；那些新加入的蚂蚁，在老蚂蚁的指导下，避免了很多弯路。
 
@@ -99,7 +112,7 @@
 
 - 系统韧性：部落关系保留，经验传承不断
 
-- 自我修复能力：90%资金用于新周期发展
+- 自我修复能力：70%补偿亏损用户，20%资金用于新周期发展
 
 ### 韧性设计：如何在危机中保护参与者利益
 
@@ -108,17 +121,22 @@
 **风险分担机制**：
 
 1. **时间风险分担**：越晚参与承担的风险越小
- - 先锋奖奖励最后36个AS订单用户
+ - 先锋奖（10%）奖励最后36个AS订单用户
  - 体现"风险与收益对等"的公平原则
 
-2. **贡献风险分担**：贡献越大，损失越小
- - AS用户的15%收益率已经包含了系统性风险补偿
- - 高等级用户优先获得先锋奖和建设奖
+2. **损失补偿机制**：本周期亏损用户获得优先保护
+ - 70%资金专门用于补偿亏损用户
+ - 根据实际损失比例进行分配
+ - 确保"不让任何蚂蚁掉队"的承诺
 
 3. **网络价值保护**：最核心的资产（关系网络）完全保护
  - 部落关系永久保留
  - 用户ID和历史经验保留
  - 知识和声誉价值延续
+ 
+4. **新巢建设激励**：20%资金奖励新周期36军团成员
+ - 激励用户在新周期努力成为军团成员
+ - 为系统重启提供强大发展动力
 
 **数学建模验证**：
 
@@ -155,9 +173,11 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 **迁徙后的资源重配**：
 
-- 新巢建设奖：90%资金投入新周期发展
+- 损失补偿：70%资金用于补偿亏损用户，保护参与者利益
 
-- 先锋奖励：10%奖励坚持者，激励忠诚
+- 先锋奖励：10%奖励最后36位AS用户，激励忠诚
+
+- 新巢建设基金：20%资金奖励新周期36军团成员
 
 - 网络重构：基于历史网络，但激励更优化
 
@@ -169,7 +189,7 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 根据网络经济学理论，网络价值与活跃节点数的平方成正比。通过迁徙机制的"优胜劣汰"，新网络的质量显著提升。
 
-### 先锋奖与建设奖的风险分散
+### 迁徙资金分配的风险管理
 
 蚂蚁家园的迁徙奖励设计体现了现代风险管理理论的精髓：
 
@@ -179,11 +199,17 @@ L(t, c) = α × (T-t)/T - β × c/C
 2. **信号传递**：向市场传递"系统有能力保护参与者"的信号
 3. **道德激励**：鼓励在困难时期仍然坚持的行为
 
-**建设奖（90%）的设计智慧**：
+**损失补偿（70%）的保护机制**：
 
-1. **时间分散**：分4期发放，避免资金集中风险
-2. **绩效导向**：基于新周期的实际贡献分配，不是平均主义
-3. **激励最大化**：90%比例确保新周期有足够的发展动力
+1. **风险缓冲**：大幅减少亏损用户的实际损失
+2. **信任维护**：通过补偿机制维持社区信任和凝聚力
+3. **参与延续**：获得补偿的用户更愿意继续参与新周期
+
+**新巢建设基金（20%）的发展动力**：
+
+1. **军团激励**：奖励新周期做出贡献的36军团成员
+2. **竞争机制**：激发用户努力成为军团成员的动力
+3. **生态重建**：通过奖励核心贡献者推动系统快速发展
 
 **风险分散效果分析**：
 
@@ -195,11 +221,11 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 蚂蚁家园迁徙模式的风险分布：
 
-- 60%风险转化为未来收益（90%建设奖）
+- 70%风险由损失补偿机制缓解
 
-- 30%风险由系统承担（储备库剩余）
+- 20%风险转化为新周期发展机会
 
-- 10%风险由先锋奖补偿
+- 10%风险由先锋奖激励化解
 
 ### 对比分析：迁徙 vs 其他风险处理方式
 
@@ -323,22 +349,27 @@ contract MigrationDetector {
  // 计算迁徙奖励分配
  uint256 remainingFunds = health.reserveBalance;
  uint256 pioneerReward = remainingFunds * 10 / 100; // 10%先锋奖
- uint256 buildingReward = remainingFunds * 90 / 100; // 90%建设奖
+ uint256 lossCompensation = remainingFunds * 70 / 100; // 70%损失补偿
+ uint256 buildingFund = remainingFunds * 20 / 100; // 20%新巢建设基金
  
  // 记录迁徙事件
  emit MigrationTriggered(
  health.reserveBalance,
  health.dailyExpiredAmount,
  pioneerReward,
- buildingReward,
+ lossCompensation,
+ buildingFund,
  migrationStartTime
  );
  
  // 开始先锋奖分配流程
  _distributePioneerRewards(pioneerReward);
  
- // 锁定建设奖到多签钱包
- _lockBuildingRewards(buildingReward);
+ // 分配损失补偿
+ _distributeLossCompensation(lossCompensation);
+ 
+ // 锁定建设基金到多签钱包
+ _lockBuildingFund(buildingFund);
  }
 }
 ```
@@ -411,13 +442,19 @@ class MigrationProcessor {
  // 识别最后36个AS订单用户
  const pioneerUsers = await this.identifyPioneerUsers(snapshot);
  
- // 计算先锋奖分配
+ // 识别亏损用户
+ const lossUsers = await this.identifyLossUsers(snapshot);
+ 
+ // 计算先锋奖分配（10%）
  const pioneerRewardTotal = snapshot.reserveBalance * 0.1;
  const pioneerRewardPerUser = pioneerRewardTotal / pioneerUsers.length;
  
- // 计算建设奖分期
- const buildingRewardTotal = snapshot.reserveBalance * 0.9;
- const buildingRewardPhases = this.calculateBuildingRewardPhases(buildingRewardTotal);
+ // 计算损失补偿（70%）
+ const lossCompensationTotal = snapshot.reserveBalance * 0.7;
+ const lossCompensations = this.calculateLossCompensations(lossUsers, lossCompensationTotal);
+ 
+ // 计算新巢建设基金（20%）- 分配给新周期36军团成员
+ const buildingFundTotal = snapshot.reserveBalance * 0.2;
  
  return {
  pioneerRewards: pioneerUsers.map(user => ({
@@ -426,7 +463,8 @@ class MigrationProcessor {
  amount: pioneerRewardPerUser,
  orderId: user.lastOrderId
  })),
- buildingRewardPhases: buildingRewardPhases,
+ lossCompensations: lossCompensations,
+ buildingFund: buildingFundTotal,
  snapshot: snapshot
  };
  }
@@ -653,23 +691,15 @@ class SystemRestartManager {
  }
  }
  
- // 新周期建设奖发放调度
- async scheduleBuildingRewardDistribution() {
- const phases = [
- { week: 4, percentage: 10 }, // 第4周发放10%
- { week: 8, percentage: 20 }, // 第8周发放20%
- { week: 12, percentage: 30 }, // 第12周发放30%
- { week: 16, percentage: 40 } // 第16周发放40%
- ];
+ // 新周期建设基金分配
+ async distributeBuildingFund() {
+ // 20%的建设基金分配给新周期做出贡献的36军团成员
+ const legionMembers = await this.getTop36LegionMembers();
  
- for (let phase of phases) {
- const distributeTime = new Date(Date.now() + phase.week * 7 * 24 * 60 * 60 * 1000);
+ console.log('新巢建设基金将分配给新周期36军团成员');
  
- await this.scheduler.scheduleTask(distributeTime, async () => {
-
- await this.distributeBuildingRewardPhase(phase);
- });
- }
+ // 根据军团贡献度分配建设基金
+ await this.distributeToLegionMembers(legionMembers);
  }
 }
 ```
@@ -717,7 +747,8 @@ class MigrationMonitor {
  // 财务统计
  totalAssetsBeforeMigration: await this.getTotalAssetsSnapshot(),
  pioneerRewardDistributed: await this.getPioneerRewardTotal(),
- buildingRewardReserved: await this.getBuildingRewardTotal(),
+ lossCompensationDistributed: await this.getLossCompensationTotal(),
+ buildingFundReserved: await this.getBuildingFundTotal(),
  
  // 用户统计
  totalUsersBeforeMigration: await this.getUserCountSnapshot(),

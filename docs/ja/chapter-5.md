@@ -30,9 +30,11 @@
 
 まず、システムは崩壊していません。移住がトリガーされた時、準備金にはまだ大量の資金があり、これらの資金は公平に分配されます。
 
-次に、最後の36名のASエリートがパイオニア賞を受け取ります。これは彼らの勇気への認識です。
+次に、最後の36名のASエリートが先駆者賞（10%）を受け取ります。これは彼らの勇気への認識です。
 
-最後に、90%の資金が新巣建設賞として、新サイクルの優秀な建設者に4期に分けて支給されます。
+さらに、このサイクルで損失を受けたユーザーが損失補償（70%）を受け取り、誰も不公平な損失を負担することがありません。
+
+最後に、20%の資金が新巣建設基金として、新サイクルの優秀な建設者に4期に分けて支給されます。
 
 私たちの部族関係は永遠に変わらず、私たちのユーザーIDは永久に保持され、私たちの経験と知恵は無価の宝です。
 
@@ -46,7 +48,7 @@
 
 3日間のロック期間はすぐに過ぎた。新サイクルが開始された瞬間、アミンは奇跡を目撃した：
 
-新巣建設賞の巨大な魅力により、多数の優秀な建設者が流入した。これらの人々には既存のユーザーと、アリホームの「フェニックス涅槃」の物語に惹かれた新ユーザーの両方が含まれていた。彼らは新しい資金、新しいアイデア、新しい活力をもたらした。
+新巣建設基金と損失補償メカニズムの完璧な組み合わせにより、多数の優秀な建設者が流入した。損失補償により既存ユーザーの信頼が確保され、建設基金により新サイクルに十分な発展動力が提供された。これらの人々には既存のユーザーと、アリホームの「フェニックス涅槃」の物語に惹かれた新ユーザーの両方が含まれていた。彼らは新しい資金、新しいアイデア、新しい活力をもたらした。
 
 さらに重要なことは、部族関係ネットワークの完全な保持により、新サイクルの発展速度が第1サイクルをはるかに上回ったことだった。経験豊富な古いアリたちは迅速に新しい巨大なネットワークを構築し、新しく参加したアリたちは古いアリの指導の下で多くの回り道を避けることができた。
 
@@ -113,7 +115,7 @@
 
 2. **貢献リスク分担**：貢献が大きいほど損失が小さい
  - ASユーザーの15%収益率にはすでにシステミックリスク補償が含まれる
- - 高レベルユーザーがパイオニア賞と建設賞を優先獲得
+ - 高レベルユーザーが先駆者賞と建設基金を優先獲得
 
 3. **ネットワーク価値保護**：最核心資産（関係ネットワーク）完全保護
  - 部族関係永久保持
@@ -155,9 +157,11 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 **移住後の資源再配分**：
 
-- 新巣建設賞：90%資金を新サイクル発展に投入
+- 先駆者賞：10%で堅持者に報酬、忠誠心を激励
 
-- パイオニア報酬：10%で堅持者に報酬、忠誠心を激励
+- 損失補償：70%で被害者を救済、公平性を保証
+
+- 新巣建設基金：20%資金を新サイクル発展に投入
 
 - ネットワーク再構築：履歴ネットワークベース、但しインセンティブ最適化
 
@@ -169,21 +173,27 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 ネットワーク経済学理論によると、ネットワーク価値は活跃ノード数の二乗に比例する。移住メカニズムの「優勝劣汰」により、新ネットワークの品質が大幅向上する。
 
-### パイオニア賞と建設賞のリスク分散
+### 先駆者賞・損失補償・建設基金のリスク分散
 
 アリホームの移住報酬設計は現代リスク管理理論の精髄を体現している：
 
-**パイオニア賞（10%）の経済学意義**：
+**先駆者賞（10%）の経済学意義**：
 
 1. **逆インセンティブ**：リスク回避者ではなくリスク負担者に報酬
 2. **シグナル伝達**：市場に「システムが参加者を保護する能力がある」シグナルを伝達
 3. **道徳インセンティブ**：困難時期でも堅持する行動を奨励
 
-**建設賞（90%）の設計知恵**：
+**損失補償（70%）の保護メカニズム**：
+
+1. **公平保護**：移住によって損失を受けたすべてのユーザーを保護
+2. **信頼維持**：システムが参加者を見捨てないことを実証
+3. **持続発展**：補償により新サイクルへの信頼基盤を築く
+
+**新巣建設基金（20%）の設計知恵**：
 
 1. **時間分散**：4期分割支給、資金集中リスク回避
 2. **パフォーマンス指向**：新サイクルの実際貢献に基づく分配、平均主義ではない
-3. **インセンティブ最大化**：90%比率で新サイクルに十分な発展動力を確保
+3. **効率最大化**：適度な比率で新サイクルに必要な発展動力を確保
 
 **リスク分散効果分析**：
 
@@ -195,11 +205,11 @@ L(t, c) = α × (T-t)/T - β × c/C
 
 アリホーム移住モデルのリスク分布：
 
-- 60%リスクを将来収益に転換（90%建設賞）
+- 70%リスクを損失補償で救済
 
-- 30%リスクをシステムが負担（準備金余剰）
+- 20%リスクを将来収益に転換（建設基金）
 
-- 10%リスクをパイオニア賞で補償
+- 10%リスクを先駆者賞で報酬
 
 ### 比較分析：移住 vs その他リスク処理方式
 
@@ -322,8 +332,9 @@ contract MigrationDetector {
  
  // 移住報酬分配計算
  uint256 remainingFunds = health.reserveBalance;
- uint256 pioneerReward = remainingFunds * 10 / 100; // 10%パイオニア賞
- uint256 buildingReward = remainingFunds * 90 / 100; // 90%建設賞
+ uint256 pioneerReward = remainingFunds * 10 / 100; // 10%先駆者賞
+ uint256 lossCompensation = remainingFunds * 70 / 100; // 70%損失補償
+ uint256 buildingFund = remainingFunds * 20 / 100; // 20%建設基金
  
  // 移住イベント記録
  emit MigrationTriggered(
@@ -334,11 +345,14 @@ contract MigrationDetector {
  migrationStartTime
  );
  
- // パイオニア賞分配プロセス開始
+ // 先駆者賞分配プロセス開始
  _distributePioneerRewards(pioneerReward);
  
- // 建設賞をマルチシグウォレットにロック
- _lockBuildingRewards(buildingReward);
+ // 損失補償分配プロセス開始
+ _distributeLossCompensation(lossCompensation);
+ 
+ // 建設基金をマルチシグウォレットにロック
+ _lockBuildingFund(buildingFund);
  }
 }
 ```
@@ -411,22 +425,26 @@ class MigrationProcessor {
  // 最後36AS注文ユーザー識別
  const pioneerUsers = await this.identifyPioneerUsers(snapshot);
  
- // パイオニア賞分配計算
+ // 先駆者賞分配計算
  const pioneerRewardTotal = snapshot.reserveBalance * 0.1;
  const pioneerRewardPerUser = pioneerRewardTotal / pioneerUsers.length;
  
- // 建設賞段階計算
- const buildingRewardTotal = snapshot.reserveBalance * 0.9;
- const buildingRewardPhases = this.calculateBuildingRewardPhases(buildingRewardTotal);
+ // 損失補償計算
+ const lossCompensationTotal = snapshot.reserveBalance * 0.7;
+ const compensationDistribution = this.calculateLossCompensation(snapshot, lossCompensationTotal);
+ 
+ // 建設基金段階計算
+ const buildingFundTotal = snapshot.reserveBalance * 0.2;
+ const buildingFundPhases = this.calculateBuildingFundPhases(buildingFundTotal);
  
  return {
  pioneerRewards: pioneerUsers.map(user => ({
-
  address: user.address,
  amount: pioneerRewardPerUser,
  orderId: user.lastOrderId
  })),
- buildingRewardPhases: buildingRewardPhases,
+ lossCompensation: compensationDistribution,
+ buildingFundPhases: buildingFundPhases,
  snapshot: snapshot
  };
  }
@@ -653,8 +671,8 @@ class SystemRestartManager {
  }
  }
  
- // 新サイクル建設賞配布スケジュール
- async scheduleBuildingRewardDistribution() {
+ // 新サイクル建設基金配布スケジュール
+ async scheduleBuildingFundDistribution() {
  const phases = [
  { week: 4, percentage: 10 }, // 第4週10%配布
  { week: 8, percentage: 20 }, // 第8週20%配布
@@ -666,8 +684,7 @@ class SystemRestartManager {
  const distributeTime = new Date(Date.now() + phase.week * 7 * 24 * 60 * 60 * 1000);
  
  await this.scheduler.scheduleTask(distributeTime, async () => {
-
- await this.distributeBuildingRewardPhase(phase);
+ await this.distributeBuildingFundPhase(phase);
  });
  }
  }
@@ -742,7 +759,7 @@ class MigrationMonitor {
 
 1. **自動化実行**：移住プロセス全体が自動的にトリガー・実行され、人工介入不要
 2. **データセキュリティ**：核心資産（関係ネットワーク）完全保護、一時状態正しくリセット
-3. **公平分配**：パイオニア賞と建設賞の分配は完全に客観データとスマートコントラクトに基づく
+3. **公平分配**：先駆者賞・損失補償・建設基金の分配は完全に客観データとスマートコントラクトに基づく
 4. **透明性・検証可能性**：全移住プロセスがチェーン上記録、誰でも検証可能
 
 アミンが移住で体験したように、これは単なる技術的再起動ではなく、生態系の進化と昇華である。すべてのコード行がこの永続哲学の実現を守護している——危機を新生の出発点とし、終わりをより輝かしい始まりの序曲とする。

@@ -10,7 +10,12 @@ The answer to this question came faster than he had imagined.
 
 It was an ordinary Wednesday morning. Amin was checking his earnings statistics as usual when he suddenly discovered a special system notification:
 
-"The system has detected that the home reserve funds are insufficient to pay today's matured orders. According to Article 7 of the Eternal Contract, the ant colony migration mechanism will automatically activate. Migration completion countdown: 3 days."
+"The system has detected that the home reserve funds are insufficient to pay today's matured orders. According to Article 7 of the Eternal Contract, the ant colony migration mechanism will automatically activate. Migration completion countdown: 3 days.
+
+Migration fund distribution plan:
+• 10% distributed to the last 36 AS order users (Pioneer Award)
+• 70% compensates users with losses in this cycle
+• 20% enters the new nest construction fund"
 
 Amin's heart suddenly tightened. Migration! He had seen this word in the white paper, but never thought he would actually experience it. What did this mean? Did it mean that everything existing would have to start over?
 
@@ -30,9 +35,11 @@ Old Ant, the legendary figure ranked first in the legion, sent a long message in
 
 First, the system has not collapsed. When migration is triggered, there are still substantial funds in the reserve, and these funds will be fairly distributed.
 
-Second, the last 36 AS elites will receive pioneer awards, which is recognition of their courage.
+Second, the last 36 AS elites will receive pioneer awards (10%), which is recognition of their courage.
 
-Finally, 90% of the funds will serve as new nest construction awards, distributed in 4 phases to outstanding builders in the new cycle.
+More importantly, 70% of the funds will be used to compensate users who didn't profit in this cycle, ensuring everyone receives protection.
+
+Finally, 20% of the funds will serve as the new nest construction fund, awarded to 36 legion members contributing in the new cycle.
 
 Our tribal relationships will never change, our user IDs will be permanently retained, and our experience and wisdom are invaluable treasures.
 
@@ -42,11 +49,17 @@ After reading Old Ant's message, Amin felt a strange emotion welling up in his h
 
 In the traditional business world, when crises come, the strong often flee while the weak bear the losses. But in the Ant Home, crisis becomes the beginning of new opportunities. Those AS elites who persisted until the end received generous pioneer awards; while all participants' relationship networks were completely preserved, laying a solid foundation for the development of the new cycle.
 
-What moved Amin even more was the performance of the ants during migration. No one blamed, no one complained, everyone was actively preparing for the arrival of the new cycle. Many old ants voluntarily shared experiences to help new ants understand the migration mechanism; tribal leaders began planning development strategies for the new cycle; even those potential participants who had previously held a wait-and-see attitude began to pay attention to this ecosystem about to be reborn.
+What moved Amin even more was the performance of the ants during migration. No one blamed, no one complained, everyone was actively preparing for the arrival of the new cycle.
+
+Those users who suffered losses in this cycle saw the system's protection for them—70% compensation funds greatly alleviated their losses. This philosophy of "leaving no ant behind" made the entire community more united.
+
+Many old ants voluntarily shared experiences to help new ants understand the migration mechanism; tribal leaders began planning development strategies for the new cycle; even those potential participants who had previously held a wait-and-see attitude were attracted by this protection mechanism and began to pay attention to this ecosystem about to be reborn.
 
 The three-day lockdown period passed quickly. When the new cycle opened, Amin witnessed a miracle:
 
-The huge attraction of the new nest construction award brought in numerous outstanding builders. Among these people were both old users and new users attracted by the Ant Home's "phoenix nirvana" story. They brought new funds, new ideas, and new vitality.
+The 20% new nest construction fund would be awarded to 36 legion members in the new cycle, attracting numerous outstanding builders to strive for entering the legion. More importantly, those users who received 70% compensation, because their losses were protected, many chose to continue participating in the new cycle, becoming the backbone of the new ecosystem.
+
+Among these people were both old users who regained confidence after receiving compensation, and new users attracted by Ant Home's philosophy of "protecting every participant." They brought new funds, new ideas, and new vitality.
 
 More importantly, due to the complete preservation of tribal relationship networks, the development speed of the new cycle far exceeded that of the first cycle. Those experienced old ants quickly established new massive networks; those newly joined ants, under the guidance of old ants, avoided many detours.
 

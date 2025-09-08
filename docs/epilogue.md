@@ -57,8 +57,9 @@ But the Ant Colony answers this question in the wisest way: **The Colony Migrati
 
 When the system faces insurmountable difficulties, it will not collapse to zero like other projects, leaving participants with total losses. Instead, it will activate the migration mechanism, ensuring:
 
-- The last persisting warriors receive pioneer rewards
-- 90% of funds are used for new cycle development
+- The last persisting warriors receive pioneer rewards (10%)
+- Users with losses receive loss compensation (70%)
+- 36 legion members in new cycle receive construction fund (20%)
 - All relationship networks are completely preserved
 - Everyone's efforts have value inheritance
 

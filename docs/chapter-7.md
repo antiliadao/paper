@@ -28,8 +28,9 @@ Returning home, Amin re-examined every rule and parameter of Ant Colony. He disc
 
 What moved Amin most was the design of the migration mechanism. In most traditional projects, when systems face difficulties, ordinary participants often bear all losses while managers can escape unscathed. But in Ant Colony, the migration mechanism ensured that even in the most difficult times, the system would still protect every participant:
 
-- Pioneer rewards for those brave warriors who persist in darkness
-- Construction rewards provide sufficient funds for new cycle development
+- Pioneer awards (10%) reward those brave warriors who persist in darkness
+- Loss compensation (70%) significantly reduces actual losses for users with losses
+- Construction fund (20%) rewards 36 legion members in new cycle, driving system reconstruction
 - Complete preservation of tribe relationships ensures network value won't disappear
 - Permanent preservation of user IDs maintains everyone's digital identity
 
