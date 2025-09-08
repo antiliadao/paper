@@ -232,6 +232,16 @@ export default {
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/paper/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/paper/logo.png' }],
     ['meta', { name: 'theme-color', content: '#059669' }],
+
+     // Google Analytics - 正确格式
+  ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-8Y8ZW551DQ' }],
+  ['script', {}, `
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8Y8ZW551DQ');
+  `],
+  
     ['script', {}, `
       (function() {
         const stored = localStorage.getItem('vitepress-theme-appearance');
